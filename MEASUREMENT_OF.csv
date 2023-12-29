@@ -1,0 +1,1045 @@
+PREDICATE,SUBJECT_CUI,SUBJECT_NAME,SUBJECT_SEMTYPE,OBJECT_CUI,OBJECT_NAME,OBJECT_SEMTYPE,Database
+MEASUREMENT_OF,C1547011,Aspect,qnco,C0231484,Muscle function,ortf,PubMed
+MEASUREMENT_OF,C0079305,Estimation Techniques,qnco,C0242979,Muscle Fatigue,ortf,PubMed
+MEASUREMENT_OF,C0027616,Neonatal Mortality,qnco,C0018270,Growth,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0025962,Microcirculation,ortf,PubMed
+MEASUREMENT_OF,C1533148,Case unit dose,qnco,C0543482,morphological,spco,PubMed
+MEASUREMENT_OF,C0032659,geographic population,qnco,C0599894,targeting,celf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0032529,"Polymorphism, Genetic",genf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0014274,Energy Transfer,moft,PubMed
+MEASUREMENT_OF,C1514721,Range,qnco,C0337049,Lake,geoa,PubMed
+MEASUREMENT_OF,C0439185,Eq,qnco,C0348016,Intravenous,spco,PubMed
+MEASUREMENT_OF,C0439185,Eq,qnco,C0442027,Oral,spco,PubMed
+MEASUREMENT_OF,C1514721,Range,qnco,C0015219,Evolution,genf,PubMed
+MEASUREMENT_OF,C0043100,Weight,qnco,C0017654,Glomerular Filtration Rate,ortf,PubMed
+MEASUREMENT_OF,C1533148,Case unit dose,qnco,C0017654,Glomerular Filtration Rate,ortf,PubMed
+MEASUREMENT_OF,C0043100,Weight,qnco,C0456389,size,spco,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0233896,Sexual Development,orgf,PubMed
+MEASUREMENT_OF,C0700321,Small,qnco,C0232786,Pancreatic function,ortf,PubMed
+MEASUREMENT_OF,C1547011,Aspect,qnco,C0031715,Phosphorylation,moft,PubMed
+MEASUREMENT_OF,C0556979,g/month,qnco,C0441635,Anatomical segmentation,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0302600,Angiogenesis,ortf,PubMed
+MEASUREMENT_OF,C0596244,Cancer Risk,qnco,C0205284,Marginal,spco,PubMed
+MEASUREMENT_OF,C0205388,Few,qnco,C0449774,Patterns,spco,PubMed
+MEASUREMENT_OF,C0449468,Volume,qnco,C0232164,Cardiac function,ortf,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C0449774,Patterns,spco,PubMed
+MEASUREMENT_OF,C0205448,Two,qnco,C0872079,Protein-Protein Interaction,moft,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0205127,Longitudinal,spco,PubMed
+MEASUREMENT_OF,C0489786,Height,orga,C0018270,Growth,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0678594,Structure,spco,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0232338,Blood flow,orgf,PubMed
+MEASUREMENT_OF,C0032659,geographic population,qnco,C0015895,Fertility,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0007620,Cell Survival,celf,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0037313,Sleep,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0870921,Motor Performance,orgf,PubMed
+MEASUREMENT_OF,C0439534,Dimensions,qnco,C0450363,Three-dimensional,spco,PubMed
+MEASUREMENT_OF,C0871261,response,clna,C0302600,Angiogenesis,ortf,PubMed
+MEASUREMENT_OF,C0036866,Sex Characteristics,orga,C0870921,Motor Performance,orgf,PubMed
+MEASUREMENT_OF,C0439148,Unit,qnco,C0870882,Metabolic Rates,phsf,PubMed
+MEASUREMENT_OF,C0449468,Volume,qnco,C0456389,size,spco,PubMed
+MEASUREMENT_OF,C0439148,Unit,qnco,C0562214,Colposcopic,spco,PubMed
+MEASUREMENT_OF,C1514721,Range,qnco,C0678594,Structure,spco,PubMed
+MEASUREMENT_OF,C1514474,Prognostic Factor,clna,C0232741,Liver function,ortf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0018899,Hemadsorption,celf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0277847,Flexion spinal defense reflex,orgf,PubMed
+MEASUREMENT_OF,C0205448,Two,qnco,C0205099,Central,spco,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0332479,Shapes,spco,PubMed
+MEASUREMENT_OF,C0032659,geographic population,qnco,C0205132,Linear,spco,PubMed
+MEASUREMENT_OF,C0449820,Score,qnco,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C0243132,occurrence,qnco,C0011065,Cessation of life,orgf,PubMed
+MEASUREMENT_OF,C0449820,Score,qnco,C0205127,Longitudinal,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0205125,Depth,spco,PubMed
+MEASUREMENT_OF,C1514721,Range,qnco,C0543482,morphological,spco,PubMed
+MEASUREMENT_OF,C1610540,Kind of quantity - Ratios,qnco,C0450429,Location,spco,PubMed
+MEASUREMENT_OF,C0439534,Dimensions,qnco,C0205127,Longitudinal,spco,PubMed
+MEASUREMENT_OF,C0005508,Biological Availability,qnco,C0311432,Bioaccumulation,ortf,PubMed
+MEASUREMENT_OF,C0150312,Present,qnco,C0449774,Patterns,spco,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0205246,Generalized,spco,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0205276,Local,spco,PubMed
+MEASUREMENT_OF,C0036835,Serum Total Iron-Binding Capacity result,lbtr,C0006675,Calcium,bacs,PubMed
+MEASUREMENT_OF,C0439185,Eq,qnco,C1160340,brain development,ortf,PubMed
+MEASUREMENT_OF,C0205456,Ten,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C0085732,Ability,orga,C0015283,Exocytosis,celf,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0205203,Crossed,spco,PubMed
+MEASUREMENT_OF,C0205549,Series,qnco,C0442027,Oral,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0597879,Immunoreactivity,moft,PubMed
+MEASUREMENT_OF,C0439534,Dimensions,qnco,C0205128,Vertical,spco,PubMed
+MEASUREMENT_OF,C0439534,Dimensions,qnco,C0037775,Spatial Distribution,spco,PubMed
+MEASUREMENT_OF,C0039476,Temperature,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C0439237,degrees Celsius,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C0456628,Degrees fahrenheit,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C0012000,Diastole,clna,C0078995,"Atrial Function, Left",ortf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0205246,Generalized,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0205276,Local,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0205147,Region,spco,PubMed
+MEASUREMENT_OF,C0001779,Age,orga,C0031843,physiological aspects,phsf,PubMed
+MEASUREMENT_OF,C0079399,Gender,orga,C0031843,physiological aspects,phsf,PubMed
+MEASUREMENT_OF,C1547011,Aspect,qnco,C0042569,Vertical Dimension,spco,PubMed
+MEASUREMENT_OF,C1301886,Caliber,qnco,C0449453,Lesion size,spco,PubMed
+MEASUREMENT_OF,C1533148,Case unit dose,qnco,C0205143,Angular,spco,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0205122,Segmental,spco,PubMed
+MEASUREMENT_OF,C1516240,Capacity,qnco,C0232338,Blood flow,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0025519,Metabolism,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0035245,Respiratory physiology,ortf,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0015216,Somatosensory Evoked Potentials,ortf,PubMed
+MEASUREMENT_OF,C1533148,Case unit dose,qnco,C0205284,Marginal,spco,PubMed
+MEASUREMENT_OF,C0021149,Incidence,qnco,C0205284,Marginal,spco,PubMed
+MEASUREMENT_OF,C1547011,Aspect,qnco,C0014653,Equilibrium,orgf,PubMed
+MEASUREMENT_OF,C0449820,Score,qnco,C0205123,Coronal,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0439792,Extent,spco,PubMed
+MEASUREMENT_OF,C0034925,Reference Standards,qnco,C0232164,Cardiac function,ortf,PubMed
+MEASUREMENT_OF,C0728938,Partial,qnco,C0205148,Surface,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0260026,motor ability,orgf,PubMed
+MEASUREMENT_OF,C1516240,Capacity,qnco,C1148564,antioxidant activity,moft,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0162579,Workplace,spco,PubMed
+MEASUREMENT_OF,C0439185,Eq,qnco,C0205145,Site,spco,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C0205146,Area,spco,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0205284,Marginal,spco,PubMed
+MEASUREMENT_OF,C0037791,Specificity,qnco,C0205234,Focal,spco,PubMed
+MEASUREMENT_OF,C1510992,Average,qnco,C0205234,Focal,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C1515655,in vivo,spco,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0872139,cross reactivity,moft,PubMed
+MEASUREMENT_OF,C1517378,Gain,qnco,C0221912,Cutaneous,spco,PubMed
+MEASUREMENT_OF,C0428857,Myocardial perfusion,orga,C0027045,Myocardial Contraction,ortf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C1326471,Protein Import,celf,PubMed
+MEASUREMENT_OF,C1516240,Capacity,qnco,C0017127,Gastric Emptying,ortf,PubMed
+MEASUREMENT_OF,C0475209,meter,qnco,C0733755,Positioning Attribute,spco,PubMed
+MEASUREMENT_OF,C0439148,Unit,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C0205455,Nine,qnco,C0232338,Blood flow,orgf,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0232827,Urinary concentration,ortf,PubMed
+MEASUREMENT_OF,C1264651,Number concentration,qnco,C0233929,Emission,orgf,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0205147,Region,spco,PubMed
+MEASUREMENT_OF,C0449820,Score,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C1522786,pollination,orgf,PubMed
+MEASUREMENT_OF,C1516240,Capacity,qnco,C0009462,Community,geoa,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0682624,Sinusoid,bsoj,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0870882,Metabolic Rates,phsf,PubMed
+MEASUREMENT_OF,C1264641,Percentile,qnco,C0018270,Growth,orgf,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C0086982,Signal Transduction Pathways,celf,PubMed
+MEASUREMENT_OF,C0085801,"Analysis, Factor",qnco,C0205145,Site,spco,PubMed
+MEASUREMENT_OF,C0034980,Regression Analysis,qnco,C0018270,Growth,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0205145,Site,spco,PubMed
+MEASUREMENT_OF,C1264633,Fraction of,qnco,C0018270,Growth,orgf,PubMed
+MEASUREMENT_OF,C0806140,Flow,orga,C0080311,"Ventricular Function, Right",ortf,PubMed
+MEASUREMENT_OF,C0205449,Three,qnco,C0456389,size,spco,PubMed
+MEASUREMENT_OF,C1547011,Aspect,qnco,C0022742,Knee,blor,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0205146,Area,spco,PubMed
+MEASUREMENT_OF,C0449820,Score,qnco,C0026861,Musculoskeletal Physiology,ortf,PubMed
+MEASUREMENT_OF,C1514721,Range,qnco,C0332464,Widening,spco,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0599894,targeting,celf,PubMed
+MEASUREMENT_OF,C0814630,economic availability or accessibility,qnco,C1167622,Binding (Molecular Function),moft,PubMed
+MEASUREMENT_OF,C0871261,response,clna,C0017654,Glomerular Filtration Rate,ortf,PubMed
+MEASUREMENT_OF,C1547011,Aspect,qnco,C0205127,Longitudinal,spco,PubMed
+MEASUREMENT_OF,C0439185,Eq,qnco,C0037269,Skin Absorption,ortf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0011065,Cessation of life,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0449774,Patterns,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0243144,uptake,phsf,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0019010,Hemodynamics,ortf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0040210,Tidal Volume,ortf,PubMed
+MEASUREMENT_OF,C1516240,Capacity,qnco,C0521324,Skeletal,spco,PubMed
+MEASUREMENT_OF,C0449468,Volume,qnco,C0543482,morphological,spco,PubMed
+MEASUREMENT_OF,C1306372,"Mass, a measure of quantity of matter",qnco,C0543482,morphological,spco,PubMed
+MEASUREMENT_OF,C0449820,Score,qnco,C0205148,Surface,spco,PubMed
+MEASUREMENT_OF,C0681889,rating scale,qnco,C0031843,physiological aspects,phsf,PubMed
+MEASUREMENT_OF,C0449820,Score,qnco,C0023216,Lower Extremity,blor,PubMed
+MEASUREMENT_OF,C0085801,"Analysis, Factor",qnco,C0009462,Community,geoa,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C0599855,neurodevelopment,ortf,PubMed
+MEASUREMENT_OF,C1547011,Aspect,qnco,C0022130,Islands,geoa,PubMed
+MEASUREMENT_OF,C0549177,Large,qnco,C0449445,Approach,spco,PubMed
+MEASUREMENT_OF,C0021149,Incidence,qnco,C0027530,Neck,blor,PubMed
+MEASUREMENT_OF,C0032665,Population Density,qnco,C1160466,conjugation,celf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0543482,morphological,spco,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0205284,Marginal,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0597252,plant growth/development,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0019010,Hemodynamics,ortf,PubMed
+MEASUREMENT_OF,C1547011,Aspect,qnco,C0678594,Structure,spco,PubMed
+MEASUREMENT_OF,C1514721,Range,qnco,C0080311,"Ventricular Function, Right",ortf,PubMed
+MEASUREMENT_OF,C0035648,risk factors,qnco,C0442025,Muscular,spco,PubMed
+MEASUREMENT_OF,C0205449,Three,qnco,C0205123,Coronal,spco,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0014653,Equilibrium,orgf,PubMed
+MEASUREMENT_OF,C1261273,Karyotype,orga,C0599855,neurodevelopment,ortf,PubMed
+MEASUREMENT_OF,C0347980,% uptake,qnco,C1515655,in vivo,spco,PubMed
+MEASUREMENT_OF,C0150312,Present,qnco,C0035203,Respiration,phsf,PubMed
+MEASUREMENT_OF,C0086749,Outcome Measures,qnco,C0031843,physiological aspects,phsf,PubMed
+MEASUREMENT_OF,C0035648,risk factors,qnco,C0549193,Parameter,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0018270,Growth,orgf,PubMed
+MEASUREMENT_OF,C0026777,Multivariate Analysis,qnco,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C0443228,Largest,qnco,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C0033204,Probability,qnco,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C0806140,Flow,orga,C0080310,"Ventricular Function, Left",ortf,PubMed
+MEASUREMENT_OF,C0439534,Dimensions,qnco,C0042939,Voice,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0034965,Regional Blood Flow,ortf,PubMed
+MEASUREMENT_OF,C1522484,metastatic qualifier,qnco,C0449445,Approach,spco,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0205146,Area,spco,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0450363,Three-dimensional,spco,PubMed
+MEASUREMENT_OF,C1522484,metastatic qualifier,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C0871261,response,clna,C0018767,Hearing,phsf,PubMed
+MEASUREMENT_OF,C1306372,"Mass, a measure of quantity of matter",qnco,C0332516,Symmetry,spco,PubMed
+MEASUREMENT_OF,C0456148,Null,qnco,C0205103,Intermediate,spco,PubMed
+MEASUREMENT_OF,C0150312,Present,qnco,C0205146,Area,spco,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0232804,Renal function,ortf,PubMed
+MEASUREMENT_OF,C0005938,Bone Density,lbtr,C0231542,Bone function,ortf,PubMed
+MEASUREMENT_OF,C1547053,*Velocity,qnco,C0599949,arterial stiffness,phsf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0031308,Phagocytosis,celf,PubMed
+MEASUREMENT_OF,C1516240,Capacity,qnco,C0205145,Site,spco,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0033625,Protein Conformation,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0017262,Gene Expression,genf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0243102,enzyme activity,moft,PubMed
+MEASUREMENT_OF,C0683325,clinical aspects,clna,C0026687,Mucociliary Clearance,ortf,PubMed
+MEASUREMENT_OF,C1514721,Range,qnco,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0442040,Salivary,spco,PubMed
+MEASUREMENT_OF,C0518014,Hematocrit level,lbtr,C0229671,Serum,bdsu,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C0205147,Region,spco,PubMed
+MEASUREMENT_OF,C0032659,geographic population,qnco,C0237096,residence,spco,PubMed
+MEASUREMENT_OF,C1261430,Fasting blood sugar result,lbtr,C0007613,Cell physiology,celf,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C0205103,Intermediate,spco,PubMed
+MEASUREMENT_OF,C0205454,Eight,qnco,C0231481,Active movement,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0086032,Color Vision,orgf,PubMed
+MEASUREMENT_OF,C0449820,Score,qnco,C0080310,"Ventricular Function, Left",ortf,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0020987,Immunocompetence,celf,PubMed
+MEASUREMENT_OF,C1306372,"Mass, a measure of quantity of matter",qnco,C0162638,Apoptosis,celf,PubMed
+MEASUREMENT_OF,C0232021,Maximum inspiratory pressure,lbtr,C0242979,Muscle Fatigue,ortf,PubMed
+MEASUREMENT_OF,C1514721,Range,qnco,C1286104,Dietary intake,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0232524,Swallowing reflex,ortf,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C0205246,Generalized,spco,PubMed
+MEASUREMENT_OF,C0941235,Pancreatic tests,lbtr,C0232786,Pancreatic function,ortf,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C1305865,Blood - brain barrier function,ortf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C1514527,Protein-Carbohydrate Interaction,moft,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0221102,Excretory function,phsf,PubMed
+MEASUREMENT_OF,C0031437,Phenotype,orga,C1516369,Cellular Infiltration,celf,PubMed
+MEASUREMENT_OF,C0449820,Score,qnco,C0022745,Knee joint,bsoj,PubMed
+MEASUREMENT_OF,C0033204,Probability,qnco,C0042537,Vermont,geoa,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0037848,Sperm Motility,celf,PubMed
+MEASUREMENT_OF,C0449468,Volume,qnco,C0205091,Left,spco,PubMed
+MEASUREMENT_OF,C0871261,response,clna,C0232164,Cardiac function,ortf,PubMed
+MEASUREMENT_OF,C1515051,Sum,qnco,C0205134,Curved,spco,PubMed
+MEASUREMENT_OF,C0205451,Five,qnco,C0475445,Tumor site,spco,PubMed
+MEASUREMENT_OF,C0023965,Logistic Models,qnco,C0205123,Coronal,spco,PubMed
+MEASUREMENT_OF,C0036668,Sensitivity and Specificity,qnco,C0332463,Narrowed structure,spco,PubMed
+MEASUREMENT_OF,C0678756,drug concentration,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C1442488,BASELINE,qnco,C0080310,"Ventricular Function, Left",ortf,PubMed
+MEASUREMENT_OF,C0034925,Reference Standards,qnco,C0205143,Angular,spco,PubMed
+MEASUREMENT_OF,C0032659,geographic population,qnco,C0018270,Growth,orgf,PubMed
+MEASUREMENT_OF,C1547053,*Velocity,qnco,C0007179,Cardiac Volume,orgf,PubMed
+MEASUREMENT_OF,C0456179,Left ventricular pressure,lbtr,C0232164,Cardiac function,ortf,PubMed
+MEASUREMENT_OF,C0814225,Benefits,qnco,C0232741,Liver function,ortf,PubMed
+MEASUREMENT_OF,C0449468,Volume,qnco,C0224497,Articular space,bsoj,PubMed
+MEASUREMENT_OF,C0487742,Width,qnco,C0224497,Articular space,bsoj,PubMed
+MEASUREMENT_OF,C0456180,Aortic pressure,lbtr,C0234204,Baroreceptor function,ortf,PubMed
+MEASUREMENT_OF,C0013682,Efficiency,qnco,C0006159,Breeding,orgf,PubMed
+MEASUREMENT_OF,C0005612,Birth Weight,orga,C0743925,Fetal Growth,phsf,PubMed
+MEASUREMENT_OF,C0751992,Fetal Weight,orga,C0743925,Fetal Growth,phsf,PubMed
+MEASUREMENT_OF,C0085732,Ability,orga,C0014653,Equilibrium,orgf,PubMed
+MEASUREMENT_OF,C1514721,Range,qnco,C0008810,Circadian Rhythms,orgf,PubMed
+MEASUREMENT_OF,C0013682,Efficiency,qnco,C0449445,Approach,spco,PubMed
+MEASUREMENT_OF,C0010181,Cost Effectiveness,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0733755,Positioning Attribute,spco,PubMed
+MEASUREMENT_OF,C0012751,Distance,qnco,C0014653,Equilibrium,orgf,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0278092,Sexual function,orgf,PubMed
+MEASUREMENT_OF,C1533148,Case unit dose,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C0032659,geographic population,qnco,C0205147,Region,spco,PubMed
+MEASUREMENT_OF,C0039476,Temperature,qnco,C0678594,Structure,spco,PubMed
+MEASUREMENT_OF,C1514721,Range,qnco,C0023216,Lower Extremity,blor,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0232804,Renal function,ortf,PubMed
+MEASUREMENT_OF,C0439534,Dimensions,qnco,C0232804,Renal function,ortf,PubMed
+MEASUREMENT_OF,C0013682,Efficiency,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C1514468,product,qnco,C0678594,Structure,spco,PubMed
+MEASUREMENT_OF,C0347980,% uptake,qnco,C0678594,Structure,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0043240,Wound Healing,orgf,PubMed
+MEASUREMENT_OF,C1547053,*Velocity,qnco,C0019868,Homeostasis,orgf,PubMed
+MEASUREMENT_OF,C0814225,Benefits,qnco,C0449445,Approach,spco,PubMed
+MEASUREMENT_OF,C0871261,response,clna,C0015895,Fertility,orgf,PubMed
+MEASUREMENT_OF,C0683150,plasma drug concentration,qnco,C0232338,Blood flow,orgf,PubMed
+MEASUREMENT_OF,C0449820,Score,qnco,C0031843,physiological aspects,phsf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0017654,Glomerular Filtration Rate,ortf,PubMed
+MEASUREMENT_OF,C0439534,Dimensions,qnco,C0031843,physiological aspects,phsf,PubMed
+MEASUREMENT_OF,C0917711,MRI Scans,qnco,C0022742,Knee,blor,PubMed
+MEASUREMENT_OF,C0033522,Prospective Studies,qnco,C0205145,Site,spco,PubMed
+MEASUREMENT_OF,C1305855,Body mass index,clna,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0813988,autophosphorylation,moft,PubMed
+MEASUREMENT_OF,C0005884,Body Burden,qnco,C0205102,Intrinsic,spco,PubMed
+MEASUREMENT_OF,C0314657,Genetic Predisposition to Disease,orga,C0333953,Involution,orgf,PubMed
+MEASUREMENT_OF,C0871420,Standard deviation,qnco,C0443299,Separate,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0332479,Shapes,spco,PubMed
+MEASUREMENT_OF,C0036835,Serum Total Iron-Binding Capacity result,lbtr,C0302583,Iron,bacs,PubMed
+MEASUREMENT_OF,C0001779,Age,orga,C0019868,Homeostasis,orgf,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C1157894,DNA catabolism,genf,PubMed
+MEASUREMENT_OF,C0871261,response,clna,C0678908,brain function,ortf,PubMed
+MEASUREMENT_OF,C0205451,Five,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C0439165,Percent (qualifier value),qnco,C0037313,Sleep,orgf,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0007620,Cell Survival,celf,PubMed
+MEASUREMENT_OF,C0205257,Incomplete,qnco,C0332464,Widening,spco,PubMed
+MEASUREMENT_OF,C0806140,Flow,orga,C0035230,Respiratory Mechanics,ortf,PubMed
+MEASUREMENT_OF,C0552389,CROSS SECTION,orga,C0232804,Renal function,ortf,PubMed
+MEASUREMENT_OF,C0449820,Score,qnco,C0205124,Superficial,spco,PubMed
+MEASUREMENT_OF,C0560132,sievert,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0021516,nerve supply,ortf,PubMed
+MEASUREMENT_OF,C0700321,Small,qnco,C0031843,physiological aspects,phsf,PubMed
+MEASUREMENT_OF,C0814630,economic availability or accessibility,qnco,C0006409,Burkina Faso,geoa,PubMed
+MEASUREMENT_OF,C0018810,heart rate,orga,C0206162,Baroreflex,ortf,PubMed
+MEASUREMENT_OF,C1533148,Case unit dose,qnco,C0439792,Extent,spco,PubMed
+MEASUREMENT_OF,C1306372,"Mass, a measure of quantity of matter",qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0234194,Nociception,orgf,PubMed
+MEASUREMENT_OF,C1515051,Sum,qnco,C0205276,Local,spco,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0449445,Approach,spco,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0376452,DNA Methylation,genf,PubMed
+MEASUREMENT_OF,C0522525,Semi-quantitative,qnco,C0449774,Patterns,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0683154,drug response,orgf,PubMed
+MEASUREMENT_OF,C0032659,geographic population,qnco,C0031327,Drug Kinetics,phsf,PubMed
+MEASUREMENT_OF,C0814630,economic availability or accessibility,qnco,C0009462,Community,geoa,PubMed
+MEASUREMENT_OF,C0032683,Population Size,qnco,C0009462,Community,geoa,PubMed
+MEASUREMENT_OF,C0439534,Dimensions,qnco,C0205101,Extrinsic,spco,PubMed
+MEASUREMENT_OF,C0683150,plasma drug concentration,qnco,C1149750,asparaginase activity,moft,PubMed
+MEASUREMENT_OF,C0035787,ROC Curve,qnco,C1149750,asparaginase activity,moft,PubMed
+MEASUREMENT_OF,C0205448,Two,qnco,C0205125,Depth,spco,PubMed
+MEASUREMENT_OF,C0205214,Common,qnco,C0042789,Vision,orgf,PubMed
+MEASUREMENT_OF,C0012751,Distance,qnco,C0449775,Distribution pattern,spco,PubMed
+MEASUREMENT_OF,C0005890,Body Height,qnco,C0543482,morphological,spco,PubMed
+MEASUREMENT_OF,C0009247,Cohort Studies,qnco,C0205099,Central,spco,PubMed
+MEASUREMENT_OF,C0032659,geographic population,qnco,C0031843,physiological aspects,phsf,PubMed
+MEASUREMENT_OF,C0001779,Age,orga,C0678857,fine motor skills,ortf,PubMed
+MEASUREMENT_OF,C0013682,Efficiency,qnco,C0243102,enzyme activity,moft,PubMed
+MEASUREMENT_OF,C0037791,Specificity,qnco,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C0035787,ROC Curve,qnco,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C0522525,Semi-quantitative,qnco,C0022417,Joints,bsoj,PubMed
+MEASUREMENT_OF,C1516240,Capacity,qnco,C0449774,Patterns,spco,PubMed
+MEASUREMENT_OF,C0680864,expense,qnco,C0557759,Farming environment,geoa,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0445383,Volumetric,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0019868,Homeostasis,orgf,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C0205127,Longitudinal,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0599894,targeting,celf,PubMed
+MEASUREMENT_OF,C1517378,Gain,qnco,C0019868,Homeostasis,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0013936,Embryonic Development,ortf,PubMed
+MEASUREMENT_OF,C0871261,response,clna,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C0205450,Four,qnco,C0014406,Environment,spco,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C0443299,Separate,spco,PubMed
+MEASUREMENT_OF,C0005938,Bone Density,lbtr,C0520510,Materials,sbst,PubMed
+MEASUREMENT_OF,C0205437,Third,qnco,C0008071,Child Development,orgf,PubMed
+MEASUREMENT_OF,C0556981,% proof,qnco,C0543482,morphological,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0037817,Speech,orgf,PubMed
+MEASUREMENT_OF,C0205453,Seven,qnco,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0029433,Osteogenesis,ortf,PubMed
+MEASUREMENT_OF,C1442488,BASELINE,qnco,C0205123,Coronal,spco,PubMed
+MEASUREMENT_OF,C0006751,Calibration,qnco,C0205102,Intrinsic,spco,PubMed
+MEASUREMENT_OF,C1444754,Length,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C1517945,Loss,qnco,C1515655,in vivo,spco,PubMed
+MEASUREMENT_OF,C1444754,Length,qnco,C0557759,Farming environment,geoa,PubMed
+MEASUREMENT_OF,C0439534,Dimensions,qnco,C0080309,Ventricular Function,ortf,PubMed
+MEASUREMENT_OF,C0449911,View,orga,C0080309,Ventricular Function,ortf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0080309,Ventricular Function,ortf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C1254359,Physiologic Function,phsf,PubMed
+MEASUREMENT_OF,C0035648,risk factors,qnco,C0543482,morphological,spco,PubMed
+MEASUREMENT_OF,C0439806,Gross,qnco,C0237820,Recovery,orgf,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0205123,Coronal,spco,PubMed
+MEASUREMENT_OF,C0150312,Present,qnco,C1154952,hyperosmotic salinity response,celf,PubMed
+MEASUREMENT_OF,C0683162,dose-response curve,qnco,C0205145,Site,spco,PubMed
+MEASUREMENT_OF,C0021632,instrumentation,qnco,C1152247,methyltransferase activity,moft,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C0332464,Widening,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0018767,Hearing,phsf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0042789,Vision,orgf,PubMed
+MEASUREMENT_OF,C1264641,Percentile,qnco,C0000726,Abdomen,blor,PubMed
+MEASUREMENT_OF,C0806140,Flow,orga,C0080309,Ventricular Function,ortf,PubMed
+MEASUREMENT_OF,C0033204,Probability,qnco,C0043240,Wound Healing,orgf,PubMed
+MEASUREMENT_OF,C0085732,Ability,orga,C0678868,oral function,ortf,PubMed
+MEASUREMENT_OF,C0205214,Common,qnco,C0596620,glucose metabolism,moft,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0231940,Alveolar ventilation function,ortf,PubMed
+MEASUREMENT_OF,C0681889,rating scale,qnco,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0205127,Longitudinal,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0023946,Locomotion,orgf,PubMed
+MEASUREMENT_OF,C0700321,Small,qnco,C0205123,Coronal,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0014653,Equilibrium,orgf,PubMed
+MEASUREMENT_OF,C0010181,Cost Effectiveness,qnco,C0441635,Anatomical segmentation,spco,PubMed
+MEASUREMENT_OF,C1442488,BASELINE,qnco,C0027778,Netherlands,geoa,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0080310,"Ventricular Function, Left",ortf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0205284,Marginal,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C1155065,T-Cell Activation,celf,PubMed
+MEASUREMENT_OF,C0205456,Ten,qnco,C0037313,Sleep,orgf,PubMed
+MEASUREMENT_OF,C0871261,response,clna,C0037361,Smell Perception,orgf,PubMed
+MEASUREMENT_OF,C0080045,Prices,qnco,C0332464,Widening,spco,PubMed
+MEASUREMENT_OF,C1514721,Range,qnco,C0014406,Environment,spco,PubMed
+MEASUREMENT_OF,C1442488,BASELINE,qnco,C0019868,Homeostasis,orgf,PubMed
+MEASUREMENT_OF,C1517945,Loss,qnco,C0014653,Equilibrium,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C1514661,RNA-Protein Interaction,genf,PubMed
+MEASUREMENT_OF,C0021149,Incidence,qnco,C1515459,8q22,nusq,PubMed
+MEASUREMENT_OF,C0449468,Volume,qnco,C0080310,"Ventricular Function, Left",ortf,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0439755,Directions,spco,PubMed
+MEASUREMENT_OF,C0205549,Series,qnco,C0677040,Stereochemistry,moft,PubMed
+MEASUREMENT_OF,C0439148,Unit,qnco,C0205127,Longitudinal,spco,PubMed
+MEASUREMENT_OF,C0205451,Five,qnco,C0222679,Structure of articular surface of bone,blor,PubMed
+MEASUREMENT_OF,C0439534,Dimensions,qnco,C0009462,Community,geoa,PubMed
+MEASUREMENT_OF,C1265611,Quantity,qnco,C0003261,Antibody Formation,celf,PubMed
+MEASUREMENT_OF,C1442488,BASELINE,qnco,C0205127,Longitudinal,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0004462,Axonal Transport,celf,PubMed
+MEASUREMENT_OF,C0032659,geographic population,qnco,C0028814,Oceans,geoa,PubMed
+MEASUREMENT_OF,C0032659,geographic population,qnco,C0036493,Sea,geoa,PubMed
+MEASUREMENT_OF,C0085732,Ability,orga,C0020964,Immunity,phsf,PubMed
+MEASUREMENT_OF,C0443238,Integral,qnco,C0014272,Energy Metabolism,phsf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0456389,size,spco,PubMed
+MEASUREMENT_OF,C1610540,Kind of quantity - Ratios,qnco,C0007613,Cell physiology,celf,PubMed
+MEASUREMENT_OF,C1442488,BASELINE,qnco,C0037817,Speech,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0080311,"Ventricular Function, Right",ortf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0007818,Cerebrovascular Circulation,ortf,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C0043240,Wound Healing,orgf,PubMed
+MEASUREMENT_OF,C0449468,Volume,qnco,C0678594,Structure,spco,PubMed
+MEASUREMENT_OF,C1533148,Case unit dose,qnco,C0442043,temporal,spco,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0222679,Structure of articular surface of bone,blor,PubMed
+MEASUREMENT_OF,C1533148,Case unit dose,qnco,C0031843,physiological aspects,phsf,PubMed
+MEASUREMENT_OF,C1444754,Length,qnco,C0026612,Motor Skills,orgf,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0439792,Extent,spco,PubMed
+MEASUREMENT_OF,C1442488,BASELINE,qnco,C0031843,physiological aspects,phsf,PubMed
+MEASUREMENT_OF,C0023981,Longitudinal Studies,qnco,C0026612,Motor Skills,orgf,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0031843,physiological aspects,phsf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0009462,Community,geoa,PubMed
+MEASUREMENT_OF,C0814225,Benefits,qnco,C0205284,Marginal,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0205093,Lateral,spco,PubMed
+MEASUREMENT_OF,C1512044,Dose-Rate,qnco,C0036493,Sea,geoa,PubMed
+MEASUREMENT_OF,C0871261,response,clna,C0014653,Equilibrium,orgf,PubMed
+MEASUREMENT_OF,C0700103,Human Resources,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C0035363,Retrospective Studies,qnco,C0003086,Ankle,blor,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0003086,Ankle,blor,PubMed
+MEASUREMENT_OF,C0700321,Small,qnco,C0015895,Fertility,orgf,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0443299,Separate,spco,PubMed
+MEASUREMENT_OF,C1302309,Regurgitant fraction,clna,C0232164,Cardiac function,ortf,PubMed
+MEASUREMENT_OF,C0445550,Low dose,qnco,C0205126,Horizontal,spco,PubMed
+MEASUREMENT_OF,C0445550,Low dose,qnco,C0205128,Vertical,spco,PubMed
+MEASUREMENT_OF,C1442488,BASELINE,qnco,C0597053,neuromuscular function,ortf,PubMed
+MEASUREMENT_OF,C1264633,Fraction of,qnco,C0205145,Site,spco,PubMed
+MEASUREMENT_OF,C0018810,heart rate,orga,C0232164,Cardiac function,ortf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0007595,Cell Growth,celf,PubMed
+MEASUREMENT_OF,C0522525,Semi-quantitative,qnco,C0007595,Cell Growth,celf,PubMed
+MEASUREMENT_OF,C0035363,Retrospective Studies,qnco,C0227843,Endometrio-,spco,PubMed
+MEASUREMENT_OF,C0013552,Economic Development,qnco,C0015895,Fertility,orgf,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C0205157,Remote,spco,PubMed
+MEASUREMENT_OF,C0042766,Viruria,lbtr,C0232804,Renal function,ortf,PubMed
+MEASUREMENT_OF,C0429865,Principal Component Analysis,qnco,C0450429,Location,spco,PubMed
+MEASUREMENT_OF,C0449286,Degree or extent,qnco,C0031308,Phagocytosis,celf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0243079,microvasculature,ortf,PubMed
+MEASUREMENT_OF,C0079399,Gender,orga,C0042789,Vision,orgf,PubMed
+MEASUREMENT_OF,C0205217,Increased,qnco,C0205246,Generalized,spco,PubMed
+MEASUREMENT_OF,C0456149,Intelligence quotient,orga,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C0013682,Efficiency,qnco,C0205123,Coronal,spco,PubMed
+MEASUREMENT_OF,C1264641,Percentile,qnco,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0678908,brain function,ortf,PubMed
+MEASUREMENT_OF,C0018810,heart rate,orga,C0019010,Hemodynamics,ortf,PubMed
+MEASUREMENT_OF,C1442488,BASELINE,qnco,C0449445,Approach,spco,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0019868,Homeostasis,orgf,PubMed
+MEASUREMENT_OF,C0681889,rating scale,qnco,C0205127,Longitudinal,spco,PubMed
+MEASUREMENT_OF,C0597680,water quality,qnco,C0442537,Reservoir,geoa,PubMed
+MEASUREMENT_OF,C0597680,water quality,qnco,C0337049,Lake,geoa,PubMed
+MEASUREMENT_OF,C0600495,Inhibitory Concentration 50,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0444454,Access,spco,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0814002,Neural Development,orgf,PubMed
+MEASUREMENT_OF,C0023114,Handedness,orga,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C0205452,Six,qnco,C0009462,Community,geoa,PubMed
+MEASUREMENT_OF,C1305855,Body mass index,clna,C0017654,Glomerular Filtration Rate,ortf,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0517349,Muscle strength,ortf,PubMed
+MEASUREMENT_OF,C1514721,Range,qnco,C0007620,Cell Survival,celf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0871648,Habitat,spco,PubMed
+MEASUREMENT_OF,C0037791,Specificity,qnco,C0439792,Extent,spco,PubMed
+MEASUREMENT_OF,C0037791,Specificity,qnco,C0450429,Location,spco,PubMed
+MEASUREMENT_OF,C0037791,Specificity,qnco,C0733755,Positioning Attribute,spco,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0009462,Community,geoa,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C0205284,Marginal,spco,PubMed
+MEASUREMENT_OF,C0043100,Weight,qnco,C0311432,Bioaccumulation,ortf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0599634,landfill,geoa,PubMed
+MEASUREMENT_OF,C0005535,Biomass,qnco,C0086312,Forests,geoa,PubMed
+MEASUREMENT_OF,C0005535,Biomass,qnco,C0597252,plant growth/development,orgf,PubMed
+MEASUREMENT_OF,C0242792,Progression-Free Survival,qnco,C0205276,Local,spco,PubMed
+MEASUREMENT_OF,C1306372,"Mass, a measure of quantity of matter",qnco,C0019868,Homeostasis,orgf,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0009462,Community,geoa,PubMed
+MEASUREMENT_OF,C0814225,Benefits,qnco,C0443299,Separate,spco,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0205125,Depth,spco,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0029433,Osteogenesis,ortf,PubMed
+MEASUREMENT_OF,C0443228,Largest,qnco,C0205234,Focal,spco,PubMed
+MEASUREMENT_OF,C1442488,BASELINE,qnco,C0205099,Central,spco,PubMed
+MEASUREMENT_OF,C1516240,Capacity,qnco,C0014653,Equilibrium,orgf,PubMed
+MEASUREMENT_OF,C1533148,Case unit dose,qnco,C0019054,hemolysis,celf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C1158535,bypass DNA synthesis,genf,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0205122,Segmental,spco,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0522488,Short axis,spco,PubMed
+MEASUREMENT_OF,C0150312,Present,qnco,C0042789,Vision,orgf,PubMed
+MEASUREMENT_OF,C1305855,Body mass index,clna,C0034011,Puberty,orgf,PubMed
+MEASUREMENT_OF,C0150312,Present,qnco,C0007620,Cell Survival,celf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0014139,Endocytosis,celf,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0260026,motor ability,orgf,PubMed
+MEASUREMENT_OF,C0439148,Unit,qnco,C0015895,Fertility,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0237820,Recovery,orgf,PubMed
+MEASUREMENT_OF,C0427861,Human cells,lbtr,C0376659,Cancer Vaccines,aapp,PubMed
+MEASUREMENT_OF,C0332197,Absent,qnco,C0036658,Esthesia,ortf,PubMed
+MEASUREMENT_OF,C1514721,Range,qnco,C0870781,Landscapes,spco,PubMed
+MEASUREMENT_OF,C0205451,Five,qnco,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C0439534,Dimensions,qnco,C0080310,"Ventricular Function, Left",ortf,PubMed
+MEASUREMENT_OF,C1533148,Case unit dose,qnco,C0026882,Mutation,genf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0007582,Cell Communication,celf,PubMed
+MEASUREMENT_OF,C0392209,Nutritional status,orga,C0018270,Growth,orgf,PubMed
+MEASUREMENT_OF,C0029981,Ownership,qnco,C0205125,Depth,spco,PubMed
+MEASUREMENT_OF,C0449820,Score,qnco,C0870921,Motor Performance,orgf,PubMed
+MEASUREMENT_OF,C0033204,Probability,qnco,C0205127,Longitudinal,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C1158354,insulin processing,moft,PubMed
+MEASUREMENT_OF,C1442488,BASELINE,qnco,C0014406,Environment,spco,PubMed
+MEASUREMENT_OF,C0042815,Visual Analog Scale,qnco,C0442027,Oral,spco,PubMed
+MEASUREMENT_OF,C0005938,Bone Density,lbtr,C0042866,Vitamin D,phsu,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0015413,Eye Movements,ortf,PubMed
+MEASUREMENT_OF,C0522525,Semi-quantitative,qnco,C0302600,Angiogenesis,ortf,PubMed
+MEASUREMENT_OF,C0522525,Semi-quantitative,qnco,C0205203,Crossed,spco,PubMed
+MEASUREMENT_OF,C0205448,Two,qnco,C0009462,Community,geoa,PubMed
+MEASUREMENT_OF,C0150312,Present,qnco,C0447620,Uterine wall,blor,PubMed
+MEASUREMENT_OF,C1547011,Aspect,qnco,C0018270,Growth,orgf,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C0521329,Spinal,spco,PubMed
+MEASUREMENT_OF,C0565930,per second,qnco,C0449774,Patterns,spco,PubMed
+MEASUREMENT_OF,C1610540,Kind of quantity - Ratios,qnco,C0733755,Positioning Attribute,spco,PubMed
+MEASUREMENT_OF,C1517945,Loss,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C0205449,Three,qnco,C0870781,Landscapes,spco,PubMed
+MEASUREMENT_OF,C0021632,instrumentation,qnco,C0037848,Sperm Motility,celf,PubMed
+MEASUREMENT_OF,C0680864,expense,qnco,C0005823,Blood Pressure,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0231494,Muscle elasticity,ortf,PubMed
+MEASUREMENT_OF,C1442488,BASELINE,qnco,C0017654,Glomerular Filtration Rate,ortf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C1449935,Tissue Viability,ortf,PubMed
+MEASUREMENT_OF,C0005910,Body Weight,orga,C0019868,Homeostasis,orgf,PubMed
+MEASUREMENT_OF,C0013682,Efficiency,qnco,C0206117,Gap Junctions,bsoj,PubMed
+MEASUREMENT_OF,C1610540,Kind of quantity - Ratios,qnco,C0456389,size,spco,PubMed
+MEASUREMENT_OF,C0035648,risk factors,qnco,C0032961,Pregnancy,orgf,PubMed
+MEASUREMENT_OF,C0033269,Productivity,qnco,C0009462,Community,geoa,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0231493,Muscle property,ortf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0027530,Neck,blor,PubMed
+MEASUREMENT_OF,C0006777,Energy Intake,qnco,C0007613,Cell physiology,celf,PubMed
+MEASUREMENT_OF,C0449820,Score,qnco,C0439824,Verbal,orgf,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0018270,Growth,orgf,PubMed
+MEASUREMENT_OF,C0023732,Linear Models,qnco,C0031843,physiological aspects,phsf,PubMed
+MEASUREMENT_OF,C0001779,Age,orga,C0162638,Apoptosis,celf,PubMed
+MEASUREMENT_OF,C0549177,Large,qnco,C1515655,in vivo,spco,PubMed
+MEASUREMENT_OF,C0700321,Small,qnco,C1515655,in vivo,spco,PubMed
+MEASUREMENT_OF,C0439185,Eq,qnco,C0596290,Cell Proliferation,celf,PubMed
+MEASUREMENT_OF,C0449468,Volume,qnco,C0450429,Location,spco,PubMed
+MEASUREMENT_OF,C0009085,statistical cluster,qnco,C0205146,Area,spco,PubMed
+MEASUREMENT_OF,C0680864,expense,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C1514721,Range,qnco,C0037083,Signal Transduction,celf,PubMed
+MEASUREMENT_OF,C1514721,Range,qnco,C0178666,glucose transport,celf,PubMed
+MEASUREMENT_OF,C0205448,Two,qnco,C0205234,Focal,spco,PubMed
+MEASUREMENT_OF,C0010181,Cost Effectiveness,qnco,C0456389,size,spco,PubMed
+MEASUREMENT_OF,C0681889,rating scale,qnco,C0205123,Coronal,spco,PubMed
+MEASUREMENT_OF,C0035363,Retrospective Studies,qnco,C0205127,Longitudinal,spco,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0035245,Respiratory physiology,ortf,PubMed
+MEASUREMENT_OF,C0205450,Four,qnco,C0007620,Cell Survival,celf,PubMed
+MEASUREMENT_OF,C1444754,Length,qnco,C1148756,telomerase activity,genf,PubMed
+MEASUREMENT_OF,C0683150,plasma drug concentration,qnco,C1515655,in vivo,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0078995,"Atrial Function, Left",ortf,PubMed
+MEASUREMENT_OF,C0018810,heart rate,orga,C0019868,Homeostasis,orgf,PubMed
+MEASUREMENT_OF,C1514721,Range,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C0449820,Score,qnco,C0278092,Sexual function,orgf,PubMed
+MEASUREMENT_OF,C0021149,Incidence,qnco,C0543482,morphological,spco,PubMed
+MEASUREMENT_OF,C0439534,Dimensions,qnco,C0080311,"Ventricular Function, Right",ortf,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C0301944,Graft acceptance,phsf,PubMed
+MEASUREMENT_OF,C0205451,Five,qnco,C0449774,Patterns,spco,PubMed
+MEASUREMENT_OF,C0001779,Age,orga,C0035245,Respiratory physiology,ortf,PubMed
+MEASUREMENT_OF,C0079399,Gender,orga,C1286104,Dietary intake,orgf,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C1254881,Platelet function,celf,PubMed
+MEASUREMENT_OF,C0205214,Common,qnco,C0232804,Renal function,ortf,PubMed
+MEASUREMENT_OF,C1514721,Range,qnco,C0226895,Structure of rima oris,bsoj,PubMed
+MEASUREMENT_OF,C1547011,Aspect,qnco,C0014406,Environment,spco,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0016555,Forelimb,blor,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C0439755,Directions,spco,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C0456389,size,spco,PubMed
+MEASUREMENT_OF,C0439534,Dimensions,qnco,C0205246,Generalized,spco,PubMed
+MEASUREMENT_OF,C1514468,product,qnco,C1522786,pollination,orgf,PubMed
+MEASUREMENT_OF,C0005508,Biological Availability,qnco,C0442043,temporal,spco,PubMed
+MEASUREMENT_OF,C1533148,Case unit dose,qnco,C1267213,Upper aerodigestive tract,blor,PubMed
+MEASUREMENT_OF,C0150312,Present,qnco,C1160401,Skeletal Development,orgf,PubMed
+MEASUREMENT_OF,C0150312,Present,qnco,C0005486,Bioenergetics,orgf,PubMed
+MEASUREMENT_OF,C0449286,Degree or extent,qnco,C1515655,in vivo,spco,PubMed
+MEASUREMENT_OF,C0085732,Ability,orga,C0870921,Motor Performance,orgf,PubMed
+MEASUREMENT_OF,C0205214,Common,qnco,C0080310,"Ventricular Function, Left",ortf,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0080310,"Ventricular Function, Left",ortf,PubMed
+MEASUREMENT_OF,C0033522,Prospective Studies,qnco,C0205127,Longitudinal,spco,PubMed
+MEASUREMENT_OF,C0037294,Skin Temperature,orga,C0232338,Blood flow,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0205380,Walled,spco,PubMed
+MEASUREMENT_OF,C0205449,Three,qnco,C0205143,Angular,spco,PubMed
+MEASUREMENT_OF,C1514721,Range,qnco,C1515655,in vivo,spco,PubMed
+MEASUREMENT_OF,C0700321,Small,qnco,C0018270,Growth,orgf,PubMed
+MEASUREMENT_OF,C0449286,Degree or extent,qnco,C0439792,Extent,spco,PubMed
+MEASUREMENT_OF,C0368930,Coagulation time,lbtr,C1292267,Procoagulant,aapp,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C0022417,Joints,bsoj,PubMed
+MEASUREMENT_OF,C0026777,Multivariate Analysis,qnco,C0080310,"Ventricular Function, Left",ortf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0032174,Platelet adhesion,celf,PubMed
+MEASUREMENT_OF,C0814225,Benefits,qnco,C0080311,"Ventricular Function, Right",ortf,PubMed
+MEASUREMENT_OF,C0013682,Efficiency,qnco,C0035359,Retroperitoneal Space,bsoj,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0175566,Open,spco,PubMed
+MEASUREMENT_OF,C1547014,*Constant,qnco,C0042059,Urodynamics,ortf,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C0042059,Urodynamics,ortf,PubMed
+MEASUREMENT_OF,C0150312,Present,qnco,C0597358,Receptor Binding,moft,PubMed
+MEASUREMENT_OF,C0522525,Semi-quantitative,qnco,C0007818,Cerebrovascular Circulation,ortf,PubMed
+MEASUREMENT_OF,C1516240,Capacity,qnco,C1515655,in vivo,spco,PubMed
+MEASUREMENT_OF,C0001779,Age,orga,C0036887,Sexual Maturation,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0205101,Extrinsic,spco,PubMed
+MEASUREMENT_OF,C0680864,expense,qnco,C0562214,Colposcopic,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0683211,PNS function,ortf,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C0009990,Copulation,orgf,PubMed
+MEASUREMENT_OF,C1514721,Range,qnco,C0449445,Approach,spco,PubMed
+MEASUREMENT_OF,C1516240,Capacity,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C0006751,Calibration,qnco,C0205125,Depth,spco,PubMed
+MEASUREMENT_OF,C0439806,Gross,qnco,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C0021149,Incidence,qnco,C0019552,Hip region structure,blor,PubMed
+MEASUREMENT_OF,C1533148,Case unit dose,qnco,C0025962,Microcirculation,ortf,PubMed
+MEASUREMENT_OF,C0023981,Longitudinal Studies,qnco,C1519687,Tumor Oxygenation,ortf,PubMed
+MEASUREMENT_OF,C0347981,"Feet, unit of measurement",qnco,C0596620,glucose metabolism,moft,PubMed
+MEASUREMENT_OF,C0205451,Five,qnco,C0017654,Glomerular Filtration Rate,ortf,PubMed
+MEASUREMENT_OF,C1547011,Aspect,qnco,C1515655,in vivo,spco,PubMed
+MEASUREMENT_OF,C0871261,response,clna,C0080310,"Ventricular Function, Left",ortf,PubMed
+MEASUREMENT_OF,C0699870,Blood drug concentration,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C1442488,BASELINE,qnco,C0444669,Core,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0232741,Liver function,ortf,PubMed
+MEASUREMENT_OF,C0439165,Percent (qualifier value),qnco,C0521324,Skeletal,spco,PubMed
+MEASUREMENT_OF,C1547011,Aspect,qnco,C0015450,Face,blor,PubMed
+MEASUREMENT_OF,C1533148,Case unit dose,qnco,C0232804,Renal function,ortf,PubMed
+MEASUREMENT_OF,C0033522,Prospective Studies,qnco,C0025066,Mediastinum,blor,PubMed
+MEASUREMENT_OF,C1514468,product,qnco,C1156571,amine metabolism,moft,PubMed
+MEASUREMENT_OF,C0037791,Specificity,qnco,C0543482,morphological,spco,PubMed
+MEASUREMENT_OF,C0522525,Semi-quantitative,qnco,C0243144,uptake,phsf,PubMed
+MEASUREMENT_OF,C1301886,Caliber,qnco,C0949236,Pulse Pressure,orgf,PubMed
+MEASUREMENT_OF,C0086715,Normal Range,qnco,C0439792,Extent,spco,PubMed
+MEASUREMENT_OF,C0439530,/HPF,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C0806140,Flow,orga,C0232338,Blood flow,orgf,PubMed
+MEASUREMENT_OF,C1301886,Caliber,qnco,C0205147,Region,spco,PubMed
+MEASUREMENT_OF,C0205448,Two,qnco,C0456389,size,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0205090,Right,spco,PubMed
+MEASUREMENT_OF,C0700321,Small,qnco,C0456389,size,spco,PubMed
+MEASUREMENT_OF,C0700321,Small,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C0085732,Ability,orga,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C1547011,Aspect,qnco,C0332464,Widening,spco,PubMed
+MEASUREMENT_OF,C0376690,Area Under Curve,qnco,C0332479,Shapes,spco,PubMed
+MEASUREMENT_OF,C0814225,Benefits,qnco,C0009928,Contrast Sensitivity,ortf,PubMed
+MEASUREMENT_OF,C0026348,"Models, Statistical",qnco,C0543482,morphological,spco,PubMed
+MEASUREMENT_OF,C0683149,serum drug concentration,qnco,C0456389,size,spco,PubMed
+MEASUREMENT_OF,C0205453,Seven,qnco,C0444669,Core,spco,PubMed
+MEASUREMENT_OF,C0871261,response,clna,C0020964,Immunity,phsf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0205054,Hepatic,blor,PubMed
+MEASUREMENT_OF,C0009247,Cohort Studies,qnco,C0599855,neurodevelopment,ortf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0599946,attenuation,genf,PubMed
+MEASUREMENT_OF,C1301886,Caliber,qnco,C0013455,middle ear,bsoj,PubMed
+MEASUREMENT_OF,C0439158,colonies,qnco,C0543482,morphological,spco,PubMed
+MEASUREMENT_OF,C0439148,Unit,qnco,C0439824,Verbal,orgf,PubMed
+MEASUREMENT_OF,C1444754,Length,qnco,C0439824,Verbal,orgf,PubMed
+MEASUREMENT_OF,C0032659,geographic population,qnco,C1565556,Gene Flow,genf,PubMed
+MEASUREMENT_OF,C0549177,Large,qnco,C0205127,Longitudinal,spco,PubMed
+MEASUREMENT_OF,C0439216,ton,qnco,C0018767,Hearing,phsf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0234204,Baroreceptor function,ortf,PubMed
+MEASUREMENT_OF,C0035363,Retrospective Studies,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C0023981,Longitudinal Studies,qnco,C0733755,Positioning Attribute,spco,PubMed
+MEASUREMENT_OF,C0012751,Distance,qnco,C0231452,Flexion,orgf,PubMed
+MEASUREMENT_OF,C1514721,Range,qnco,C0231452,Flexion,orgf,PubMed
+MEASUREMENT_OF,C0439237,degrees Celsius,qnco,C0037848,Sperm Motility,celf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0687133,Drug Interactions,moft,PubMed
+MEASUREMENT_OF,C0036577,Selection Bias,qnco,C0442027,Oral,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0042606,Vestibule,bsoj,PubMed
+MEASUREMENT_OF,C0522525,Semi-quantitative,qnco,C0439792,Extent,spco,PubMed
+MEASUREMENT_OF,C1442488,BASELINE,qnco,C0205146,Area,spco,PubMed
+MEASUREMENT_OF,C1442488,BASELINE,qnco,C0456389,size,spco,PubMed
+MEASUREMENT_OF,C1514721,Range,qnco,C0001801,agglutination,moft,PubMed
+MEASUREMENT_OF,C0005885,Body Composition,orga,C0018270,Growth,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0234386,Cerebral function,ortf,PubMed
+MEASUREMENT_OF,C0205449,Three,qnco,C0037313,Sleep,orgf,PubMed
+MEASUREMENT_OF,C0699870,Blood drug concentration,qnco,C0232804,Renal function,ortf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0544570,Bactericidal activity,phsf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0162567,Optokinetic nystagmus,phsf,PubMed
+MEASUREMENT_OF,C0037791,Specificity,qnco,C0205102,Intrinsic,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0007227,Cardiovascular Physiology,ortf,PubMed
+MEASUREMENT_OF,C0449820,Score,qnco,C0596290,Cell Proliferation,celf,PubMed
+MEASUREMENT_OF,C0449468,Volume,qnco,C1160340,brain development,ortf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0001811,Aging,orgf,PubMed
+MEASUREMENT_OF,C0439534,Dimensions,qnco,C0449774,Patterns,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C1510835,Aging-Related Process,orgf,PubMed
+MEASUREMENT_OF,C0205448,Two,qnco,C0034011,Puberty,orgf,PubMed
+MEASUREMENT_OF,C0005885,Body Composition,orga,C0014272,Energy Metabolism,phsf,PubMed
+MEASUREMENT_OF,C0030055,Oxygen Consumption,clna,C0025519,Metabolism,orgf,PubMed
+MEASUREMENT_OF,C0030055,Oxygen Consumption,clna,C0597157,oxygen transport,ortf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0036019,Saccades,ortf,PubMed
+MEASUREMENT_OF,C0033522,Prospective Studies,qnco,C0004600,Back,blor,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C1328910,immune resistance,phsf,PubMed
+MEASUREMENT_OF,C0814225,Benefits,qnco,C0332464,Widening,spco,PubMed
+MEASUREMENT_OF,C0428642,Pulmonary artery pressure,lbtr,C0080309,Ventricular Function,ortf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0332514,Asymmetry,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0454729,Natal,geoa,PubMed
+MEASUREMENT_OF,C0428409,Progesterone level,lbtr,C0752351,Embryo Loss,orgf,PubMed
+MEASUREMENT_OF,C1113695,brain volume,qnco,C0205127,Longitudinal,spco,PubMed
+MEASUREMENT_OF,C0025515,Metabolic Clearance Rate,clna,C0232741,Liver function,ortf,PubMed
+MEASUREMENT_OF,C1301886,Caliber,qnco,C0018270,Growth,orgf,PubMed
+MEASUREMENT_OF,C0033522,Prospective Studies,qnco,C0007227,Cardiovascular Physiology,ortf,PubMed
+MEASUREMENT_OF,C0017594,Glasgow coma scale,qnco,C0027767,Nervous System Physiology,ortf,PubMed
+MEASUREMENT_OF,C0021713,Interobserver Variation,qnco,C0599946,attenuation,genf,PubMed
+MEASUREMENT_OF,C1265611,Quantity,qnco,C0001117,Acid-Base Equilibrium,ortf,PubMed
+MEASUREMENT_OF,C1442488,BASELINE,qnco,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C1533148,Case unit dose,qnco,C0042606,Vestibule,bsoj,PubMed
+MEASUREMENT_OF,C0700321,Small,qnco,C0517349,Muscle strength,ortf,PubMed
+MEASUREMENT_OF,C0013682,Efficiency,qnco,C0009462,Community,geoa,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0026882,Mutation,genf,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0456389,size,spco,PubMed
+MEASUREMENT_OF,C0443228,Largest,qnco,C0221102,Excretory function,phsf,PubMed
+MEASUREMENT_OF,C0455280,Plasma glucose result,lbtr,C0007613,Cell physiology,celf,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0042939,Voice,orgf,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0026861,Musculoskeletal Physiology,ortf,PubMed
+MEASUREMENT_OF,C0439165,Percent (qualifier value),qnco,C0332469,Fissure,bsoj,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0037775,Spatial Distribution,spco,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C0015895,Fertility,orgf,PubMed
+MEASUREMENT_OF,C0021149,Incidence,qnco,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C0150312,Present,qnco,C1258192,Total Peripheral Resistance,phsf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0018951,Hematopoiesis,ortf,PubMed
+MEASUREMENT_OF,C0035648,risk factors,qnco,C0232338,Blood flow,orgf,PubMed
+MEASUREMENT_OF,C0036668,Sensitivity and Specificity,qnco,C0010067,Coronary Circulation,ortf,PubMed
+MEASUREMENT_OF,C0205449,Three,qnco,C0042059,Urodynamics,ortf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C1254881,Platelet function,celf,PubMed
+MEASUREMENT_OF,C0018810,heart rate,orga,C0014272,Energy Metabolism,phsf,PubMed
+MEASUREMENT_OF,C0205454,Eight,qnco,C0017127,Gastric Emptying,ortf,PubMed
+MEASUREMENT_OF,C0205448,Two,qnco,C0205127,Longitudinal,spco,PubMed
+MEASUREMENT_OF,C0428907,Sinus node function,lbtr,C0019010,Hemodynamics,ortf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0449445,Approach,spco,PubMed
+MEASUREMENT_OF,C0700321,Small,qnco,C0232804,Renal function,ortf,PubMed
+MEASUREMENT_OF,C0376243,financial,qnco,C0439741,Sectoral,spco,PubMed
+MEASUREMENT_OF,C0001779,Age,orga,C0018767,Hearing,phsf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C1327413,cytokine production,orgf,PubMed
+MEASUREMENT_OF,C0013682,Efficiency,qnco,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C0150312,Present,qnco,C0175566,Open,spco,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0205102,Intrinsic,spco,PubMed
+MEASUREMENT_OF,C0039476,Temperature,qnco,C0205132,Linear,spco,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C1515655,in vivo,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0428818,Mitral valve area,blor,PubMed
+MEASUREMENT_OF,C0205448,Two,qnco,C0205126,Horizontal,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0018841,Thermogenesis,orgf,PubMed
+MEASUREMENT_OF,C0205171,Singular,qnco,C0014272,Energy Metabolism,phsf,PubMed
+MEASUREMENT_OF,C0439064,Numerous,qnco,C0014272,Energy Metabolism,phsf,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C0005974,Bone Resorption,ortf,PubMed
+MEASUREMENT_OF,C0449820,Score,qnco,C0232407,Hair growth,ortf,PubMed
+MEASUREMENT_OF,C1265611,Quantity,qnco,C0205246,Generalized,spco,PubMed
+MEASUREMENT_OF,C1547011,Aspect,qnco,C0025519,Metabolism,orgf,PubMed
+MEASUREMENT_OF,C0005850,Blood Volume,orga,C0232338,Blood flow,orgf,PubMed
+MEASUREMENT_OF,C0205549,Series,qnco,C0596290,Cell Proliferation,celf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0597304,Proteolysis,moft,PubMed
+MEASUREMENT_OF,C1514721,Range,qnco,C0205127,Longitudinal,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0004614,Bacterial Adhesion,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0596204,bone metabolism,ortf,PubMed
+MEASUREMENT_OF,C0347980,% uptake,qnco,C0596290,Cell Proliferation,celf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0600485,Acrosome Reaction,celf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0222712,Jugular foramen,bsoj,PubMed
+MEASUREMENT_OF,C0443302,Several,qnco,C1326961,glucose homeostasis,phsf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0162638,Apoptosis,celf,PubMed
+MEASUREMENT_OF,C1547011,Aspect,qnco,C0596620,glucose metabolism,moft,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0598501,Chromosome Pairing,celf,PubMed
+MEASUREMENT_OF,C0449468,Volume,qnco,C1515655,in vivo,spco,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0444669,Core,spco,PubMed
+MEASUREMENT_OF,C0013682,Efficiency,qnco,C0205100,Peripheral,spco,PubMed
+MEASUREMENT_OF,C1533148,Case unit dose,qnco,C0042826,Visual Fields,spco,PubMed
+MEASUREMENT_OF,C0032246,Ploidies,qnco,C0752046,Single Nucleotide Polymorphism,nusq,PubMed
+MEASUREMENT_OF,C0439157,counts,qnco,C0205146,Area,spco,PubMed
+MEASUREMENT_OF,C0036245,Savings,qnco,C0444669,Core,spco,PubMed
+MEASUREMENT_OF,C0242492,Relative Risk,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C0700321,Small,qnco,C0017262,Gene Expression,genf,PubMed
+MEASUREMENT_OF,C0887819,Quantitative Structure-Activity Relationship,qnco,C0205145,Site,spco,PubMed
+MEASUREMENT_OF,C0021632,instrumentation,qnco,C0042059,Urodynamics,ortf,PubMed
+MEASUREMENT_OF,C0439185,Eq,qnco,C1517564,Intratumoral,spco,PubMed
+MEASUREMENT_OF,C0205257,Incomplete,qnco,C0456389,size,spco,PubMed
+MEASUREMENT_OF,C1306372,"Mass, a measure of quantity of matter",qnco,C0596236,calcium metabolism,orgf,PubMed
+MEASUREMENT_OF,C0205448,Two,qnco,C1318228,Market,geoa,PubMed
+MEASUREMENT_OF,C0205455,Nine,qnco,C0543482,morphological,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0023775,Lipid Peroxidation,moft,PubMed
+MEASUREMENT_OF,C0013682,Efficiency,qnco,C0557759,Farming environment,geoa,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C1516022,Antimicrobial Effect,celf,PubMed
+MEASUREMENT_OF,C0443228,Largest,qnco,C0036658,Esthesia,ortf,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0205276,Local,spco,PubMed
+MEASUREMENT_OF,C0449820,Score,qnco,C0231940,Alveolar ventilation function,ortf,PubMed
+MEASUREMENT_OF,C1533148,Case unit dose,qnco,C0013769,Elbow,blor,PubMed
+MEASUREMENT_OF,C0449820,Score,qnco,C0022742,Knee,blor,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0449774,Patterns,spco,PubMed
+MEASUREMENT_OF,C0205455,Nine,qnco,C0042059,Urodynamics,ortf,PubMed
+MEASUREMENT_OF,C1515051,Sum,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C0552483,Occupation history,orga,C0231921,pulmonary function,ortf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0036658,Esthesia,ortf,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C0162326,DNA Sequence,nusq,PubMed
+MEASUREMENT_OF,C0445174,Peak pressure,qnco,C0234222,Baresthesia,ortf,PubMed
+MEASUREMENT_OF,C0449820,Score,qnco,C0205146,Area,spco,PubMed
+MEASUREMENT_OF,C1547011,Aspect,qnco,C0597304,Proteolysis,moft,PubMed
+MEASUREMENT_OF,C0439148,Unit,qnco,C0018951,Hematopoiesis,ortf,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C1515655,in vivo,spco,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0231484,Muscle function,ortf,PubMed
+MEASUREMENT_OF,C0443302,Several,qnco,C0007620,Cell Survival,celf,PubMed
+MEASUREMENT_OF,C0043100,Weight,qnco,C0020987,Immunocompetence,celf,PubMed
+MEASUREMENT_OF,C0439165,Percent (qualifier value),qnco,C1327463,exogen,orgf,PubMed
+MEASUREMENT_OF,C0449820,Score,qnco,C0563145,Oral motor functions,ortf,PubMed
+MEASUREMENT_OF,C0001779,Age,orga,C0014653,Equilibrium,orgf,PubMed
+MEASUREMENT_OF,C0079399,Gender,orga,C0014653,Equilibrium,orgf,PubMed
+MEASUREMENT_OF,C0042812,Visual Acuity,clna,C0042789,Vision,orgf,PubMed
+MEASUREMENT_OF,C0023732,Linear Models,qnco,C0006906,Capillary Permeability,ortf,PubMed
+MEASUREMENT_OF,C0205214,Common,qnco,C0037313,Sleep,orgf,PubMed
+MEASUREMENT_OF,C1547014,*Constant,qnco,C0080310,"Ventricular Function, Left",ortf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0442027,Oral,spco,PubMed
+MEASUREMENT_OF,C0439170,% fetal cells,qnco,C0444669,Core,spco,PubMed
+MEASUREMENT_OF,C0205454,Eight,qnco,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C0455816,Left ventricular wall motion,lbtr,C0080310,"Ventricular Function, Left",ortf,PubMed
+MEASUREMENT_OF,C0443302,Several,qnco,C1286104,Dietary intake,orgf,PubMed
+MEASUREMENT_OF,C0150312,Present,qnco,C0007818,Cerebrovascular Circulation,ortf,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0015219,Evolution,genf,PubMed
+MEASUREMENT_OF,C0681921,coefficient of variation,qnco,C0008810,Circadian Rhythms,orgf,PubMed
+MEASUREMENT_OF,C0150312,Present,qnco,C1158774,negative regulation of transcription by glucose,celf,PubMed
+MEASUREMENT_OF,C0522525,Semi-quantitative,qnco,C0014406,Environment,spco,PubMed
+MEASUREMENT_OF,C1533148,Case unit dose,qnco,C0456389,size,spco,PubMed
+MEASUREMENT_OF,C0013682,Efficiency,qnco,C0311432,Bioaccumulation,ortf,PubMed
+MEASUREMENT_OF,C0033204,Probability,qnco,C0232164,Cardiac function,ortf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0332463,Narrowed structure,spco,PubMed
+MEASUREMENT_OF,C0038954,Survival Rate,qnco,C0449445,Approach,spco,PubMed
+MEASUREMENT_OF,C0439185,Eq,qnco,C1515655,in vivo,spco,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C1254359,Physiologic Function,phsf,PubMed
+MEASUREMENT_OF,C1510992,Average,qnco,C0015895,Fertility,orgf,PubMed
+MEASUREMENT_OF,C0439165,Percent (qualifier value),qnco,C0205146,Area,spco,PubMed
+MEASUREMENT_OF,C0205444,Tenth,qnco,C0018270,Growth,orgf,PubMed
+MEASUREMENT_OF,C1547053,*Velocity,qnco,C0205123,Coronal,spco,PubMed
+MEASUREMENT_OF,C0150312,Present,qnco,C0042059,Urodynamics,ortf,PubMed
+MEASUREMENT_OF,C0039476,Temperature,qnco,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C0205450,Four,qnco,C1096529,Carotid pulse,ortf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0376491,Structure of articular disc of temporomandibular joint,bsoj,PubMed
+MEASUREMENT_OF,C1301886,Caliber,qnco,C0442121,Intrapulmonary,spco,PubMed
+MEASUREMENT_OF,C0439534,Dimensions,qnco,C0599861,noradrenergic,moft,PubMed
+MEASUREMENT_OF,C0449820,Score,qnco,C0175566,Open,spco,PubMed
+MEASUREMENT_OF,C0205448,Two,qnco,C0596204,bone metabolism,ortf,PubMed
+MEASUREMENT_OF,C0489460,Energy requirement,qnco,C0205145,Site,spco,PubMed
+MEASUREMENT_OF,C0043100,Weight,qnco,C0678858,gross motor skills,ortf,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0205123,Coronal,spco,PubMed
+MEASUREMENT_OF,C0439165,Percent (qualifier value),qnco,C0015450,Face,blor,PubMed
+MEASUREMENT_OF,C1514721,Range,qnco,C0232741,Liver function,ortf,PubMed
+MEASUREMENT_OF,C1517945,Loss,qnco,C0037313,Sleep,orgf,PubMed
+MEASUREMENT_OF,C1547011,Aspect,qnco,C0175566,Open,spco,PubMed
+MEASUREMENT_OF,C0037791,Specificity,qnco,C0042606,Vestibule,bsoj,PubMed
+MEASUREMENT_OF,C0037791,Specificity,qnco,C0449774,Patterns,spco,PubMed
+MEASUREMENT_OF,C0443228,Largest,qnco,C0007179,Cardiac Volume,orgf,PubMed
+MEASUREMENT_OF,C0205549,Series,qnco,C0007179,Cardiac Volume,orgf,PubMed
+MEASUREMENT_OF,C0439216,ton,qnco,C0036658,Esthesia,ortf,PubMed
+MEASUREMENT_OF,C0439534,Dimensions,qnco,C0018270,Growth,orgf,PubMed
+MEASUREMENT_OF,C0205451,Five,qnco,C0016017,Fibrinolysis,phsf,PubMed
+MEASUREMENT_OF,C0205451,Five,qnco,C0032176,Platelet aggregation,celf,PubMed
+MEASUREMENT_OF,C0456189,Left ventricular systolic pressure,lbtr,C0080310,"Ventricular Function, Left",ortf,PubMed
+MEASUREMENT_OF,C0205454,Eight,qnco,C0035245,Respiratory physiology,ortf,PubMed
+MEASUREMENT_OF,C0683134,voltammetry,qnco,C0243144,uptake,phsf,PubMed
+MEASUREMENT_OF,C0449911,View,orga,C0019868,Homeostasis,orgf,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0205101,Extrinsic,spco,PubMed
+MEASUREMENT_OF,C0023981,Longitudinal Studies,qnco,C0376452,DNA Methylation,genf,PubMed
+MEASUREMENT_OF,C0205217,Increased,qnco,C0042034,Urination,orgf,PubMed
+MEASUREMENT_OF,C0043100,Weight,qnco,C1149419,interleukin-6 receptor binding activity,moft,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0017191,Gastrointestinal Transit,ortf,PubMed
+MEASUREMENT_OF,C0751992,Fetal Weight,orga,C0231452,Flexion,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0085268,Bone remodeling,ortf,PubMed
+MEASUREMENT_OF,C0449911,View,orga,C1565556,Gene Flow,genf,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0014431,Enzyme Induction,genf,PubMed
+MEASUREMENT_OF,C0814630,economic availability or accessibility,qnco,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C0039476,Temperature,qnco,C0205125,Depth,spco,PubMed
+MEASUREMENT_OF,C0034975,Registries,qnco,C0205127,Longitudinal,spco,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C0080310,"Ventricular Function, Left",ortf,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C0031843,physiological aspects,phsf,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C0450432,Venous anastomosis,bsoj,PubMed
+MEASUREMENT_OF,C0871261,response,clna,C0234222,Baresthesia,ortf,PubMed
+MEASUREMENT_OF,C0032659,geographic population,qnco,C0009462,Community,geoa,PubMed
+MEASUREMENT_OF,C0001779,Age,orga,C1286104,Dietary intake,orgf,PubMed
+MEASUREMENT_OF,C1522384,sex,orga,C1286104,Dietary intake,orgf,PubMed
+MEASUREMENT_OF,C0028764,Observer Variation,qnco,C0022417,Joints,bsoj,PubMed
+MEASUREMENT_OF,C0449468,Volume,qnco,C0445383,Volumetric,spco,PubMed
+MEASUREMENT_OF,C0449819,Wavelength,qnco,C0042789,Vision,orgf,PubMed
+MEASUREMENT_OF,C0552389,CROSS SECTION,orga,C0035203,Respiration,phsf,PubMed
+MEASUREMENT_OF,C0205448,Two,qnco,C1282910,Upper,spco,PubMed
+MEASUREMENT_OF,C0332520,Circumference,qnco,C0332479,Shapes,spco,PubMed
+MEASUREMENT_OF,C1510992,Average,qnco,C0678594,Structure,spco,PubMed
+MEASUREMENT_OF,C0036668,Sensitivity and Specificity,qnco,C0175566,Open,spco,PubMed
+MEASUREMENT_OF,C0439148,Unit,qnco,C0007227,Cardiovascular Physiology,ortf,PubMed
+MEASUREMENT_OF,C0449286,Degree or extent,qnco,C0018270,Growth,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0334029,Epithelialization,ortf,PubMed
+MEASUREMENT_OF,C0449820,Score,qnco,C0019868,Homeostasis,orgf,PubMed
+MEASUREMENT_OF,C0085732,Ability,orga,C0015413,Eye Movements,ortf,PubMed
+MEASUREMENT_OF,C0871261,response,clna,C0232338,Blood flow,orgf,PubMed
+MEASUREMENT_OF,C0032659,geographic population,qnco,C0237820,Recovery,orgf,PubMed
+MEASUREMENT_OF,C0002349,Altitude,qnco,C1160466,conjugation,celf,PubMed
+MEASUREMENT_OF,C0043100,Weight,qnco,C0014272,Energy Metabolism,phsf,PubMed
+MEASUREMENT_OF,C0012751,Distance,qnco,C0439792,Extent,spco,PubMed
+MEASUREMENT_OF,C0439157,counts,qnco,C0205125,Depth,spco,PubMed
+MEASUREMENT_OF,C0150312,Present,qnco,C0596290,Cell Proliferation,celf,PubMed
+MEASUREMENT_OF,C1514721,Range,qnco,C0040669,Transfection,genf,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0018767,Hearing,phsf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0231484,Muscle function,ortf,PubMed
+MEASUREMENT_OF,C0680864,expense,qnco,C0230165,Upper abdomen,blor,PubMed
+MEASUREMENT_OF,C0815129,anthropometric measurement,qnco,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0026841,Muscle Tonus,phsf,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0439792,Extent,spco,PubMed
+MEASUREMENT_OF,C1512456,High Prevalence,qnco,C0205054,Hepatic,blor,PubMed
+MEASUREMENT_OF,C0042815,Visual Analog Scale,qnco,C0036658,Esthesia,ortf,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0007613,Cell physiology,celf,PubMed
+MEASUREMENT_OF,C0806140,Flow,orga,C0009348,Collateral Circulation,phsf,PubMed
+MEASUREMENT_OF,C0001779,Age,orga,C0028877,Odontogenesis,ortf,PubMed
+MEASUREMENT_OF,C0814225,Benefits,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0035070,Renal Circulation,ortf,PubMed
+MEASUREMENT_OF,C0449468,Volume,qnco,C0232741,Liver function,ortf,PubMed
+MEASUREMENT_OF,C0002780,Analysis of Variance,qnco,C0449774,Patterns,spco,PubMed
+MEASUREMENT_OF,C0549177,Large,qnco,C0205147,Region,spco,PubMed
+MEASUREMENT_OF,C0871362,Signal Intensity,qnco,C0037775,Spatial Distribution,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0014819,Erythropoiesis,ortf,PubMed
+MEASUREMENT_OF,C0205388,Few,qnco,C1158770,Transcriptional Regulation,celf,PubMed
+MEASUREMENT_OF,C0332197,Absent,qnco,C0543482,morphological,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0376669,DNA Fragmentation,moft,PubMed
+MEASUREMENT_OF,C0427861,Human cells,lbtr,C0015895,Fertility,orgf,PubMed
+MEASUREMENT_OF,C1444754,Length,qnco,C0015219,Evolution,genf,PubMed
+MEASUREMENT_OF,C0033522,Prospective Studies,qnco,C0018670,Head,blor,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0012727,Spatial Displacement,spco,PubMed
+MEASUREMENT_OF,C0035363,Retrospective Studies,qnco,C0042789,Vision,orgf,PubMed
+MEASUREMENT_OF,C0039476,Temperature,qnco,C0439792,Extent,spco,PubMed
+MEASUREMENT_OF,C0033105,Statistical Prevalence,qnco,C0031843,physiological aspects,phsf,PubMed
+MEASUREMENT_OF,C0871261,response,clna,C0031843,physiological aspects,phsf,PubMed
+MEASUREMENT_OF,C0243132,occurrence,qnco,C0543482,morphological,spco,PubMed
+MEASUREMENT_OF,C0700321,Small,qnco,C0080310,"Ventricular Function, Left",ortf,PubMed
+MEASUREMENT_OF,C0085732,Ability,orga,C0233929,Emission,orgf,PubMed
+MEASUREMENT_OF,C0443228,Largest,qnco,C0232804,Renal function,ortf,PubMed
+MEASUREMENT_OF,C1516240,Capacity,qnco,C0015895,Fertility,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0449829,Geometry,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0439755,Directions,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0020202,Crossbreeding,genf,PubMed
+MEASUREMENT_OF,C0085732,Ability,orga,C0013470,Eating,orgf,PubMed
+MEASUREMENT_OF,C0439386,breaths/min,qnco,C0205125,Depth,spco,PubMed
+MEASUREMENT_OF,C0439165,Percent (qualifier value),qnco,C0013769,Elbow,blor,PubMed
+MEASUREMENT_OF,C0439165,Percent (qualifier value),qnco,C0016129,Fingers,blor,PubMed
+MEASUREMENT_OF,C0439165,Percent (qualifier value),qnco,C0043262,Wrist,blor,PubMed
+MEASUREMENT_OF,C0205448,Two,qnco,C0014272,Energy Metabolism,phsf,PubMed
+MEASUREMENT_OF,C0443302,Several,qnco,C0175566,Open,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0021880,Intracranial Pressure,ortf,PubMed
+MEASUREMENT_OF,C0012630,Discriminant Analysis,qnco,C0815275,subcortical,blor,PubMed
+MEASUREMENT_OF,C0449820,Score,qnco,C0019552,Hip region structure,blor,PubMed
+MEASUREMENT_OF,C1547053,*Velocity,qnco,C0019010,Hemodynamics,ortf,PubMed
+MEASUREMENT_OF,C0086749,Outcome Measures,qnco,C0022417,Joints,bsoj,PubMed
+MEASUREMENT_OF,C1514721,Range,qnco,C0018670,Head,blor,PubMed
+MEASUREMENT_OF,C1514721,Range,qnco,C0027530,Neck,blor,PubMed
+MEASUREMENT_OF,C0522525,Semi-quantitative,qnco,C1149382,chemokine activity,moft,PubMed
+MEASUREMENT_OF,C0870731,Internal Consistency,qnco,C0449774,Patterns,spco,PubMed
+MEASUREMENT_OF,C0392209,Nutritional status,orga,C0516983,gastrointestinal function,ortf,PubMed
+MEASUREMENT_OF,C0150312,Present,qnco,C0678594,Structure,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0022745,Knee joint,bsoj,PubMed
+MEASUREMENT_OF,C1516240,Capacity,qnco,C0232741,Liver function,ortf,PubMed
+MEASUREMENT_OF,C0439165,Percent (qualifier value),qnco,C0080310,"Ventricular Function, Left",ortf,PubMed
+MEASUREMENT_OF,C0814225,Benefits,qnco,C0080309,Ventricular Function,ortf,PubMed
+MEASUREMENT_OF,C0442822,trace amount,qnco,C0234194,Nociception,orgf,PubMed
+MEASUREMENT_OF,C0552389,CROSS SECTION,orga,C0017393,Genetic Markers,genf,PubMed
+MEASUREMENT_OF,C0439534,Dimensions,qnco,C1372942,Ventricular Repolarization,ortf,PubMed
+MEASUREMENT_OF,C0085732,Ability,orga,C0037848,Sperm Motility,celf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C1372942,Ventricular Repolarization,ortf,PubMed
+MEASUREMENT_OF,C0206087,Renal Plasma Flow,lbtr,C0232804,Renal function,ortf,PubMed
+MEASUREMENT_OF,C0035648,risk factors,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C1533148,Case unit dose,qnco,C0205234,Focal,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0232079,Diaphragmatic movement,ortf,PubMed
+MEASUREMENT_OF,C0596244,Cancer Risk,qnco,C0233929,Emission,orgf,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0700630,Neurophysiology - biologic function,phsf,PubMed
+MEASUREMENT_OF,C1547011,Aspect,qnco,C0449774,Patterns,spco,PubMed
+MEASUREMENT_OF,C0806140,Flow,orga,C0031843,physiological aspects,phsf,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C0005823,Blood Pressure,orgf,PubMed
+MEASUREMENT_OF,C1533148,Case unit dose,qnco,C0000726,Abdomen,blor,PubMed
+MEASUREMENT_OF,C1264633,Fraction of,qnco,C0449774,Patterns,spco,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0080309,Ventricular Function,ortf,PubMed
+MEASUREMENT_OF,C0205449,Three,qnco,C0018767,Hearing,phsf,PubMed
+MEASUREMENT_OF,C0449820,Score,qnco,C0205064,Cervical,spco,PubMed
+MEASUREMENT_OF,C1547014,*Constant,qnco,C0007613,Cell physiology,celf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0521324,Skeletal,spco,PubMed
+MEASUREMENT_OF,C1547011,Aspect,qnco,C0205132,Linear,spco,PubMed
+MEASUREMENT_OF,C0205449,Three,qnco,C0221102,Excretory function,phsf,PubMed
+MEASUREMENT_OF,C0439175,% of total,qnco,C0232741,Liver function,ortf,PubMed
+MEASUREMENT_OF,C0205448,Two,qnco,C0080309,Ventricular Function,ortf,PubMed
+MEASUREMENT_OF,C0439475,mmHg,qnco,C0080309,Ventricular Function,ortf,PubMed
+MEASUREMENT_OF,C0443228,Largest,qnco,C0080309,Ventricular Function,ortf,PubMed
+MEASUREMENT_OF,C0439157,counts,qnco,C1171312,kidney development,ortf,PubMed
+MEASUREMENT_OF,C0036668,Sensitivity and Specificity,qnco,C0027530,Neck,blor,PubMed
+MEASUREMENT_OF,C0205453,Seven,qnco,C0042059,Urodynamics,ortf,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0456389,size,spco,PubMed
+MEASUREMENT_OF,C1265611,Quantity,qnco,C0205146,Area,spco,PubMed
+MEASUREMENT_OF,C1547011,Aspect,qnco,C0439792,Extent,spco,PubMed
+MEASUREMENT_OF,C0205454,Eight,qnco,C0018670,Head,blor,PubMed
+MEASUREMENT_OF,C1301886,Caliber,qnco,C0743925,Fetal Growth,phsf,PubMed
+MEASUREMENT_OF,C1514474,Prognostic Factor,clna,C0010067,Coronary Circulation,ortf,PubMed
+MEASUREMENT_OF,C0086850,Process Measures,qnco,C0205125,Depth,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0037864,Spermatogenesis,celf,PubMed
+MEASUREMENT_OF,C0456179,Left ventricular pressure,lbtr,C0027045,Myocardial Contraction,ortf,PubMed
+MEASUREMENT_OF,C1516240,Capacity,qnco,C0006147,Breast Feeding,orgf,PubMed
+MEASUREMENT_OF,C0150312,Present,qnco,C0034057,Pulmonary Circulation,ortf,PubMed
+MEASUREMENT_OF,C0522525,Semi-quantitative,qnco,C0018270,Growth,orgf,PubMed
+MEASUREMENT_OF,C1547053,*Velocity,qnco,C0018270,Growth,orgf,PubMed
+MEASUREMENT_OF,C0039476,Temperature,qnco,C0019010,Hemodynamics,ortf,PubMed
+MEASUREMENT_OF,C0039476,Temperature,qnco,C0683212,CNS function,ortf,PubMed
+MEASUREMENT_OF,C0033522,Prospective Studies,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0442027,Oral,spco,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C0439157,counts,qnco,C0445383,Volumetric,spco,PubMed
+MEASUREMENT_OF,C0018810,heart rate,orga,C0007227,Cardiovascular Physiology,ortf,PubMed
+MEASUREMENT_OF,C0871261,response,clna,C0007227,Cardiovascular Physiology,ortf,PubMed
+MEASUREMENT_OF,C0001779,Age,orga,C0021880,Intracranial Pressure,ortf,PubMed
+MEASUREMENT_OF,C0439201,Micron,qnco,C0543482,morphological,spco,PubMed
+MEASUREMENT_OF,C1547056,*Volume Ratio,qnco,C0007227,Cardiovascular Physiology,ortf,PubMed
+MEASUREMENT_OF,C0522525,Semi-quantitative,qnco,C0080310,"Ventricular Function, Left",ortf,PubMed
+MEASUREMENT_OF,C0439157,counts,qnco,C0015895,Fertility,orgf,PubMed
+MEASUREMENT_OF,C1547011,Aspect,qnco,C0037817,Speech,orgf,PubMed
+MEASUREMENT_OF,C1517945,Loss,qnco,C0042789,Vision,orgf,PubMed
+MEASUREMENT_OF,C1533148,Case unit dose,qnco,C0234386,Cerebral function,ortf,PubMed
+MEASUREMENT_OF,C1301886,Caliber,qnco,C0439824,Verbal,orgf,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0020987,Immunocompetence,celf,PubMed
+MEASUREMENT_OF,C0037791,Specificity,qnco,C0042059,Urodynamics,ortf,PubMed
+MEASUREMENT_OF,C0026777,Multivariate Analysis,qnco,C1510941,Array,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0234194,Nociception,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0205234,Focal,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C1158917,lipoprotein metabolism,moft,PubMed
+MEASUREMENT_OF,C0005885,Body Composition,orga,C1286104,Dietary intake,orgf,PubMed
+MEASUREMENT_OF,C1306372,"Mass, a measure of quantity of matter",qnco,C0449774,Patterns,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C1268869,Antigen-antibody interaction,phsf,PubMed
+MEASUREMENT_OF,C1516240,Capacity,qnco,C0042789,Vision,orgf,PubMed
+MEASUREMENT_OF,C0428862,Myocardial metabolism,lbtr,C1449935,Tissue Viability,ortf,PubMed
+MEASUREMENT_OF,C1547011,Aspect,qnco,C0031843,physiological aspects,phsf,PubMed
+MEASUREMENT_OF,C0449820,Score,qnco,C0743925,Fetal Growth,phsf,PubMed
+MEASUREMENT_OF,C0205450,Four,qnco,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C0814225,Benefits,qnco,C0032961,Pregnancy,orgf,PubMed
+MEASUREMENT_OF,C1533148,Case unit dose,qnco,C0449774,Patterns,spco,PubMed
+MEASUREMENT_OF,C0681921,coefficient of variation,qnco,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C0871420,Standard deviation,qnco,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C1522619,Esophageal,spco,PubMed
+MEASUREMENT_OF,C0205447,One,qnco,C0439824,Verbal,orgf,PubMed
+MEASUREMENT_OF,C0808409,WALL MOTION INDEX,orga,C1449935,Tissue Viability,ortf,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0443204,Divergence,spco,PubMed
+MEASUREMENT_OF,C1533148,Case unit dose,qnco,C1254359,Physiologic Function,phsf,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0037817,Speech,orgf,PubMed
+MEASUREMENT_OF,C1442488,BASELINE,qnco,C0035245,Respiratory physiology,ortf,PubMed
+MEASUREMENT_OF,C0680264,payment,qnco,C0205391,Widespread,spco,PubMed
+MEASUREMENT_OF,C0449820,Score,qnco,C0205101,Extrinsic,spco,PubMed
+MEASUREMENT_OF,C1318284,Tumor marker level result,lbtr,C0041365,Tumor Markers,bacs,PubMed
+MEASUREMENT_OF,C0439165,Percent (qualifier value),qnco,C0449774,Patterns,spco,PubMed
+MEASUREMENT_OF,C0449820,Score,qnco,C0456389,size,spco,PubMed
+MEASUREMENT_OF,C0428781,Right ventricular ejection fraction,lbtr,C0080311,"Ventricular Function, Right",ortf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0017127,Gastric Emptying,ortf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0042939,Voice,orgf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0205126,Horizontal,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0205128,Vertical,spco,PubMed
+MEASUREMENT_OF,C0552601,RESISTIVITY INDEX,orga,C0232351,Vascular impedance,orgf,PubMed
+MEASUREMENT_OF,C0522525,Semi-quantitative,qnco,C0232338,Blood flow,orgf,PubMed
+MEASUREMENT_OF,C0079809,Measures,qnco,C0205246,Generalized,spco,PubMed
+MEASUREMENT_OF,C0871362,Signal Intensity,qnco,C0039493,Temporomandibular Joint,bsoj,PubMed
+MEASUREMENT_OF,C1306372,"Mass, a measure of quantity of matter",qnco,C0443268,Nodal,spco,PubMed
+MEASUREMENT_OF,C0001779,Age,orga,C0026649,Movement,orgf,PubMed
+MEASUREMENT_OF,C0037791,Specificity,qnco,C0018270,Growth,orgf,PubMed
+MEASUREMENT_OF,C1510992,Average,qnco,C0018270,Growth,orgf,PubMed
+MEASUREMENT_OF,C0033522,Prospective Studies,qnco,C0205064,Cervical,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0034929,Reflex action,ortf,PubMed
+MEASUREMENT_OF,C0026777,Multivariate Analysis,qnco,C0870882,Metabolic Rates,phsf,PubMed
+MEASUREMENT_OF,C0871261,response,clna,C0001811,Aging,orgf,PubMed
+MEASUREMENT_OF,C1444754,Length,qnco,C0080310,"Ventricular Function, Left",ortf,PubMed
+MEASUREMENT_OF,C0205456,Ten,qnco,C0205284,Marginal,spco,PubMed
+MEASUREMENT_OF,C0443228,Largest,qnco,C0232164,Cardiac function,ortf,PubMed
+MEASUREMENT_OF,C0489460,Energy requirement,qnco,C0014272,Energy Metabolism,phsf,PubMed
+MEASUREMENT_OF,C0522525,Semi-quantitative,qnco,C0035203,Respiration,phsf,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C0230168,Abdominal Cavity,blor,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0162336,"Permeability, Microvascular",ortf,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C0596873,lymphocyte proliferation,celf,PubMed
+MEASUREMENT_OF,C0032659,geographic population,qnco,C0449774,Patterns,spco,PubMed
+MEASUREMENT_OF,C0443228,Largest,qnco,C0017654,Glomerular Filtration Rate,ortf,PubMed
+MEASUREMENT_OF,C0449820,Score,qnco,C0232741,Liver function,ortf,PubMed
+MEASUREMENT_OF,C0549177,Large,qnco,C0162337,Vascular Permeability,ortf,PubMed
+MEASUREMENT_OF,C0237753,Numbers,qnco,C0562214,Colposcopic,spco,PubMed
+MEASUREMENT_OF,C0205449,Three,qnco,C1517331,Further,spco,PubMed
+MEASUREMENT_OF,C0392762,Quantitative,qnco,C1154580,chemokinesis,celf,PubMed

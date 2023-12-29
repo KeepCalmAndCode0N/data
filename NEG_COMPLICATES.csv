@@ -1,0 +1,1223 @@
+PREDICATE,SUBJECT_CUI,SUBJECT_NAME,SUBJECT_SEMTYPE,OBJECT_CUI,OBJECT_NAME,OBJECT_SEMTYPE,Database
+NEG_COMPLICATES,C0024141,"Lupus Erythematosus, Systemic",dsyn,C0879626,Adverse effects,patf,PubMed
+NEG_COMPLICATES,C0717550,candesartan,orch,C0021655,Insulin Resistance,patf,PubMed
+NEG_COMPLICATES,C0166417,PPAR gamma,aapp,C0277524,Infectious colitis,dsyn,PubMed
+NEG_COMPLICATES,C0003811,cardiac arrhythmia,patf,C1301670,Drug-induced bradycardia,dsyn,PubMed
+NEG_COMPLICATES,C0042212,"Vaccines, Inactivated",imft,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0041004,Triglycerides,bacs,C0019158,Hepatitis,dsyn,PubMed
+NEG_COMPLICATES,C0332907,Congenital absence,cgab,C0266387,Bicornuate uterus,cgab,PubMed
+NEG_COMPLICATES,C0036980,"Shock, Cardiogenic",patf,C0027051,Myocardial Infarction,dsyn,PubMed
+NEG_COMPLICATES,C0728940,Excision,topp,C0037817,Speech,orgf,PubMed
+NEG_COMPLICATES,C1364818,APP gene,aapp,C0265008,Aortocaval fistula,anab,PubMed
+NEG_COMPLICATES,C0023570,Levodopa,nsba,C0017127,Gastric Emptying,ortf,PubMed
+NEG_COMPLICATES,C0015934,Fetal Growth Retardation,patf,C0020459,Hyperinsulinism,dsyn,PubMed
+NEG_COMPLICATES,C0015934,Fetal Growth Retardation,patf,C0242339,Dyslipidemias,dsyn,PubMed
+NEG_COMPLICATES,C0015934,Fetal Growth Retardation,patf,C0872215,mild intolerance,dsyn,PubMed
+NEG_COMPLICATES,C0032046,Placenta Previa,dsyn,C0032044,Placenta Accreta,dsyn,PubMed
+NEG_COMPLICATES,C0004153,Atherosclerosis,dsyn,C0023890,Liver Cirrhosis,dsyn,PubMed
+NEG_COMPLICATES,C0877635,Cytomegalovirus viraemia,dsyn,C0009324,Ulcerative Colitis,dsyn,PubMed
+NEG_COMPLICATES,C0537535,heme oxygenase-2,aapp,C0021368,Inflammation,patf,PubMed
+NEG_COMPLICATES,C0537535,heme oxygenase-2,aapp,C0151692,Impaired wound healing,patf,PubMed
+NEG_COMPLICATES,C0879626,Adverse effects,patf,C0006826,Malignant Neoplasms,neop,PubMed
+NEG_COMPLICATES,C0069477,omega-N-Methylarginine,aapp,C0001122,Acidosis,patf,PubMed
+NEG_COMPLICATES,C0001271,Actins,aapp,C0877271,Denervation atrophy,inpo,PubMed
+NEG_COMPLICATES,C1328025,pertuzumab,aapp,C0876994,Cardiotoxicity,inpo,PubMed
+NEG_COMPLICATES,C0020456,Hyperglycemia,dsyn,C0342257,Complications of Diabetes Mellitus,patf,PubMed
+NEG_COMPLICATES,C0074554,Simvastatin,orch,C0021655,Insulin Resistance,patf,PubMed
+NEG_COMPLICATES,C0019154,Hepatic Vein Thrombosis,dsyn,C0023467,"Leukemia, Myelocytic, Acute",neop,PubMed
+NEG_COMPLICATES,C0073393,Risperidone,phsu,C0041904,Up-Regulation (Physiology),celf,PubMed
+NEG_COMPLICATES,C0149654,Conduct Disorder,mobd,C0011581,Depressive disorder,mobd,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0013384,Dyskinetic syndrome,dsyn,PubMed
+NEG_COMPLICATES,C0028040,Nicotine,hops,C0242422,Parkinsonian Disorders,dsyn,PubMed
+NEG_COMPLICATES,C0206153,Cell Transplantation,topp,C0009566,Complication,patf,PubMed
+NEG_COMPLICATES,C0026933,Mycophenolic Acid,antb,C0243144,uptake,phsf,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0018213,Graves' Disease,dsyn,PubMed
+NEG_COMPLICATES,C0011057,"Hearing Loss, Sudden",fndg,C0015469,Facial paralysis,dsyn,PubMed
+NEG_COMPLICATES,C0004057,Aspirin,orch,C0242656,Disease Progression,patf,PubMed
+NEG_COMPLICATES,C0262926,Medical History,fndg,C0008031,Chest Pain,sosy,PubMed
+NEG_COMPLICATES,C0053799,Bisoprolol,orch,C0278092,Sexual function,orgf,PubMed
+NEG_COMPLICATES,C0054836,carvedilol,orch,C0278092,Sexual function,orgf,PubMed
+NEG_COMPLICATES,C0068475,nebivolol,phsu,C0278092,Sexual function,orgf,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0242422,Parkinsonian Disorders,dsyn,PubMed
+NEG_COMPLICATES,C0020514,Hyperprolactinemia,dsyn,C0008370,Cholestasis,dsyn,PubMed
+NEG_COMPLICATES,C0034830,Nicotinic Receptors,aapp,C0242422,Parkinsonian Disorders,dsyn,PubMed
+NEG_COMPLICATES,C0013227,Pharmaceutical Preparations,phsu,C0242422,Parkinsonian Disorders,dsyn,PubMed
+NEG_COMPLICATES,C0010294,Creatinine,bacs,C1565489,Renal Insufficiency,dsyn,PubMed
+NEG_COMPLICATES,C0041942,Urea,bacs,C1565489,Renal Insufficiency,dsyn,PubMed
+NEG_COMPLICATES,C0018801,Heart failure,dsyn,C0034089,Pulmonary Valve Stenosis,anab,PubMed
+NEG_COMPLICATES,C0340643,Dissection of aorta,dsyn,C1265811,Penetrating ulcer,patf,PubMed
+NEG_COMPLICATES,C1272641,Systemic arterial pressure,fndg,C0020538,Hypertensive disease,dsyn,PubMed
+NEG_COMPLICATES,C0000925,Incised wound,inpo,C0851341,Infestation,dsyn,PubMed
+NEG_COMPLICATES,C0037995,Splenectomy,topp,C0002871,Anemia,dsyn,PubMed
+NEG_COMPLICATES,C0019061,Hemolytic-Uremic Syndrome,dsyn,C0151594,Hemorrhagic diarrhea,dsyn,PubMed
+NEG_COMPLICATES,C0151565,Hemorrhagic colitis,dsyn,C0151594,Hemorrhagic diarrhea,dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0232164,Cardiac function,ortf,PubMed
+NEG_COMPLICATES,C0071986,pristane,orch,C0024143,Lupus Nephritis,dsyn,PubMed
+NEG_COMPLICATES,C1533685,Injection procedure,topp,C0024143,Lupus Nephritis,dsyn,PubMed
+NEG_COMPLICATES,C0023570,Levodopa,aapp,C0013384,Dyskinetic syndrome,dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0520575,Acute pyelonephritis NOS,dsyn,PubMed
+NEG_COMPLICATES,C0022660,"Kidney Failure, Acute",dsyn,C0019159,Hepatitis A,dsyn,PubMed
+NEG_COMPLICATES,C0020179,Huntington Disease,dsyn,C0242656,Disease Progression,patf,PubMed
+NEG_COMPLICATES,C0037929,Spinal Cord Injuries,inpo,C0013604,Edema,patf,PubMed
+NEG_COMPLICATES,C0006098,Brachytherapy,topp,C0278092,Sexual function,orgf,PubMed
+NEG_COMPLICATES,C0041327,"Tuberculosis, Pulmonary",dsyn,C0242379,Malignant neoplasm of lung,neop,PubMed
+NEG_COMPLICATES,C0026918,Mycobacterium Infections,dsyn,C0242379,Malignant neoplasm of lung,neop,PubMed
+NEG_COMPLICATES,C0031206,Personal Satisfaction,fndg,C1457887,Symptoms,sosy,PubMed
+NEG_COMPLICATES,C0003486,Aortic Aneurysm,dsyn,C0003504,Aortic Valve Insufficiency,dsyn,PubMed
+NEG_COMPLICATES,C0452240,Physical therapy exercises,topp,C0003864,Arthritis,dsyn,PubMed
+NEG_COMPLICATES,C0023570,Levodopa,aapp,C0879626,Adverse effects,patf,PubMed
+NEG_COMPLICATES,C0042839,Vitamin A,phsu,C0242606,Oxidative Stress,comd,PubMed
+NEG_COMPLICATES,C0085786,Hamman-Rich syndrome,dsyn,C0027121,Myositis,dsyn,PubMed
+NEG_COMPLICATES,C0041948,Uremia,dsyn,C0948268,Haemodynamic instability,dsyn,PubMed
+NEG_COMPLICATES,C0238644,anemia; profound,dsyn,C0267797,Acute hepatitis,dsyn,PubMed
+NEG_COMPLICATES,C0020261,Hydrochlorothiazide,orch,C0085612,Ventricular arrhythmia,patf,PubMed
+NEG_COMPLICATES,C0012373,Diltiazem,orch,C0018802,Congestive heart failure,dsyn,PubMed
+NEG_COMPLICATES,C0001617,Adrenal Cortex Hormones,horm,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0003280,Anticoagulants,phsu,C0007785,Cerebral Infarction,dsyn,PubMed
+NEG_COMPLICATES,C0521210,Resection of polyp,topp,C0004096,Asthma,dsyn,PubMed
+NEG_COMPLICATES,C0001645,Adrenergic beta-Antagonists,phsu,C0006266,Bronchial Spasm,dsyn,PubMed
+NEG_COMPLICATES,C0742367,CHIARI TYPE MALFORMATION,dsyn,C0277785,Functional disorder,patf,PubMed
+NEG_COMPLICATES,C0243192,agonists,phsu,C0033975,Psychotic Disorders,mobd,PubMed
+NEG_COMPLICATES,C0242852,"Vitreoretinopathy, Proliferative",dsyn,C0271055,Rhegmatogenous retinal detachment,acab,PubMed
+NEG_COMPLICATES,C0002871,Anemia,dsyn,C0242786,High-Risk Pregnancy,dsyn,PubMed
+NEG_COMPLICATES,C0018799,Heart Diseases,dsyn,C0011849,Diabetes Mellitus,dsyn,PubMed
+NEG_COMPLICATES,C0018799,Heart Diseases,dsyn,C0022658,Kidney Diseases,dsyn,PubMed
+NEG_COMPLICATES,C0018799,Heart Diseases,dsyn,C0032914,Pre-Eclampsia,dsyn,PubMed
+NEG_COMPLICATES,C0018799,Heart Diseases,dsyn,C0242786,High-Risk Pregnancy,dsyn,PubMed
+NEG_COMPLICATES,C0020538,Hypertensive disease,dsyn,C0011849,Diabetes Mellitus,dsyn,PubMed
+NEG_COMPLICATES,C0020538,Hypertensive disease,dsyn,C0022658,Kidney Diseases,dsyn,PubMed
+NEG_COMPLICATES,C0020538,Hypertensive disease,dsyn,C0032914,Pre-Eclampsia,dsyn,PubMed
+NEG_COMPLICATES,C0020538,Hypertensive disease,dsyn,C0242786,High-Risk Pregnancy,dsyn,PubMed
+NEG_COMPLICATES,C0035405,Rh Sensitization,patf,C0242786,High-Risk Pregnancy,dsyn,PubMed
+NEG_COMPLICATES,C0035405,Rh Sensitization,patf,C0011849,Diabetes Mellitus,dsyn,PubMed
+NEG_COMPLICATES,C0035405,Rh Sensitization,patf,C0022658,Kidney Diseases,dsyn,PubMed
+NEG_COMPLICATES,C0035405,Rh Sensitization,patf,C0032914,Pre-Eclampsia,dsyn,PubMed
+NEG_COMPLICATES,C0002871,Anemia,dsyn,C0011849,Diabetes Mellitus,dsyn,PubMed
+NEG_COMPLICATES,C0002871,Anemia,dsyn,C0022658,Kidney Diseases,dsyn,PubMed
+NEG_COMPLICATES,C0002871,Anemia,dsyn,C0032914,Pre-Eclampsia,dsyn,PubMed
+NEG_COMPLICATES,C0021747,Interferons,aapp,C0879626,Adverse effects,patf,PubMed
+NEG_COMPLICATES,C0079924,Oligohydramnios,dsyn,C0020224,Polyhydramnios,patf,PubMed
+NEG_COMPLICATES,C0084692,Pulmonary Surfactant-Associated Protein D,aapp,C0007222,Cardiovascular Diseases,dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0850624,"Risk factor, cardiovascular",dsyn,PubMed
+NEG_COMPLICATES,C1533685,Injection procedure,topp,C0027947,Neutropenia,dsyn,PubMed
+NEG_COMPLICATES,C0022108,Irritants,hops,C0006435,"Burns, Chemical",inpo,PubMed
+NEG_COMPLICATES,C0037659,Somatostatin,aapp,C0858734,Insulin hypoglycemia,dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0178665,GLUCOSE TOLERANCE,phsf,PubMed
+NEG_COMPLICATES,C0042510,Ventricular Fibrillation,dsyn,C0027051,Myocardial Infarction,dsyn,PubMed
+NEG_COMPLICATES,C0019357,"Keratitis, Herpetic",dsyn,C0085109,Corneal Neovascularization,patf,PubMed
+NEG_COMPLICATES,C0012634,Disease,dsyn,C0001957,Alcohol Withdrawal Delirium,dsyn,PubMed
+NEG_COMPLICATES,C0043251,Wounds and Injuries,inpo,C0001957,Alcohol Withdrawal Delirium,dsyn,PubMed
+NEG_COMPLICATES,C0151636,Ventricular Premature Complexes,patf,C0600688,Toxic effect,inpo,PubMed
+NEG_COMPLICATES,C0630906,vinyltriethoxysilane,orch,C0948008,Ischemic stroke,dsyn,PubMed
+NEG_COMPLICATES,C0023660,Lidocaine,phsu,C0679429,platelet dysfunction,comd,PubMed
+NEG_COMPLICATES,C0003864,Arthritis,dsyn,C0035435,Rheumatism,dsyn,PubMed
+NEG_COMPLICATES,C0391845,Lysosomal enzyme,aapp,C0023522,"Leukodystrophy, Metachromatic",dsyn,PubMed
+NEG_COMPLICATES,C0949690,Spondylarthritis,dsyn,C0039082,Syndrome,dsyn,PubMed
+NEG_COMPLICATES,C0085542,Pravastatin,phsu,C0035203,Respiration,phsf,PubMed
+NEG_COMPLICATES,C0042510,Ventricular Fibrillation,dsyn,C0003811,cardiac arrhythmia,patf,PubMed
+NEG_COMPLICATES,C0013902,"Elliptocytosis, Hereditary",dsyn,C0002871,Anemia,dsyn,PubMed
+NEG_COMPLICATES,C0151744,Myocardial Ischemia,dsyn,C0011849,Diabetes Mellitus,dsyn,PubMed
+NEG_COMPLICATES,C0007557,Cefoxitin,orch,C0232804,Renal function,ortf,PubMed
+NEG_COMPLICATES,C0016860,Furosemide,phsu,C0232804,Renal function,ortf,PubMed
+NEG_COMPLICATES,C0011847,Diabetes,dsyn,C0268731,Renal glomerular disease,dsyn,PubMed
+NEG_COMPLICATES,C0042514,"Tachycardia, Ventricular",patf,C0151636,Ventricular Premature Complexes,patf,PubMed
+NEG_COMPLICATES,C0032285,Pneumonia,dsyn,C0679247,Terminal illness,dsyn,PubMed
+NEG_COMPLICATES,C0020437,Hypercalcemia,dsyn,C0023470,Myeloid Leukemia,neop,PubMed
+NEG_COMPLICATES,C0000946,Acebutolol,orch,C0020615,hypoglycemia,dsyn,PubMed
+NEG_COMPLICATES,C0017066,Ganciclovir,phsu,C0010823,Cytomegalovirus Infections,dsyn,PubMed
+NEG_COMPLICATES,C0019080,Hemorrhage,fndg,C0025162,"Megacolon, Toxic",dsyn,PubMed
+NEG_COMPLICATES,C0011854,"Diabetes Mellitus, Insulin-Dependent",dsyn,C0011881,Diabetic Nephropathy,dsyn,PubMed
+NEG_COMPLICATES,C0850666,"Infection, H Pylori",dsyn,C0014868,Esophagitis,dsyn,PubMed
+NEG_COMPLICATES,C0036974,Shock,patf,C0155626,Acute myocardial infarction,dsyn,PubMed
+NEG_COMPLICATES,C0520863,Diastolic dysfunction,patf,C0018790,Heart Arrest,patf,PubMed
+NEG_COMPLICATES,C0262926,Medical History,fndg,C0024031,Low Back Pain,sosy,PubMed
+NEG_COMPLICATES,C1271481,Recombinant human granulocyte colony stimulating factor,aapp,C0878544,Cardiomyopathies,dsyn,PubMed
+NEG_COMPLICATES,C0031117,Peripheral Neuropathy,dsyn,C0009566,Complication,patf,PubMed
+NEG_COMPLICATES,C0015934,Fetal Growth Retardation,patf,C1609433,Congenital absence of kidneys syndrome,cgab,PubMed
+NEG_COMPLICATES,C0242184,Hypoxia,patf,C1609433,Congenital absence of kidneys syndrome,cgab,PubMed
+NEG_COMPLICATES,C0010980,Dapsone,orch,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0040690,Transforming Growth Factor beta,aapp,C0151686,Growth retardation,patf,PubMed
+NEG_COMPLICATES,C0001122,Acidosis,patf,C0277785,Functional disorder,patf,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0021655,Insulin Resistance,patf,PubMed
+NEG_COMPLICATES,C0023487,Acute Promyelocytic Leukemia,neop,C0012739,Disseminated Intravascular Coagulation,dsyn,PubMed
+NEG_COMPLICATES,C0002103,Allergic rhinitis NOS,dsyn,C0018213,Graves' Disease,dsyn,PubMed
+NEG_COMPLICATES,C0033845,Pseudotumor Cerebri,dsyn,C0015544,Failure to Thrive,dsyn,PubMed
+NEG_COMPLICATES,C0021757,Interleukin-3,aapp,C0018133,Graft-vs-Host Disease,dsyn,PubMed
+NEG_COMPLICATES,C0013227,Pharmaceutical Preparations,phsu,C0018801,Heart failure,dsyn,PubMed
+NEG_COMPLICATES,C0021641,Insulin,aapp,C0020488,Hypernatremia,dsyn,PubMed
+NEG_COMPLICATES,C0019134,Heparin,bacs,C0333549,Hemorrhagic infarct,patf,PubMed
+NEG_COMPLICATES,C0052059,antileukoprotease,aapp,C0030293,Pancreatic Insufficiency,dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0032143,Alteplase,aapp,C0085692,Hemorrhagic cystitis,dsyn,PubMed
+NEG_COMPLICATES,C0015934,Fetal Growth Retardation,patf,C0000768,Congenital Abnormality,cgab,PubMed
+NEG_COMPLICATES,C0242297,Dietary Supplementation,topp,C0024530,Malaria,dsyn,PubMed
+NEG_COMPLICATES,C0065773,MCI 154,orch,C0003811,cardiac arrhythmia,patf,PubMed
+NEG_COMPLICATES,C0065773,MCI 154,orch,C0085612,Ventricular arrhythmia,patf,PubMed
+NEG_COMPLICATES,C0020649,Hypotension,fndg,C0018802,Congestive heart failure,dsyn,PubMed
+NEG_COMPLICATES,C0333279,Massive hemorrhage,patf,C0010346,Crohn's disease,dsyn,PubMed
+NEG_COMPLICATES,C0027662,Multiple Endocrine Neoplasia,neop,C0161823,Traumatic neuroma,patf,PubMed
+NEG_COMPLICATES,C0065374,Lisinopril,phsu,C0232804,Renal function,ortf,PubMed
+NEG_COMPLICATES,C0333565,Fibrin deposition,patf,C0013604,Edema,patf,PubMed
+NEG_COMPLICATES,C0003211,"Anti-Inflammatory Agents, Non-Steroidal",phsu,C0018802,Congestive heart failure,dsyn,PubMed
+NEG_COMPLICATES,C0003211,"Anti-Inflammatory Agents, Non-Steroidal",phsu,C0020538,Hypertensive disease,dsyn,PubMed
+NEG_COMPLICATES,C0024284,Lymphocytotoxic Antibodies,aapp,C0024312,Lymphopenia,dsyn,PubMed
+NEG_COMPLICATES,C0011946,Dialysis procedure,topp,C0020503,"Hyperparathyroidism, Secondary",dsyn,PubMed
+NEG_COMPLICATES,C0040879,Triazolam,orch,C0233794,Memory impairment,mobd,PubMed
+NEG_COMPLICATES,C0027627,Neoplasm Metastasis,neop,C1402294,Primary Lesion,dsyn,PubMed
+NEG_COMPLICATES,C0004031,"Aspergillosis, Allergic Bronchopulmonary",dsyn,C0151317,Chronic infectious disease,dsyn,PubMed
+NEG_COMPLICATES,C0384570,Recombinant Human Growth Hormone (Mammalian),aapp,C0549593,kidney functional,patf,PubMed
+NEG_COMPLICATES,C0079924,Oligohydramnios,dsyn,C0015944,"Fetal Membranes, Premature Rupture",dsyn,PubMed
+NEG_COMPLICATES,C0011079,Debridement,topp,C0237820,Recovery,orgf,PubMed
+NEG_COMPLICATES,C0341006,Acute pericoronitis,dsyn,C0013240,Alveolar periostitis,dsyn,PubMed
+NEG_COMPLICATES,C0232197,Fibrillation,dsyn,C0151744,Myocardial Ischemia,dsyn,PubMed
+NEG_COMPLICATES,C0036974,Shock,patf,C0034065,Pulmonary Embolism,dsyn,PubMed
+NEG_COMPLICATES,C0006826,Malignant Neoplasms,neop,C1527344,Dysphonia,dsyn,PubMed
+NEG_COMPLICATES,C0021246,Indomethacin,orch,C0035012,Reiter Disease,dsyn,PubMed
+NEG_COMPLICATES,C0028778,Obstruction,patf,C0085612,Ventricular arrhythmia,patf,PubMed
+NEG_COMPLICATES,C0597142,organic base,orch,C0748061,PSYCHIATRIC HOSPITALIZATION,mobd,PubMed
+NEG_COMPLICATES,C0014935,Estrogen Replacement Therapy,topp,C0010068,Coronary heart disease,dsyn,PubMed
+NEG_COMPLICATES,C1142132,Carnitine deficiency,dsyn,C0035400,Reye Syndrome,dsyn,PubMed
+NEG_COMPLICATES,C0006826,Malignant Neoplasms,neop,C0162678,Neurofibromatoses,neop,PubMed
+NEG_COMPLICATES,C0018818,Ventricular Septal Defects,dsyn,C1541923,Infective endocarditis,dsyn,PubMed
+NEG_COMPLICATES,C0011881,Diabetic Nephropathy,dsyn,C0011849,Diabetes Mellitus,dsyn,PubMed
+NEG_COMPLICATES,C0151740,Intracranial Hypertension,dsyn,C0394016,"Coma, Post-Head Injury",dsyn,PubMed
+NEG_COMPLICATES,C0014356,Enterocolitis,dsyn,C0019569,Congenital Megacolon,cgab,PubMed
+NEG_COMPLICATES,C0009566,Complication,patf,C0151311,Cranial nerve palsies,dsyn,PubMed
+NEG_COMPLICATES,C0020261,Hydrochlorothiazide,phsu,C1326961,glucose homeostasis,phsf,PubMed
+NEG_COMPLICATES,C0394374,Vagotomy,topp,C0152020,Gastroparesis,dsyn,PubMed
+NEG_COMPLICATES,C0017658,Glomerulonephritis,dsyn,C0016059,Fibrosis,patf,PubMed
+NEG_COMPLICATES,C0003209,Anti-Inflammatory Agents,phsu,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0039052,Sympathomimetics,phsu,C0020443,hypercholesterolemia,dsyn,PubMed
+NEG_COMPLICATES,C0018824,Heart Valve Diseases,dsyn,C0151744,Myocardial Ischemia,dsyn,PubMed
+NEG_COMPLICATES,C0028778,Obstruction,patf,C0016169,pathologic fistula,anab,PubMed
+NEG_COMPLICATES,C0036690,Septicemia,dsyn,C0016169,pathologic fistula,anab,PubMed
+NEG_COMPLICATES,C0016658,Fracture,inpo,C0005937,Bone Cysts,dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0021775,Intermittent Claudication,dsyn,PubMed
+NEG_COMPLICATES,C0007222,Cardiovascular Diseases,dsyn,C0011854,"Diabetes Mellitus, Insulin-Dependent",dsyn,PubMed
+NEG_COMPLICATES,C0023885,Liver Abscess,dsyn,C0009566,Complication,patf,PubMed
+NEG_COMPLICATES,C0018798,Congenital Heart Defects,cgab,C0009995,Cor Triatriatum,cgab,PubMed
+NEG_COMPLICATES,C0277793,Onset of illness,fndg,C0004096,Asthma,dsyn,PubMed
+NEG_COMPLICATES,C0042029,Urinary tract infection,dsyn,C0009566,Complication,patf,PubMed
+NEG_COMPLICATES,C0020649,Hypotension,fndg,C0022116,Ischemia,dsyn,PubMed
+NEG_COMPLICATES,C0014806,Erythromycin,antb,C0026896,Myasthenia Gravis,dsyn,PubMed
+NEG_COMPLICATES,C0073631,Ketorolac,orch,C0015407,"Eye Infections, Viral",dsyn,PubMed
+NEG_COMPLICATES,C0003209,Anti-Inflammatory Agents,phsu,C0015407,"Eye Infections, Viral",dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0085610,[D]Sinus bradycardia,patf,PubMed
+NEG_COMPLICATES,C0011071,"Death, Sudden",patf,C0085612,Ventricular arrhythmia,patf,PubMed
+NEG_COMPLICATES,C0027051,Myocardial Infarction,dsyn,C0011071,"Death, Sudden",patf,PubMed
+NEG_COMPLICATES,C1527336,Sjogren's Syndrome,dsyn,C0035435,Rheumatism,dsyn,PubMed
+NEG_COMPLICATES,C0007959,Charcot-Marie-Tooth Disease,dsyn,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0032541,Polyneuritis,dsyn,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0034065,Pulmonary Embolism,dsyn,C0007780,Cerebral Embolism,dsyn,PubMed
+NEG_COMPLICATES,C0376560,Recombinant Growth Hormone,aapp,C0020443,hypercholesterolemia,dsyn,PubMed
+NEG_COMPLICATES,C0004610,Bacteremia,dsyn,C0042029,Urinary tract infection,dsyn,PubMed
+NEG_COMPLICATES,C0019588,Histamine,nsba,C0041582,Ulcer,patf,PubMed
+NEG_COMPLICATES,C0027651,Neoplasm,neop,C0014009,Empyema,dsyn,PubMed
+NEG_COMPLICATES,C0028116,Nisoldipine,orch,C0028778,Obstruction,patf,PubMed
+NEG_COMPLICATES,C0036690,Septicemia,dsyn,C0036974,Shock,patf,PubMed
+NEG_COMPLICATES,C0025859,Metoprolol,orch,C0020615,hypoglycemia,dsyn,PubMed
+NEG_COMPLICATES,C0429631,Nitrogen balance,fndg,C0019151,Hepatic Encephalopathy,dsyn,PubMed
+NEG_COMPLICATES,C0151636,Ventricular Premature Complexes,patf,C0151744,Myocardial Ischemia,dsyn,PubMed
+NEG_COMPLICATES,C0448964,Distal anastomosis,topp,C0026766,Multiple Organ Failure,patf,PubMed
+NEG_COMPLICATES,C0740391,Middle Cerebral Artery Occlusion,dsyn,C0013604,Edema,patf,PubMed
+NEG_COMPLICATES,C0579133,Aortic diameter,fndg,C0442893,Systemic disease,dsyn,PubMed
+NEG_COMPLICATES,C0031619,Phosphatidylglycerols,bacs,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0024115,Lung diseases,dsyn,C0033860,Psoriasis,dsyn,PubMed
+NEG_COMPLICATES,C0155626,Acute myocardial infarction,dsyn,C0027051,Myocardial Infarction,dsyn,PubMed
+NEG_COMPLICATES,C0002938,Aneuploidy,comd,C0023473,"Myeloid Leukemia, Chronic",neop,PubMed
+NEG_COMPLICATES,C0003289,Antidepressive Agents,phsu,C0011581,Depressive disorder,mobd,PubMed
+NEG_COMPLICATES,C0003289,Antidepressive Agents,phsu,C0497327,Dementia,mobd,PubMed
+NEG_COMPLICATES,C0013227,Pharmaceutical Preparations,phsu,C0011581,Depressive disorder,mobd,PubMed
+NEG_COMPLICATES,C0013227,Pharmaceutical Preparations,phsu,C0497327,Dementia,mobd,PubMed
+NEG_COMPLICATES,C0677607,Hashimoto Disease,dsyn,C0041408,Turner's Syndrome,cgab,PubMed
+NEG_COMPLICATES,C1332852,Cardiac Rhabdomyoma,neop,C0158619,Congenital insufficiency of mitral valve,cgab,PubMed
+NEG_COMPLICATES,C0037659,Somatostatin,aapp,C0151971,Ulceration of intestine NOS,dsyn,PubMed
+NEG_COMPLICATES,C0242669,"Placenta, Retained",dsyn,C0032797,Postpartum Hemorrhage,patf,PubMed
+NEG_COMPLICATES,C0162758,Serotonin Uptake Inhibitors,phsu,C0686347,Tardive Dyskinesia,dsyn,PubMed
+NEG_COMPLICATES,C0020651,"Hypotension, Orthostatic",fndg,C0020617,Hypoglycemic coma,dsyn,PubMed
+NEG_COMPLICATES,C0013481,Ebstein's Anomaly,cgab,C0243066,Atresia,cgab,PubMed
+NEG_COMPLICATES,C0151773,Hypocellular bone marrow,dsyn,C0012739,Disseminated Intravascular Coagulation,dsyn,PubMed
+NEG_COMPLICATES,C0010055,Coronary Artery Bypass Surgery,topp,C0027051,Myocardial Infarction,dsyn,PubMed
+NEG_COMPLICATES,C0022180,Isoflurane,orch,C0151744,Myocardial Ischemia,dsyn,PubMed
+NEG_COMPLICATES,C0074414,sevoflurane,orch,C0151744,Myocardial Ischemia,dsyn,PubMed
+NEG_COMPLICATES,C0041296,Tuberculosis,dsyn,C0006826,Malignant Neoplasms,neop,PubMed
+NEG_COMPLICATES,C0018549,Halothane,orch,C0920710,liver hypoxia,patf,PubMed
+NEG_COMPLICATES,C0039925,Thiopental,orch,C0920710,liver hypoxia,patf,PubMed
+NEG_COMPLICATES,C0027358,Naloxone,orch,C0151293,Chronic Headache,dsyn,PubMed
+NEG_COMPLICATES,C1321782,Gestosis,dsyn,C0015959,Fetomaternal Transfusion,patf,PubMed
+NEG_COMPLICATES,C0020541,"Hypertension, Portal",dsyn,C0265965,Dyskeratosis Congenita,cgab,PubMed
+NEG_COMPLICATES,C0429562,Superimposition,fndg,C0020538,Hypertensive disease,dsyn,PubMed
+NEG_COMPLICATES,C0038435,Stress,fndg,C0033860,Psoriasis,dsyn,PubMed
+NEG_COMPLICATES,C0041236,TRYPSIN,aapp,C0013990,Pathological accumulation of air in tissues,patf,PubMed
+NEG_COMPLICATES,C0043251,Wounds and Injuries,inpo,C0036690,Septicemia,dsyn,PubMed
+NEG_COMPLICATES,C0032950,prednisolone,phsu,C0600688,Toxic effect,inpo,PubMed
+NEG_COMPLICATES,C0043162,Whole-Body Irradiation,topp,C0232164,Cardiac function,ortf,PubMed
+NEG_COMPLICATES,C0022616,Ketanserin,phsu,C0178665,GLUCOSE TOLERANCE,phsf,PubMed
+NEG_COMPLICATES,C0073631,Ketorolac,orch,C0015404,"Eye Infections, Bacterial",dsyn,PubMed
+NEG_COMPLICATES,C0003209,Anti-Inflammatory Agents,phsu,C0015404,"Eye Infections, Bacterial",dsyn,PubMed
+NEG_COMPLICATES,C0028215,Nitrous Oxide,phsu,C0151744,Myocardial Ischemia,dsyn,PubMed
+NEG_COMPLICATES,C0038627,Succinylcholine,orch,C0876994,Cardiotoxicity,inpo,PubMed
+NEG_COMPLICATES,C0069567,OPC 8212,orch,C0003811,cardiac arrhythmia,patf,PubMed
+NEG_COMPLICATES,C0017658,Glomerulonephritis,dsyn,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0040053,Thrombosis,patf,C0920186,Hepatic artery stenosis,dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0030567,Parkinson Disease,dsyn,PubMed
+NEG_COMPLICATES,C0028094,Nimodipine,orch,C0270611,Brain Injuries,inpo,PubMed
+NEG_COMPLICATES,C0013227,Pharmaceutical Preparations,phsu,C1456822,Claudication,dsyn,PubMed
+NEG_COMPLICATES,C0235480,Paroxysmal atrial fibrillation,patf,C0878544,Cardiomyopathies,dsyn,PubMed
+NEG_COMPLICATES,C0038636,Sucrose,bacs,C0020456,Hyperglycemia,dsyn,PubMed
+NEG_COMPLICATES,C0002913,"Anesthesia, Epidural",topp,C0442874,Neuropathy,dsyn,PubMed
+NEG_COMPLICATES,C0053139,benzamide,orch,C0600688,Toxic effect,inpo,PubMed
+NEG_COMPLICATES,C0020438,Hypercalciuria,dsyn,C0020538,Hypertensive disease,dsyn,PubMed
+NEG_COMPLICATES,C0000833,Abscess,patf,C0009566,Complication,patf,PubMed
+NEG_COMPLICATES,C0001367,Acyclovir,phsu,C0232804,Renal function,ortf,PubMed
+NEG_COMPLICATES,C0042313,Vancomycin,antb,C0232804,Renal function,ortf,PubMed
+NEG_COMPLICATES,C0085795,Amphotericin,antb,C0232804,Renal function,ortf,PubMed
+NEG_COMPLICATES,C0027726,Nephrotic Syndrome,dsyn,C0022661,"Kidney Failure, Chronic",dsyn,PubMed
+NEG_COMPLICATES,C0429631,Nitrogen balance,fndg,C0085584,Encephalopathies,dsyn,PubMed
+NEG_COMPLICATES,C0028351,Norepinephrine,nsba,C0920646,Renal ischaemia,dsyn,PubMed
+NEG_COMPLICATES,C0301812,Pancreatic amylase,aapp,C0035078,Kidney Failure,dsyn,PubMed
+NEG_COMPLICATES,C0301812,Pancreatic amylase,aapp,C0023895,Liver diseases,dsyn,PubMed
+NEG_COMPLICATES,C0022661,"Kidney Failure, Chronic",dsyn,C0023895,Liver diseases,dsyn,PubMed
+NEG_COMPLICATES,C0032787,Postoperative Complications,patf,C0039082,Syndrome,dsyn,PubMed
+NEG_COMPLICATES,C0032787,Postoperative Complications,patf,C0042510,Ventricular Fibrillation,dsyn,PubMed
+NEG_COMPLICATES,C0000975,Acetate,phsu,C0178665,GLUCOSE TOLERANCE,phsf,PubMed
+NEG_COMPLICATES,C0232989,Normal pregnancy,fndg,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0018944,Hematoma,patf,C0013537,Eclampsia,dsyn,PubMed
+NEG_COMPLICATES,C0004760,Dysbarism,inpo,C0264490,Acute respiratory failure,dsyn,PubMed
+NEG_COMPLICATES,C0028778,Obstruction,patf,C0041582,Ulcer,patf,PubMed
+NEG_COMPLICATES,C0949766,Physical therapy,topp,C0017168,Gastroesophageal reflux disease,dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0017168,Gastroesophageal reflux disease,dsyn,PubMed
+NEG_COMPLICATES,C0006938,Captopril,aapp,C0033687,Proteinuria,dsyn,PubMed
+NEG_COMPLICATES,C0019080,Hemorrhage,fndg,C0018674,Craniocerebral Trauma,inpo,PubMed
+NEG_COMPLICATES,C0011884,Diabetic Retinopathy,dsyn,C0035305,Retinal Detachment,dsyn,PubMed
+NEG_COMPLICATES,C0221198,Lesion,fndg,C0007785,Cerebral Infarction,dsyn,PubMed
+NEG_COMPLICATES,C0339467,Proliferative retinopathy NOS,dsyn,C0154830,Proliferative diabetic retinopathy,dsyn,PubMed
+NEG_COMPLICATES,C0012373,Diltiazem,orch,C1140999,Contraction,patf,PubMed
+NEG_COMPLICATES,C0013015,Domperidone,orch,C0879626,Adverse effects,patf,PubMed
+NEG_COMPLICATES,C0407713,Operation on jaw NOS,topp,C0028778,Obstruction,patf,PubMed
+NEG_COMPLICATES,C0002726,Amyloidosis,dsyn,C0031069,Familial Mediterranean Fever,dsyn,PubMed
+NEG_COMPLICATES,C0235280,Ototoxicity,dsyn,C0003811,cardiac arrhythmia,patf,PubMed
+NEG_COMPLICATES,C0037370,"Smoking, Passive",eehu,C1457887,Symptoms,sosy,PubMed
+NEG_COMPLICATES,C0272404,Hyposplenism,dsyn,C0007570,Celiac Disease,dsyn,PubMed
+NEG_COMPLICATES,C0039536,Teratogens,hops,C0232910,Teratogenesis,patf,PubMed
+NEG_COMPLICATES,C0020538,Hypertensive disease,dsyn,C0376634,Craniofacial Abnormalities,cgab,PubMed
+NEG_COMPLICATES,C0240059,Ventricular hemorrhage,patf,C0020538,Hypertensive disease,dsyn,PubMed
+NEG_COMPLICATES,C0013023,Dopa,aapp,C0442874,Neuropathy,dsyn,PubMed
+NEG_COMPLICATES,C0007412,Catecholamines,nsba,C0022116,Ischemia,dsyn,PubMed
+NEG_COMPLICATES,C0019163,Hepatitis B,dsyn,C1306587,Acute encephalopathy,dsyn,PubMed
+NEG_COMPLICATES,C0033228,Fenofibrate,orch,C0232804,Renal function,ortf,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0232804,Renal function,ortf,PubMed
+NEG_COMPLICATES,C0023870,Lithium,phsu,C0011847,Diabetes,dsyn,PubMed
+NEG_COMPLICATES,C0004147,Atenolol,orch,C0004096,Asthma,dsyn,PubMed
+NEG_COMPLICATES,C0268731,Renal glomerular disease,dsyn,C0020538,Hypertensive disease,dsyn,PubMed
+NEG_COMPLICATES,C0040805,Trazodone,orch,C0428974,Supraventricular arrhythmia,patf,PubMed
+NEG_COMPLICATES,C0021843,Intestinal Obstruction,dsyn,C0006826,Malignant Neoplasms,neop,PubMed
+NEG_COMPLICATES,C0040615,Antipsychotic Agents,phsu,C0003811,cardiac arrhythmia,patf,PubMed
+NEG_COMPLICATES,C0001962,Ethanol,orch,C0273163,Injury of pancreas,inpo,PubMed
+NEG_COMPLICATES,C0376338,"Diagnosis, Psychiatric",mobd,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C1565662,Acute Kidney Insufficiency,dsyn,C0019159,Hepatitis A,dsyn,PubMed
+NEG_COMPLICATES,C1565662,Acute Kidney Insufficiency,dsyn,C0149904,Cholestatic hepatitis,dsyn,PubMed
+NEG_COMPLICATES,C0015967,Fever,fndg,C0024530,Malaria,dsyn,PubMed
+NEG_COMPLICATES,C0020541,"Hypertension, Portal",dsyn,C0836924,thrombocytosis,dsyn,PubMed
+NEG_COMPLICATES,C0020541,"Hypertension, Portal",dsyn,C1527336,Sjogren's Syndrome,dsyn,PubMed
+NEG_COMPLICATES,C0221198,Lesion,fndg,C0086439,Hypokinesia,sosy,PubMed
+NEG_COMPLICATES,C0221198,Lesion,fndg,C0233565,Bradykinesia,sosy,PubMed
+NEG_COMPLICATES,C0085298,"Death, Sudden, Cardiac",patf,C0151744,Myocardial Ischemia,dsyn,PubMed
+NEG_COMPLICATES,C0027086,Myoma,neop,C0032987,"Pregnancy, Ectopic",dsyn,PubMed
+NEG_COMPLICATES,C0017658,Glomerulonephritis,dsyn,C0085697,Chronic pyelonephritis NOS,dsyn,PubMed
+NEG_COMPLICATES,C0242656,Disease Progression,patf,C0036202,Sarcoidosis,dsyn,PubMed
+NEG_COMPLICATES,C0013146,Drug abuse,mobd,C0376338,"Diagnosis, Psychiatric",mobd,PubMed
+NEG_COMPLICATES,C0554463,Cutaneous botryomycosis,dsyn,C0024299,Lymphoma,neop,PubMed
+NEG_COMPLICATES,C0085149,Tacrolimus,orch,C0086565,Liver Dysfunction,patf,PubMed
+NEG_COMPLICATES,C0242875,Ventricular Septal Rupture,dsyn,C0155626,Acute myocardial infarction,dsyn,PubMed
+NEG_COMPLICATES,C0009429,Combined Modality Therapy,topp,C0003811,cardiac arrhythmia,patf,PubMed
+NEG_COMPLICATES,C0245514,troglitazone,phsu,C0042401,Vasodilation,phsf,PubMed
+NEG_COMPLICATES,C0024467,Magnesium,bacs,C0024530,Malaria,dsyn,PubMed
+NEG_COMPLICATES,C0036690,Septicemia,dsyn,C0043251,Wounds and Injuries,inpo,PubMed
+NEG_COMPLICATES,C0012359,Pathological Dilatation,patf,C0917798,Cerebral Ischemia,dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0029456,Osteoporosis,dsyn,PubMed
+NEG_COMPLICATES,C0013227,Pharmaceutical Preparations,phsu,C0232164,Cardiac function,ortf,PubMed
+NEG_COMPLICATES,C0162758,Serotonin Uptake Inhibitors,phsu,C0030567,Parkinson Disease,dsyn,PubMed
+NEG_COMPLICATES,C0015967,Fever,fndg,C0008679,Chronic Disease,dsyn,PubMed
+NEG_COMPLICATES,C0038880,Suramin,orch,C0277785,Functional disorder,patf,PubMed
+NEG_COMPLICATES,C0006610,CA-125 Antigen,imft,C0041325,"Peritonitis, Tuberculous",dsyn,PubMed
+NEG_COMPLICATES,C0242966,Sepsis Syndrome,dsyn,C0026766,Multiple Organ Failure,patf,PubMed
+NEG_COMPLICATES,C0015357,Extracorporeal Membrane Oxygenation,topp,C0035245,Respiratory physiology,ortf,PubMed
+NEG_COMPLICATES,C0042510,Ventricular Fibrillation,dsyn,C0042514,"Tachycardia, Ventricular",patf,PubMed
+NEG_COMPLICATES,C0036751,Serotonin,nsba,C0038358,Gastric ulcer,anab,PubMed
+NEG_COMPLICATES,C0360480,Rectal form diclofenac,orch,C0879626,Adverse effects,patf,PubMed
+NEG_COMPLICATES,C0043094,Weight Gain,fndg,C0020456,Hyperglycemia,dsyn,PubMed
+NEG_COMPLICATES,C0600688,Toxic effect,inpo,C0005586,Bipolar Disorder,mobd,PubMed
+NEG_COMPLICATES,C0031139,Peritoneal Dialysis,topp,C0003811,cardiac arrhythmia,patf,PubMed
+NEG_COMPLICATES,C0064326,Ketorolac Tromethamine,phsu,C1254881,Platelet function,celf,PubMed
+NEG_COMPLICATES,C0087086,Thrombus,dsyn,C1261287,Stenosis,patf,PubMed
+NEG_COMPLICATES,C0272404,Hyposplenism,dsyn,C0341439,Chronic liver disease NOS,dsyn,PubMed
+NEG_COMPLICATES,C0004368,Autoimmunity,patf,C0027651,Neoplasm,neop,PubMed
+NEG_COMPLICATES,C0005197,Beta-Carbolines,orch,C1456784,Paranoia,mobd,PubMed
+NEG_COMPLICATES,C0428713,Cerebral perfusion pressure,fndg,C0151740,Intracranial Hypertension,dsyn,PubMed
+NEG_COMPLICATES,C0018621,Hay fever,dsyn,C0011603,Dermatitis,dsyn,PubMed
+NEG_COMPLICATES,C0021308,Infarction,patf,C0152488,Salmonella meningitis,dsyn,PubMed
+NEG_COMPLICATES,C0009906,Combined Oral Contraceptives,phsu,C0149931,Migraine Disorders,dsyn,PubMed
+NEG_COMPLICATES,C0002697,Inamrinone,orch,C0003811,cardiac arrhythmia,patf,PubMed
+NEG_COMPLICATES,C0075619,sulmazole,orch,C0003811,cardiac arrhythmia,patf,PubMed
+NEG_COMPLICATES,C0128513,Milrinone,orch,C0003811,cardiac arrhythmia,patf,PubMed
+NEG_COMPLICATES,C0148345,vesnarinone,orch,C0003811,cardiac arrhythmia,patf,PubMed
+NEG_COMPLICATES,C0012634,Disease,dsyn,C0028754,Obesity,dsyn,PubMed
+NEG_COMPLICATES,C0242184,Hypoxia,patf,C0013604,Edema,patf,PubMed
+NEG_COMPLICATES,C0004623,Bacterial Infections,dsyn,C0021400,Influenza,dsyn,PubMed
+NEG_COMPLICATES,C0036690,Septicemia,dsyn,C0009566,Complication,patf,PubMed
+NEG_COMPLICATES,C0036983,Septic Shock,patf,C0009566,Complication,patf,PubMed
+NEG_COMPLICATES,C0020456,Hyperglycemia,dsyn,C0270739,Hemichorea,dsyn,PubMed
+NEG_COMPLICATES,C0069771,oxiperomide,orch,C0242422,Parkinsonian Disorders,dsyn,PubMed
+NEG_COMPLICATES,C0032950,prednisolone,phsu,C0085278,Antiphospholipid Syndrome,dsyn,PubMed
+NEG_COMPLICATES,C0043031,Warfarin,hops,C0085278,Antiphospholipid Syndrome,dsyn,PubMed
+NEG_COMPLICATES,C0011849,Diabetes Mellitus,dsyn,C0032962,Pregnancy Complications,dsyn,PubMed
+NEG_COMPLICATES,C0011581,Depressive disorder,mobd,C0233794,Memory impairment,mobd,PubMed
+NEG_COMPLICATES,C0032320,Pneumoperitoneum,dsyn,C0004610,Bacteremia,dsyn,PubMed
+NEG_COMPLICATES,C0011685,Desipramine,orch,C0235136,Agitated depression,mobd,PubMed
+NEG_COMPLICATES,C0221198,Lesion,fndg,C1457887,Symptoms,sosy,PubMed
+NEG_COMPLICATES,C0013227,Pharmaceutical Preparations,phsu,C0003811,cardiac arrhythmia,patf,PubMed
+NEG_COMPLICATES,C0028126,Nitrazepam,orch,C0037315,Sleep Apnea Syndromes,dsyn,PubMed
+NEG_COMPLICATES,C0032326,Pneumothorax,dsyn,C0004096,Asthma,dsyn,PubMed
+NEG_COMPLICATES,C0035273,Resuscitation,topp,C1527311,Brain Edema,dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0013604,Edema,patf,PubMed
+NEG_COMPLICATES,C0026976,"Myelitis, Transverse",dsyn,C0008312,Primary biliary cirrhosis,dsyn,PubMed
+NEG_COMPLICATES,C0022671,Kidney Transplantation,topp,C0027765,nervous system disorder,dsyn,PubMed
+NEG_COMPLICATES,C1519630,Transurethral Resection,topp,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0021641,Insulin,aapp,C0342257,Complications of Diabetes Mellitus,patf,PubMed
+NEG_COMPLICATES,C0011847,Diabetes,dsyn,C0014072,Experimental Autoimmune Encephalomyelitis,emod,PubMed
+NEG_COMPLICATES,C0035243,Respiratory Tract Infections,dsyn,C0347950,Asthma attack NOS,dsyn,PubMed
+NEG_COMPLICATES,C0018378,Guillain-Barre Syndrome,dsyn,C0028778,Obstruction,patf,PubMed
+NEG_COMPLICATES,C0543456,Histamine Dihydrochloride,nsba,C1568868,Oral Mucositis,dsyn,PubMed
+NEG_COMPLICATES,C0151814,Coronary Occlusion,dsyn,C0277785,Functional disorder,patf,PubMed
+NEG_COMPLICATES,C0002726,Amyloidosis,dsyn,C0003873,Rheumatoid Arthritis,dsyn,PubMed
+NEG_COMPLICATES,C0036690,Septicemia,dsyn,C0003873,Rheumatoid Arthritis,dsyn,PubMed
+NEG_COMPLICATES,C0041296,Tuberculosis,dsyn,C0003873,Rheumatoid Arthritis,dsyn,PubMed
+NEG_COMPLICATES,C0042384,Vasculitis,dsyn,C0003873,Rheumatoid Arthritis,dsyn,PubMed
+NEG_COMPLICATES,C1273937,Not significant,fndg,C1457887,Symptoms,sosy,PubMed
+NEG_COMPLICATES,C0686747,Well adolescent,fndg,C0085580,Essential Hypertension,dsyn,PubMed
+NEG_COMPLICATES,C0068821,Nitroarginine,orch,C0014544,Epilepsy,dsyn,PubMed
+NEG_COMPLICATES,C0879626,Adverse effects,patf,C0231170,Disability NOS,patf,PubMed
+NEG_COMPLICATES,C0034063,Pulmonary Edema,dsyn,C0039231,Tachycardia,patf,PubMed
+NEG_COMPLICATES,C0027709,Nephrocalcinosis,dsyn,C0001122,Acidosis,patf,PubMed
+NEG_COMPLICATES,C0027709,Nephrocalcinosis,dsyn,C0039082,Syndrome,dsyn,PubMed
+NEG_COMPLICATES,C0035086,Renal Osteodystrophy,dsyn,C0039082,Syndrome,dsyn,PubMed
+NEG_COMPLICATES,C0035086,Renal Osteodystrophy,dsyn,C0001122,Acidosis,patf,PubMed
+NEG_COMPLICATES,C0040732,Transplantation,topp,C0029453,Osteopenia,dsyn,PubMed
+NEG_COMPLICATES,C0003962,Ascites,fndg,C1262481,Eosinophilic gastroenteritis,dsyn,PubMed
+NEG_COMPLICATES,C0027627,Neoplasm Metastasis,neop,C1527390,"Neoplasms, Intracranial",neop,PubMed
+NEG_COMPLICATES,C0597357,receptor,aapp,C0020542,"Hypertension, Pulmonary",dsyn,PubMed
+NEG_COMPLICATES,C0553891,Removal of endotracheal tube,topp,C0035245,Respiratory physiology,ortf,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0339143,Thyroid associated opthalmopathies,dsyn,PubMed
+NEG_COMPLICATES,C0005841,Blood Transfusion,topp,C0023890,Liver Cirrhosis,dsyn,PubMed
+NEG_COMPLICATES,C0005841,Blood Transfusion,topp,C0030312,Pancytopenia,dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0039082,Syndrome,dsyn,PubMed
+NEG_COMPLICATES,C0149663,Dehiscence,inpo,C0332853,Anastomosis,acab,PubMed
+NEG_COMPLICATES,C0005426,Biliary Tract Neoplasm,neop,C0566602,Primary sclerosing cholangitis,dsyn,PubMed
+NEG_COMPLICATES,C0078837,zolantidine,phsu,C0011065,Cessation of life,orgf,PubMed
+NEG_COMPLICATES,C0151740,Intracranial Hypertension,dsyn,C0085436,"Meningitis, Cryptococcal",dsyn,PubMed
+NEG_COMPLICATES,C0543419,Sequela of disorder,fndg,C0085436,"Meningitis, Cryptococcal",dsyn,PubMed
+NEG_COMPLICATES,C0262975,Chronic dermatitis,dsyn,C0011603,Dermatitis,dsyn,PubMed
+NEG_COMPLICATES,C0074554,Simvastatin,orch,C0015376,Extravasation,patf,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0015376,Extravasation,patf,PubMed
+NEG_COMPLICATES,C0014852,Esophageal Diseases,dsyn,C0036421,Systemic Scleroderma,dsyn,PubMed
+NEG_COMPLICATES,C0543467,Operative Surgical Procedures,topp,C0264886,Conduction disorder of the heart,dsyn,PubMed
+NEG_COMPLICATES,C0040053,Thrombosis,patf,C0004153,Atherosclerosis,dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0022679,Cystic kidney,dsyn,PubMed
+NEG_COMPLICATES,C0009566,Complication,patf,C0042384,Vasculitis,dsyn,PubMed
+NEG_COMPLICATES,C0342158,Autoimmune hypothyroidism,dsyn,C0011881,Diabetic Nephropathy,dsyn,PubMed
+NEG_COMPLICATES,C0332124,No past history,fndg,C0001127,"Acidosis, Respiratory",dsyn,PubMed
+NEG_COMPLICATES,C0392525,Nephrolithiasis,dsyn,C0034186,Pyelonephritis,dsyn,PubMed
+NEG_COMPLICATES,C1541923,Infective endocarditis,dsyn,C0014121,Bacterial Endocarditis,dsyn,PubMed
+NEG_COMPLICATES,C0017710,Glucocorticoids,horm,C0162638,Apoptosis,celf,PubMed
+NEG_COMPLICATES,C0032914,Pre-Eclampsia,dsyn,C0472383,"Subarachnoid Hemorrhage, Spontaneous",patf,PubMed
+NEG_COMPLICATES,C0026766,Multiple Organ Failure,patf,C0030305,Pancreatitis,dsyn,PubMed
+NEG_COMPLICATES,C0008845,Citalopram,phsu,C0870921,Motor Performance,orgf,PubMed
+NEG_COMPLICATES,C0039082,Syndrome,dsyn,C0027651,Neoplasm,neop,PubMed
+NEG_COMPLICATES,C0027051,Myocardial Infarction,dsyn,C0333186,Restenosis,acab,PubMed
+NEG_COMPLICATES,C0041327,"Tuberculosis, Pulmonary",dsyn,C0152545,Primary tuberculosis,dsyn,PubMed
+NEG_COMPLICATES,C0031046,Pericarditis,dsyn,C0027051,Myocardial Infarction,dsyn,PubMed
+NEG_COMPLICATES,C0442886,Secondary infection,dsyn,C0267941,"Pancreatitis, Acute Necrotizing",dsyn,PubMed
+NEG_COMPLICATES,C0036974,Shock,patf,C0333276,Acute hemorrhage,patf,PubMed
+NEG_COMPLICATES,C0036982,"Shock, Hemorrhagic",patf,C0333276,Acute hemorrhage,patf,PubMed
+NEG_COMPLICATES,C0011847,Diabetes,dsyn,C0020538,Hypertensive disease,dsyn,PubMed
+NEG_COMPLICATES,C0149721,"Hypertrophy, Left Ventricular",patf,C0020538,Hypertensive disease,dsyn,PubMed
+NEG_COMPLICATES,C0004610,Bacteremia,dsyn,C0019061,Hemolytic-Uremic Syndrome,dsyn,PubMed
+NEG_COMPLICATES,C0006840,Candidiasis,dsyn,C0001824,Agranulocytosis,dsyn,PubMed
+NEG_COMPLICATES,C0011164,Degenerative abnormality,patf,C0002892,"Anemia, Pernicious",dsyn,PubMed
+NEG_COMPLICATES,C0010009,Cordotomy,topp,C0035245,Respiratory physiology,ortf,PubMed
+NEG_COMPLICATES,C0026975,Myelitis,dsyn,C0221026,X-linked agammaglobulinemia,dsyn,PubMed
+NEG_COMPLICATES,C0003281,anticoagulation,topp,C0031039,Pericardial effusion,dsyn,PubMed
+NEG_COMPLICATES,C0034188,"Pyelonephritis, Xanthogranulomatous",dsyn,C0042029,Urinary tract infection,dsyn,PubMed
+NEG_COMPLICATES,C1282231,Endogenous endophthalmitis,dsyn,C0042029,Urinary tract infection,dsyn,PubMed
+NEG_COMPLICATES,C1261287,Stenosis,patf,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0158683,Polycystic liver disease,dsyn,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0151798,Hepatic necrosis,dsyn,C0022350,"Jaundice, Chronic Idiopathic",dsyn,PubMed
+NEG_COMPLICATES,C0143146,Pulmonary Surfactant-Associated Protein A,aapp,C0035220,"Respiratory Distress Syndrome, Newborn",dsyn,PubMed
+NEG_COMPLICATES,C0019080,Hemorrhage,fndg,C0030305,Pancreatitis,dsyn,PubMed
+NEG_COMPLICATES,C0015967,Fever,fndg,C0007785,Cerebral Infarction,dsyn,PubMed
+NEG_COMPLICATES,C0022116,Ischemia,dsyn,C0277785,Functional disorder,patf,PubMed
+NEG_COMPLICATES,C0161816,Cardiac complication,patf,C0022116,Ischemia,dsyn,PubMed
+NEG_COMPLICATES,C0003195,Anti-Arrhythmia Agents,phsu,C0003811,cardiac arrhythmia,patf,PubMed
+NEG_COMPLICATES,C0007220,Cardiovascular Agents,phsu,C0003811,cardiac arrhythmia,patf,PubMed
+NEG_COMPLICATES,C0032914,Pre-Eclampsia,dsyn,C0347630,Liver hematoma,dsyn,PubMed
+NEG_COMPLICATES,C0162739,HELLP Syndrome,dsyn,C0347630,Liver hematoma,dsyn,PubMed
+NEG_COMPLICATES,C0233494,Tension,mobd,C0302113,Fragility,comd,PubMed
+NEG_COMPLICATES,C0042373,Vascular Diseases,dsyn,C0011847,Diabetes,dsyn,PubMed
+NEG_COMPLICATES,C0015732,Fecal Incontinence,dsyn,C0262374,Stricture of anus,acab,PubMed
+NEG_COMPLICATES,C0003765,Arginine,bacs,C0162638,Apoptosis,celf,PubMed
+NEG_COMPLICATES,C0302583,Iron,bacs,C0745409,IRON TOXICITY,inpo,PubMed
+NEG_COMPLICATES,C0019163,Hepatitis B,dsyn,C0026769,Multiple Sclerosis,dsyn,PubMed
+NEG_COMPLICATES,C0042196,Vaccination,topp,C0014072,Experimental Autoimmune Encephalomyelitis,emod,PubMed
+NEG_COMPLICATES,C0033677,Protein-Energy Malnutrition,patf,C0023896,Alcoholic Liver Diseases,dsyn,PubMed
+NEG_COMPLICATES,C0079460,Granulocyte-Macrophage Colony-Stimulating Factor,aapp,C0600688,Toxic effect,inpo,PubMed
+NEG_COMPLICATES,C0009871,Contraceptive Agents,phsu,C0025517,Metabolic Diseases,dsyn,PubMed
+NEG_COMPLICATES,C0007561,Ceftriaxone,antb,C0020964,Immunity,phsf,PubMed
+NEG_COMPLICATES,C0038435,Stress,fndg,C0018784,Sensorineural Hearing Loss,dsyn,PubMed
+NEG_COMPLICATES,C0338575,Sagittal Sinus Thrombosis,dsyn,C0006413,Burkitt Lymphoma,neop,PubMed
+NEG_COMPLICATES,C0018801,Heart failure,dsyn,C0021308,Infarction,patf,PubMed
+NEG_COMPLICATES,C0028128,Nitric Oxide,bacs,C0340515,Myocardial dysfunction,patf,PubMed
+NEG_COMPLICATES,C1320226,Incubation period,fndg,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0277554,Primary disease,dsyn,C0021390,Inflammatory Bowel Diseases,dsyn,PubMed
+NEG_COMPLICATES,C0011304,Demyelination,patf,C0333641,Atrophic,patf,PubMed
+NEG_COMPLICATES,C0027540,Necrosis,patf,C0009566,Complication,patf,PubMed
+NEG_COMPLICATES,C0242875,Ventricular Septal Rupture,dsyn,C0746982,OBSTRUCTIVE DISEASE,dsyn,PubMed
+NEG_COMPLICATES,C0023885,Liver Abscess,dsyn,C0009324,Ulcerative Colitis,dsyn,PubMed
+NEG_COMPLICATES,C0038826,Superinfection,dsyn,C0032371,Poliomyelitis,dsyn,PubMed
+NEG_COMPLICATES,C0037903,SPHINGOMYELINASE,aapp,C0876973,Infectious disease of lung,dsyn,PubMed
+NEG_COMPLICATES,C0020473,Hyperlipidemia,dsyn,C0013604,Edema,patf,PubMed
+NEG_COMPLICATES,C0020538,Hypertensive disease,dsyn,C0948008,Ischemic stroke,dsyn,PubMed
+NEG_COMPLICATES,C0518181,Development of the breasts,fndg,C0042755,Virilism,sosy,PubMed
+NEG_COMPLICATES,C0035067,Renal Artery Stenosis,dsyn,C0242528,Azotemia,dsyn,PubMed
+NEG_COMPLICATES,C0039601,Testosterone,horm,C0278092,Sexual function,orgf,PubMed
+NEG_COMPLICATES,C0519097,Left ventricular aneurysm,dsyn,C0042514,"Tachycardia, Ventricular",patf,PubMed
+NEG_COMPLICATES,C0013806,Electroconvulsive Therapy,topp,C0005823,Blood Pressure,orgf,PubMed
+NEG_COMPLICATES,C0016059,Fibrosis,patf,C0553697,Granulomatous inflammation,patf,PubMed
+NEG_COMPLICATES,C0027540,Necrosis,patf,C0553697,Granulomatous inflammation,patf,PubMed
+NEG_COMPLICATES,C0011847,Diabetes,dsyn,C0036429,Sclerosis,patf,PubMed
+NEG_COMPLICATES,C0128897,Monocyte Chemoattractant Protein-1,aapp,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0013227,Pharmaceutical Preparations,phsu,C0020473,Hyperlipidemia,dsyn,PubMed
+NEG_COMPLICATES,C0022116,Ischemia,dsyn,C0242184,Hypoxia,patf,PubMed
+NEG_COMPLICATES,C0006309,Brucellosis,dsyn,C0009450,Communicable Diseases,dsyn,PubMed
+NEG_COMPLICATES,C0035305,Retinal Detachment,dsyn,C0339200,Scleral rupture,inpo,PubMed
+NEG_COMPLICATES,C0242852,"Vitreoretinopathy, Proliferative",dsyn,C0339200,Scleral rupture,inpo,PubMed
+NEG_COMPLICATES,C0035078,Kidney Failure,dsyn,C0007131,"Carcinoma, Non-Small-Cell Lung",neop,PubMed
+NEG_COMPLICATES,C0549622,Sexual Dysfunction,dsyn,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0029443,Osteomyelitis,dsyn,C0264515,Gangrenous pneumonia,dsyn,PubMed
+NEG_COMPLICATES,C0019158,Hepatitis,dsyn,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0253355,pixantrone,orch,C0878544,Cardiomyopathies,dsyn,PubMed
+NEG_COMPLICATES,C0333513,Fibrinoid necrosis,patf,C0003850,Arteriosclerosis,dsyn,PubMed
+NEG_COMPLICATES,C0014563,Epinephrine,horm,C0596402,cytotoxicity,comd,PubMed
+NEG_COMPLICATES,C0035078,Kidney Failure,dsyn,C0009566,Complication,patf,PubMed
+NEG_COMPLICATES,C0299792,aripiprazole,orch,C0033975,Psychotic Disorders,mobd,PubMed
+NEG_COMPLICATES,C0020541,"Hypertension, Portal",dsyn,C0748159,PULMONARY INVOLVEMENT,dsyn,PubMed
+NEG_COMPLICATES,C0040053,Thrombosis,patf,C0272285,Heparin-induced thrombocytopenia,dsyn,PubMed
+NEG_COMPLICATES,C0079281,Endothelin-1,aapp,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0911014,ghrelin,aapp,C0041582,Ulcer,patf,PubMed
+NEG_COMPLICATES,C0013227,Pharmaceutical Preparations,phsu,C0270611,Brain Injuries,inpo,PubMed
+NEG_COMPLICATES,C0012569,Diplopia,dsyn,C0238061,CHRONIC INFLAMMATORY POLYNEUROPATHY,dsyn,PubMed
+NEG_COMPLICATES,C0527353,torborinone,orch,C0879626,Adverse effects,patf,PubMed
+NEG_COMPLICATES,C0006684,Calcium Channel Blockers,phsu,C0022658,Kidney Diseases,dsyn,PubMed
+NEG_COMPLICATES,C0021345,Infectious Mononucleosis,dsyn,C0160405,Injury to spleen NOS,inpo,PubMed
+NEG_COMPLICATES,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",dsyn,C0023895,Liver diseases,dsyn,PubMed
+NEG_COMPLICATES,C0166415,PPAR alpha,rcpt,C0237820,Recovery,orgf,PubMed
+NEG_COMPLICATES,C1565316,ramelteon,orch,C0037315,Sleep Apnea Syndromes,dsyn,PubMed
+NEG_COMPLICATES,C0042201,Measles vaccination,topp,C0011615,"Dermatitis, Atopic",dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0036974,Shock,patf,PubMed
+NEG_COMPLICATES,C0205946,Antischistosomal Agents,phsu,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0544461,Inactivation,comd,C0004153,Atherosclerosis,dsyn,PubMed
+NEG_COMPLICATES,C0262926,Medical History,fndg,C0014236,Endophthalmitis,dsyn,PubMed
+NEG_COMPLICATES,C0262926,Medical History,fndg,C0238051,Cerebral Angiitis,dsyn,PubMed
+NEG_COMPLICATES,C0340291,Silent myocardial ischemia,patf,C0038449,Stricture of artery,anab,PubMed
+NEG_COMPLICATES,C0234517,Anarthria speech disorder,dsyn,C0392704,Cortical Deafness,dsyn,PubMed
+NEG_COMPLICATES,C0002771,Analgesics,phsu,C0277785,Functional disorder,patf,PubMed
+NEG_COMPLICATES,C0262926,Medical History,fndg,C0013404,Dyspnea,sosy,PubMed
+NEG_COMPLICATES,C0024110,Lung Abscess,dsyn,C0032285,Pneumonia,dsyn,PubMed
+NEG_COMPLICATES,C0004096,Asthma,dsyn,C0041327,"Tuberculosis, Pulmonary",dsyn,PubMed
+NEG_COMPLICATES,C0079904,NF-kappa B,aapp,C1512409,Hepatocarcinogenesis,neop,PubMed
+NEG_COMPLICATES,C0733413,Meprin,aapp,C0021376,Chronic inflammation,patf,PubMed
+NEG_COMPLICATES,C0394162,Deep Brain Stimulation,topp,C0030567,Parkinson Disease,dsyn,PubMed
+NEG_COMPLICATES,C0015934,Fetal Growth Retardation,patf,C0032914,Pre-Eclampsia,dsyn,PubMed
+NEG_COMPLICATES,C0003241,Antibodies,aapp,C0859253,Microhemorrhage,patf,PubMed
+NEG_COMPLICATES,C0549433,Surgical intervention,fndg,C0311392,Physical findings,sosy,PubMed
+NEG_COMPLICATES,C0010068,Coronary heart disease,dsyn,C0011849,Diabetes Mellitus,dsyn,PubMed
+NEG_COMPLICATES,C0010068,Coronary heart disease,dsyn,C0085580,Essential Hypertension,dsyn,PubMed
+NEG_COMPLICATES,C0021495,"Injections, Intraventricular",topp,C0751955,Brain Infarction,dsyn,PubMed
+NEG_COMPLICATES,C0242379,Malignant neoplasm of lung,neop,C0026918,Mycobacterium Infections,dsyn,PubMed
+NEG_COMPLICATES,C0383327,Interleukin-18,aapp,C0009319,Colitis,dsyn,PubMed
+NEG_COMPLICATES,C1536220,STEMI,dsyn,C0856169,Endothelial dysfunction,dsyn,PubMed
+NEG_COMPLICATES,C1531518,Biological treatment,topp,C0003873,Rheumatoid Arthritis,dsyn,PubMed
+NEG_COMPLICATES,C0669368,Nitric Oxide Synthase Type I,aapp,C0026848,Myopathy,dsyn,PubMed
+NEG_COMPLICATES,C0011847,Diabetes,dsyn,C0038454,Cerebrovascular accident,dsyn,PubMed
+NEG_COMPLICATES,C0241236,Does squat,fndg,C0039082,Syndrome,dsyn,PubMed
+NEG_COMPLICATES,C1145670,Respiratory Failure,dsyn,C0024115,Lung diseases,dsyn,PubMed
+NEG_COMPLICATES,C0017525,Giant Cell Tumors,neop,C0029401,Osteitis Deformans,dsyn,PubMed
+NEG_COMPLICATES,C0015967,Fever,fndg,C0221166,Paraparesis,sosy,PubMed
+NEG_COMPLICATES,C0267497,Meckel's diverticulitis,dsyn,C0031154,Peritonitis,dsyn,PubMed
+NEG_COMPLICATES,C0267497,Meckel's diverticulitis,dsyn,C0853013,Diverticular perforation,dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0014072,Experimental Autoimmune Encephalomyelitis,emod,PubMed
+NEG_COMPLICATES,C0029456,Osteoporosis,dsyn,C0020541,"Hypertension, Portal",dsyn,PubMed
+NEG_COMPLICATES,C0151699,Intracranial Hemorrhages,patf,C0041582,Ulcer,patf,PubMed
+NEG_COMPLICATES,C0338573,Cerebral venous sinus thrombosis,dsyn,C0041582,Ulcer,patf,PubMed
+NEG_COMPLICATES,C0039082,Syndrome,dsyn,C0024535,"Malaria, Falciparum",dsyn,PubMed
+NEG_COMPLICATES,C0360714,Hydroxymethylglutaryl-CoA Reductase Inhibitors,phsu,C0232741,Liver function,ortf,PubMed
+NEG_COMPLICATES,C0400966,Non-alcoholic fatty liver,dsyn,C0028754,Obesity,dsyn,PubMed
+NEG_COMPLICATES,C0935992,Telomerase RNA Component,bacs,C0233794,Memory impairment,mobd,PubMed
+NEG_COMPLICATES,C0012854,DNA,bacs,C0004368,Autoimmunity,patf,PubMed
+NEG_COMPLICATES,C0012854,DNA,bacs,C0024143,Lupus Nephritis,dsyn,PubMed
+NEG_COMPLICATES,C0035736,"RNA, Viral",nnon,C0004368,Autoimmunity,patf,PubMed
+NEG_COMPLICATES,C0035736,"RNA, Viral",nnon,C0024143,Lupus Nephritis,dsyn,PubMed
+NEG_COMPLICATES,C0700589,Contraceptive methods,topp,C0009566,Complication,patf,PubMed
+NEG_COMPLICATES,C0004623,Bacterial Infections,dsyn,C0242656,Disease Progression,patf,PubMed
+NEG_COMPLICATES,C0020456,Hyperglycemia,dsyn,C0332448,Infiltration,patf,PubMed
+NEG_COMPLICATES,C0020456,Hyperglycemia,dsyn,C0856169,Endothelial dysfunction,dsyn,PubMed
+NEG_COMPLICATES,C0031572,"Phobia, Social",mobd,C0524528,Pervasive Development Disorders,mobd,PubMed
+NEG_COMPLICATES,C0018801,Heart failure,dsyn,C1261287,Stenosis,patf,PubMed
+NEG_COMPLICATES,C0013030,Dopamine,nsba,C0007587,Cell Death,celf,PubMed
+NEG_COMPLICATES,C0600228,Cardiopulmonary Arrest,patf,C0751079,"Diplopia, Vertical",dsyn,PubMed
+NEG_COMPLICATES,C0016655,"Multiple fractures, unspecified",inpo,C0917990,Acro-Osteolysis,dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0020542,"Hypertension, Pulmonary",dsyn,PubMed
+NEG_COMPLICATES,C0026918,Mycobacterium Infections,dsyn,C0009324,Ulcerative Colitis,dsyn,PubMed
+NEG_COMPLICATES,C0376495,Retreatment,topp,C0026916,Mycobacterium avium-intracellulare Infection,dsyn,PubMed
+NEG_COMPLICATES,C1527075,Revision procedure,topp,C0026649,Movement,orgf,PubMed
+NEG_COMPLICATES,C0085295,Interleukin-10,imft,C0237820,Recovery,orgf,PubMed
+NEG_COMPLICATES,C0961814,interleukin-22,aapp,C0000833,Abscess,patf,PubMed
+NEG_COMPLICATES,C0151905,Alanine aminotransferase increased,fndg,C0019158,Hepatitis,dsyn,PubMed
+NEG_COMPLICATES,C0009566,Complication,patf,C0740447,Diabetic peripheral neuropathy,dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0004153,Atherosclerosis,dsyn,PubMed
+NEG_COMPLICATES,C0393022,rituximab,aapp,C0023524,"Leukoencephalopathy, Progressive Multifocal",dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0023524,"Leukoencephalopathy, Progressive Multifocal",dsyn,PubMed
+NEG_COMPLICATES,C0683468,invasive treatment,topp,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0872084,Sarcopenia,fndg,C0029453,Osteopenia,dsyn,PubMed
+NEG_COMPLICATES,C0289463,hexabromocyclododecane,orch,C0021368,Inflammation,patf,PubMed
+NEG_COMPLICATES,C0020857,IgG2A,aapp,C0027059,Myocarditis,dsyn,PubMed
+NEG_COMPLICATES,C0003241,Antibodies,aapp,C0027059,Myocarditis,dsyn,PubMed
+NEG_COMPLICATES,C0344315,Depressed mood,fndg,C1457887,Symptoms,sosy,PubMed
+NEG_COMPLICATES,C0293624,Thyroid hormone receptor alpha,aapp,C0020443,hypercholesterolemia,dsyn,PubMed
+NEG_COMPLICATES,C0278907,Somatostatin analog therapy,topp,C0042870,Vitamin D Deficiency,dsyn,PubMed
+NEG_COMPLICATES,C0085196,Oxidopamine,orch,C0740391,Middle Cerebral Artery Occlusion,dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0740391,Middle Cerebral Artery Occlusion,dsyn,PubMed
+NEG_COMPLICATES,C0001041,Acetylcholine,nsba,C0021368,Inflammation,patf,PubMed
+NEG_COMPLICATES,C0028754,Obesity,dsyn,C0021655,Insulin Resistance,patf,PubMed
+NEG_COMPLICATES,C0028754,Obesity,dsyn,C0029456,Osteoporosis,dsyn,PubMed
+NEG_COMPLICATES,C0262926,Medical History,fndg,C0018834,Heartburn,sosy,PubMed
+NEG_COMPLICATES,C0053355,bestatin,aapp,C0002792,Anaphylaxis,patf,PubMed
+NEG_COMPLICATES,C0162574,"Glycosylation End Products, Advanced",bacs,C0021368,Inflammation,patf,PubMed
+NEG_COMPLICATES,C0032458,"Polycyclic Hydrocarbons, Aromatic",orch,C0021375,"Inflammation, allergic",patf,PubMed
+NEG_COMPLICATES,C0220654,Malignant meningitis,neop,C0854988,Lung adenocarcinoma metastatic,neop,PubMed
+NEG_COMPLICATES,C0027769,Nervousness,fndg,C0442874,Neuropathy,dsyn,PubMed
+NEG_COMPLICATES,C0332563,Papule,fndg,C0011615,"Dermatitis, Atopic",dsyn,PubMed
+NEG_COMPLICATES,C0005841,Blood Transfusion,topp,C0002871,Anemia,dsyn,PubMed
+NEG_COMPLICATES,C0011777,Dexamethasone,phsu,C1326961,glucose homeostasis,phsf,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C1326961,glucose homeostasis,phsf,PubMed
+NEG_COMPLICATES,C0019080,Hemorrhage,fndg,C0221013,"Mastocytosis, Systemic",dsyn,PubMed
+NEG_COMPLICATES,C0020541,"Hypertension, Portal",dsyn,C0221013,"Mastocytosis, Systemic",dsyn,PubMed
+NEG_COMPLICATES,C0004364,Autoimmune Diseases,dsyn,C0008626,Congenital chromosomal disease,dsyn,PubMed
+NEG_COMPLICATES,C0023206,Lectin,aapp,C0028754,Obesity,dsyn,PubMed
+NEG_COMPLICATES,C0017168,Gastroesophageal reflux disease,dsyn,C0004763,Barrett Esophagus,dsyn,PubMed
+NEG_COMPLICATES,C0023870,Lithium,phsu,C0178664,Glomerulosclerosis,dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0271713,Ketotic hypoglycemia,dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0018133,Graft-vs-Host Disease,dsyn,PubMed
+NEG_COMPLICATES,C0072980,Sirolimus (substance),antb,C0596402,cytotoxicity,comd,PubMed
+NEG_COMPLICATES,C0549433,Surgical intervention,fndg,C0016542,Foreign Bodies,inpo,PubMed
+NEG_COMPLICATES,C1142175,Shunt thrombosis,patf,C0020541,"Hypertension, Portal",dsyn,PubMed
+NEG_COMPLICATES,C0027051,Myocardial Infarction,dsyn,C0036690,Septicemia,dsyn,PubMed
+NEG_COMPLICATES,C0003364,Antihypertensive Agents,phsu,C0021655,Insulin Resistance,patf,PubMed
+NEG_COMPLICATES,C0073393,Risperidone,orch,C0026896,Myasthenia Gravis,dsyn,PubMed
+NEG_COMPLICATES,C1276996,Atypical antipsychotic,phsu,C0026896,Myasthenia Gravis,dsyn,PubMed
+NEG_COMPLICATES,C0013227,Pharmaceutical Preparations,phsu,C0026896,Myasthenia Gravis,dsyn,PubMed
+NEG_COMPLICATES,C0025677,Methotrexate,orch,C0003873,Rheumatoid Arthritis,dsyn,PubMed
+NEG_COMPLICATES,C0003211,"Anti-Inflammatory Agents, Non-Steroidal",phsu,C0043240,Wound Healing,orgf,PubMed
+NEG_COMPLICATES,C0027651,Neoplasm,neop,C0400979,Obstruction of biliary tree,anab,PubMed
+NEG_COMPLICATES,C0013085,Doxepin,phsu,C0596840,limb movement,orgf,PubMed
+NEG_COMPLICATES,C0040805,Trazodone,orch,C0596840,limb movement,orgf,PubMed
+NEG_COMPLICATES,C0068485,nefazodone,orch,C0596840,limb movement,orgf,PubMed
+NEG_COMPLICATES,C0242698,"Ventricular Dysfunction, Left",patf,C0022116,Ischemia,dsyn,PubMed
+NEG_COMPLICATES,C0015357,Extracorporeal Membrane Oxygenation,topp,C0151701,[D]Pulmonary hemorrhage,patf,PubMed
+NEG_COMPLICATES,C0242896,Anticholinergic Agents,phsu,C0018801,Heart failure,dsyn,PubMed
+NEG_COMPLICATES,C0243192,agonists,phsu,C0018801,Heart failure,dsyn,PubMed
+NEG_COMPLICATES,C0024291,"Lymphohistiocytosis, Hemophagocytic",dsyn,C0006826,Malignant Neoplasms,neop,PubMed
+NEG_COMPLICATES,C0443781,Globin chain,aapp,C0005283,beta Thalassemia,dsyn,PubMed
+NEG_COMPLICATES,C0085612,Ventricular arrhythmia,patf,C0036980,"Shock, Cardiogenic",patf,PubMed
+NEG_COMPLICATES,C0360714,Hydroxymethylglutaryl-CoA Reductase Inhibitors,orch,C0020541,"Hypertension, Portal",dsyn,PubMed
+NEG_COMPLICATES,C0008838,Cisplatin,inch,C0232804,Renal function,ortf,PubMed
+NEG_COMPLICATES,C0027051,Myocardial Infarction,dsyn,C0002965,Unstable angina,dsyn,PubMed
+NEG_COMPLICATES,C0003509,Aortitis,dsyn,C0340643,Dissection of aorta,anab,PubMed
+NEG_COMPLICATES,C0041296,Tuberculosis,dsyn,C0009451,Communicating Hydrocephalus,dsyn,PubMed
+NEG_COMPLICATES,C0041296,Tuberculosis,dsyn,C0041318,"Tuberculosis, Meningeal",dsyn,PubMed
+NEG_COMPLICATES,C0032460,Polycystic Ovary Syndrome,dsyn,C0400966,Non-alcoholic fatty liver,dsyn,PubMed
+NEG_COMPLICATES,C0032460,Polycystic Ovary Syndrome,dsyn,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0015967,Fever,fndg,C0036690,Septicemia,dsyn,PubMed
+NEG_COMPLICATES,C0030305,Pancreatitis,dsyn,C0039082,Syndrome,dsyn,PubMed
+NEG_COMPLICATES,C0072980,Sirolimus (substance),antb,C0270611,Brain Injuries,inpo,PubMed
+NEG_COMPLICATES,C0041327,"Tuberculosis, Pulmonary",dsyn,C1334363,Large Cell Neuroendocrine Lung Carcinoma,neop,PubMed
+NEG_COMPLICATES,C0026918,Mycobacterium Infections,dsyn,C1334363,Large Cell Neuroendocrine Lung Carcinoma,neop,PubMed
+NEG_COMPLICATES,C0040053,Thrombosis,patf,C0034186,Pyelonephritis,dsyn,PubMed
+NEG_COMPLICATES,C1456711,Sun Exposure,fndg,C0030193,Pain,sosy,PubMed
+NEG_COMPLICATES,C0199176,Prophylactic treatment,topp,C0151699,Intracranial Hemorrhages,patf,PubMed
+NEG_COMPLICATES,C0078847,zopiclone,orch,C0520679,"Sleep Apnea, Obstructive",dsyn,PubMed
+NEG_COMPLICATES,C0006632,Cadmium,hops,C0600688,Toxic effect,inpo,PubMed
+NEG_COMPLICATES,C0010346,Crohn's disease,dsyn,C0024623,Malignant neoplasm of stomach,neop,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0007613,Cell physiology,celf,PubMed
+NEG_COMPLICATES,C0009566,Complication,patf,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0022658,Kidney Diseases,dsyn,C0011854,"Diabetes Mellitus, Insulin-Dependent",dsyn,PubMed
+NEG_COMPLICATES,C0035309,Retinal Diseases,dsyn,C0011854,"Diabetes Mellitus, Insulin-Dependent",dsyn,PubMed
+NEG_COMPLICATES,C0442874,Neuropathy,dsyn,C0011854,"Diabetes Mellitus, Insulin-Dependent",dsyn,PubMed
+NEG_COMPLICATES,C0042196,Vaccination,topp,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0007115,Malignant neoplasm of thyroid,neop,PubMed
+NEG_COMPLICATES,C0002871,Anemia,dsyn,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0036679,Diastasis,patf,C0009319,Colitis,dsyn,PubMed
+NEG_COMPLICATES,C0521974,High fat diet NOS,fndg,C0035126,Reperfusion Injury,inpo,PubMed
+NEG_COMPLICATES,C0023890,Liver Cirrhosis,dsyn,C0023903,Liver neoplasms,neop,PubMed
+NEG_COMPLICATES,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",dsyn,C0400966,Non-alcoholic fatty liver,dsyn,PubMed
+NEG_COMPLICATES,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",dsyn,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0701303,R-38486,phsu,C0752304,Hypoxic-Ischemic Encephalopathy,dsyn,PubMed
+NEG_COMPLICATES,C0302583,Iron,bacs,C0231921,pulmonary function,ortf,PubMed
+NEG_COMPLICATES,C0038766,Sulfonylurea Compounds,orch,C0035126,Reperfusion Injury,inpo,PubMed
+NEG_COMPLICATES,C0017628,Glyburide,orch,C0035126,Reperfusion Injury,inpo,PubMed
+NEG_COMPLICATES,C0400966,Non-alcoholic fatty liver,dsyn,C0011849,Diabetes Mellitus,dsyn,PubMed
+NEG_COMPLICATES,C0012634,Disease,dsyn,C0011849,Diabetes Mellitus,dsyn,PubMed
+NEG_COMPLICATES,C0262926,Medical History,fndg,C0018681,Headache,sosy,PubMed
+NEG_COMPLICATES,C0072327,protease IV,aapp,C0032285,Pneumonia,dsyn,PubMed
+NEG_COMPLICATES,C0004238,Atrial Fibrillation,patf,C0087086,Thrombus,dsyn,PubMed
+NEG_COMPLICATES,C0521654,Neurologic Deficits,fndg,C0016658,Fracture,inpo,PubMed
+NEG_COMPLICATES,C0013390,Dysmenorrhea,patf,C0266389,Uterus unicornis,cgab,PubMed
+NEG_COMPLICATES,C0037995,Splenectomy,topp,C0004771,Bartonella Infections,dsyn,PubMed
+NEG_COMPLICATES,C0037995,Splenectomy,topp,C0043037,Common wart,dsyn,PubMed
+NEG_COMPLICATES,C0019080,Hemorrhage,fndg,C0155305,"Optic Neuropathy, Ischemic",dsyn,PubMed
+NEG_COMPLICATES,C1541923,Infective endocarditis,dsyn,C0016542,Foreign Bodies,inpo,PubMed
+NEG_COMPLICATES,C0026846,Muscular Atrophy,dsyn,C0021368,Inflammation,patf,PubMed
+NEG_COMPLICATES,C0162429,Malnutrition,dsyn,C0021368,Inflammation,patf,PubMed
+NEG_COMPLICATES,C0009566,Complication,patf,C1096458,Vascular occlusion,acab,PubMed
+NEG_COMPLICATES,C0020625,Hyponatremia,fndg,C0006111,Brain Diseases,dsyn,PubMed
+NEG_COMPLICATES,C0534191,recombinant FVIIa,aapp,C0333279,Massive hemorrhage,patf,PubMed
+NEG_COMPLICATES,C0006100,Bradykinin,horm,C0232164,Cardiac function,ortf,PubMed
+NEG_COMPLICATES,C0455142,Intravenous therapy,topp,C0333276,Acute hemorrhage,patf,PubMed
+NEG_COMPLICATES,C1099354,"RNA, Small Interfering",bacs,C0162638,Apoptosis,celf,PubMed
+NEG_COMPLICATES,C1099354,"RNA, Small Interfering",bacs,C1155873,Cell Cycle Arrest,celf,PubMed
+NEG_COMPLICATES,C0210630,Filgrastim,aapp,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0036980,"Shock, Cardiogenic",patf,C0155626,Acute myocardial infarction,dsyn,PubMed
+NEG_COMPLICATES,C0015967,Fever,fndg,C0238425,Hemoglobin SS disease with crisis,dsyn,PubMed
+NEG_COMPLICATES,C0002932,Anesthetics,phsu,C0231940,Alveolar ventilation function,ortf,PubMed
+NEG_COMPLICATES,C0004057,Aspirin,orch,C0011884,Diabetic Retinopathy,dsyn,PubMed
+NEG_COMPLICATES,C0524865,Reconstructive Surgical Procedures,topp,C0700148,Congestion,patf,PubMed
+NEG_COMPLICATES,C0236521,Neuronal nuclear type 1 antibody,aapp,C0030472,Paraneoplastic Syndromes,neop,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0683323,physical disorders,dsyn,PubMed
+NEG_COMPLICATES,C0246904,Levosimendan,orch,C0151744,Myocardial Ischemia,dsyn,PubMed
+NEG_COMPLICATES,C0339543,Epiretinal Membrane,acab,C0024441,Macular Holes,acab,PubMed
+NEG_COMPLICATES,C0007389,Cataract Extraction,topp,C0152259,Cataract secondary to ocular disorder,dsyn,PubMed
+NEG_COMPLICATES,C0038454,Cerebrovascular accident,dsyn,C0027686,Pathologic Neovascularization,patf,PubMed
+NEG_COMPLICATES,C0267091,Aorto-esophageal fistula,anab,C0006262,Bronchial Fistula,anab,PubMed
+NEG_COMPLICATES,C0267091,Aorto-esophageal fistula,anab,C0016169,pathologic fistula,anab,PubMed
+NEG_COMPLICATES,C0002874,Aplastic Anemia,dsyn,C0019158,Hepatitis,dsyn,PubMed
+NEG_COMPLICATES,C1280830,Escharectomy,topp,C0149784,biological adaptation to stress,phsf,PubMed
+NEG_COMPLICATES,C0011847,Diabetes,dsyn,C0085207,"Diabetes, Gestational",dsyn,PubMed
+NEG_COMPLICATES,C0189660,Repair of artery,topp,C0340565,Lower limb ischemia,patf,PubMed
+NEG_COMPLICATES,C0004610,Bacteremia,dsyn,C0149520,"Cholecystitis, Acute",dsyn,PubMed
+NEG_COMPLICATES,C0009566,Complication,patf,C0035078,Kidney Failure,dsyn,PubMed
+NEG_COMPLICATES,C0006674,Calcitriol,horm,C0085681,Hyperphosphatemia,dsyn,PubMed
+NEG_COMPLICATES,C0030054,Oxygen,phsu,C0035245,Respiratory physiology,ortf,PubMed
+NEG_COMPLICATES,C0753474,valspodar,aapp,C0600688,Toxic effect,inpo,PubMed
+NEG_COMPLICATES,C0001645,Adrenergic beta-Antagonists,phsu,C0231921,pulmonary function,ortf,PubMed
+NEG_COMPLICATES,C0286249,LKM-1,aapp,C0023895,Liver diseases,dsyn,PubMed
+NEG_COMPLICATES,C0151798,Hepatic necrosis,dsyn,C0162557,"Liver Failure, Acute",dsyn,PubMed
+NEG_COMPLICATES,C0020305,Hydrops Fetalis,dsyn,C0027651,Neoplasm,neop,PubMed
+NEG_COMPLICATES,C0595939,Stillbirth,patf,C0027651,Neoplasm,neop,PubMed
+NEG_COMPLICATES,C0027695,Nephrectomy,topp,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0007165,Cardiac Output,fndg,C0034063,Pulmonary Edema,dsyn,PubMed
+NEG_COMPLICATES,C0002915,General Anesthesia,topp,C0034071,Pulmonary Gas Exchange,ortf,PubMed
+NEG_COMPLICATES,C1167687,Transmyocardial revascularisation,topp,C0151744,Myocardial Ischemia,dsyn,PubMed
+NEG_COMPLICATES,C0009566,Complication,patf,C0030305,Pancreatitis,dsyn,PubMed
+NEG_COMPLICATES,C1533685,Injection procedure,topp,C0016059,Fibrosis,patf,PubMed
+NEG_COMPLICATES,C0085083,Ovarian Hyperstimulation Syndrome,dsyn,C0034065,Pulmonary Embolism,dsyn,PubMed
+NEG_COMPLICATES,C0003209,Anti-Inflammatory Agents,phsu,C0940933,"Complication, infection",dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0042345,Varicosity,dsyn,PubMed
+NEG_COMPLICATES,C0000768,Congenital Abnormality,cgab,C0041408,Turner's Syndrome,cgab,PubMed
+NEG_COMPLICATES,C0014912,Estradiol,horm,C0021655,Insulin Resistance,patf,PubMed
+NEG_COMPLICATES,C0023182,Cerebrospinal fluid leak,patf,C0037929,Spinal Cord Injuries,inpo,PubMed
+NEG_COMPLICATES,C0023182,Cerebrospinal fluid leak,patf,C0037937,Spinal Injuries,inpo,PubMed
+NEG_COMPLICATES,C0015967,Fever,fndg,C0027947,Neutropenia,dsyn,PubMed
+NEG_COMPLICATES,C0206515,"Vaccines, Conjugate",imft,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0042206,Rubella vaccination,topp,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0011847,Diabetes,dsyn,C0010674,Cystic Fibrosis,dsyn,PubMed
+NEG_COMPLICATES,C0011847,Diabetes,dsyn,C0020456,Hyperglycemia,dsyn,PubMed
+NEG_COMPLICATES,C0011847,Diabetes,dsyn,C0271711,Spontaneous hypoglycemia NOS,dsyn,PubMed
+NEG_COMPLICATES,C1174995,efalizumab,aapp,C0003872,"Arthritis, Psoriatic",dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0003872,"Arthritis, Psoriatic",dsyn,PubMed
+NEG_COMPLICATES,C0035525,Ribavirin,phsu,C0348024,Thyroid dysfunction,patf,PubMed
+NEG_COMPLICATES,C0035525,Ribavirin,phsu,C0040128,Thyroid Diseases,dsyn,PubMed
+NEG_COMPLICATES,C1368999,Late effect of,patf,C0600688,Toxic effect,inpo,PubMed
+NEG_COMPLICATES,C0003596,Apomorphine,orch,C0242422,Parkinsonian Disorders,dsyn,PubMed
+NEG_COMPLICATES,C0019009,Hemodilution,topp,C1262023,Dilutional coagulopathy,patf,PubMed
+NEG_COMPLICATES,C0677850,adjuvant therapy,topp,C0232804,Renal function,ortf,PubMed
+NEG_COMPLICATES,C0025293,"Meningitis, Listeria",dsyn,C0035078,Kidney Failure,dsyn,PubMed
+NEG_COMPLICATES,C0017125,Gastric Bypass,topp,C0240066,Iron deficiency,dsyn,PubMed
+NEG_COMPLICATES,C0007785,Cerebral Infarction,dsyn,C0233794,Memory impairment,mobd,PubMed
+NEG_COMPLICATES,C0343858,Chronic necrotizing pulmonary aspergillosis,dsyn,C0041296,Tuberculosis,dsyn,PubMed
+NEG_COMPLICATES,C0343858,Chronic necrotizing pulmonary aspergillosis,dsyn,C0026918,Mycobacterium Infections,dsyn,PubMed
+NEG_COMPLICATES,C0019143,Heparitin Sulfate,bacs,C0273163,Injury of pancreas,inpo,PubMed
+NEG_COMPLICATES,C0003509,Aortitis,dsyn,C0009450,Communicable Diseases,dsyn,PubMed
+NEG_COMPLICATES,C0543467,Operative Surgical Procedures,topp,C0032044,Placenta Accreta,dsyn,PubMed
+NEG_COMPLICATES,C0022180,Isoflurane,orch,C0035126,Reperfusion Injury,inpo,PubMed
+NEG_COMPLICATES,C0030305,Pancreatitis,dsyn,C1142110,Abdominal compartment syndrome,dsyn,PubMed
+NEG_COMPLICATES,C0669368,Nitric Oxide Synthase Type I,aapp,C0015923,Fetal Alcohol Syndrome,dsyn,PubMed
+NEG_COMPLICATES,C0017337,Genes,aapp,C0262405,Cerebral dysfunction syndrome,dsyn,PubMed
+NEG_COMPLICATES,C0020538,Hypertensive disease,dsyn,C0004238,Atrial Fibrillation,patf,PubMed
+NEG_COMPLICATES,C0021828,Intestinal Atresia,cgab,C0265706,Gastroschisis,cgab,PubMed
+NEG_COMPLICATES,C0015934,Fetal Growth Retardation,patf,C0009566,Complication,patf,PubMed
+NEG_COMPLICATES,C0009905,"Contraceptives, Oral",phsu,C0014544,Epilepsy,dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0022864,Labor (Childbirth),orgf,PubMed
+NEG_COMPLICATES,C0011946,Dialysis procedure,topp,C0018767,Hearing,phsf,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0018767,Hearing,phsf,PubMed
+NEG_COMPLICATES,C0176751,Percutaneous endoscopic gastrostomy,topp,C0017168,Gastroesophageal reflux disease,dsyn,PubMed
+NEG_COMPLICATES,C0013227,Pharmaceutical Preparations,phsu,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0013227,Pharmaceutical Preparations,phsu,C0600688,Toxic effect,inpo,PubMed
+NEG_COMPLICATES,C0013227,Pharmaceutical Preparations,phsu,C0011849,Diabetes Mellitus,dsyn,PubMed
+NEG_COMPLICATES,C0028116,Nisoldipine,orch,C0022116,Ischemia,dsyn,PubMed
+NEG_COMPLICATES,C0027651,Neoplasm,neop,C0004763,Barrett Esophagus,dsyn,PubMed
+NEG_COMPLICATES,C0400513,Lateral pancreaticojejunostomy,topp,C0232786,Pancreatic function,ortf,PubMed
+NEG_COMPLICATES,C0304402,Stimulant,phsu,C0278076,Behavioral tic,mobd,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0021368,Inflammation,patf,PubMed
+NEG_COMPLICATES,C0282774,pimagedine,phsu,C0232741,Liver function,ortf,PubMed
+NEG_COMPLICATES,C0279175,Thyroid preparation,horm,C0020550,Hyperthyroidism,dsyn,PubMed
+NEG_COMPLICATES,C0074493,sibutramine,orch,C0037315,Sleep Apnea Syndromes,dsyn,PubMed
+NEG_COMPLICATES,C0074493,sibutramine,phsu,C0035203,Respiration,phsf,PubMed
+NEG_COMPLICATES,C0074493,sibutramine,phsu,C0037313,Sleep,orgf,PubMed
+NEG_COMPLICATES,C0028351,Norepinephrine,nsba,C0232804,Renal function,ortf,PubMed
+NEG_COMPLICATES,C0398353,Hypercapnic respiratory failure,patf,C0270771,Syringobulbia,cgab,PubMed
+NEG_COMPLICATES,C0027051,Myocardial Infarction,dsyn,C0020473,Hyperlipidemia,dsyn,PubMed
+NEG_COMPLICATES,C0376480,Gingival Overgrowth,dsyn,C0031090,Periodontal Diseases,dsyn,PubMed
+NEG_COMPLICATES,C0033785,Pseudarthrosis,inpo,C0302142,Deformity,anab,PubMed
+NEG_COMPLICATES,C0020649,Hypotension,fndg,C1527311,Brain Edema,dsyn,PubMed
+NEG_COMPLICATES,C0022116,Ischemia,dsyn,C0037929,Spinal Cord Injuries,inpo,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0851578,Sleep Disorders,dsyn,PubMed
+NEG_COMPLICATES,C0063695,Intercellular adhesion molecule 1,aapp,C0008495,Infection of amniotic sac and membranes,dsyn,PubMed
+NEG_COMPLICATES,C0123091,quetiapine,orch,C0242422,Parkinsonian Disorders,dsyn,PubMed
+NEG_COMPLICATES,C0001701,"Exercise, Aerobic",topp,C0003864,Arthritis,dsyn,PubMed
+NEG_COMPLICATES,C0020649,Hypotension,fndg,C0597457,Skeletal injury,inpo,PubMed
+NEG_COMPLICATES,C0020431,Hyperbaric Oxygenation,topp,C0021368,Inflammation,patf,PubMed
+NEG_COMPLICATES,C0020431,Hyperbaric Oxygenation,topp,C0242606,Oxidative Stress,comd,PubMed
+NEG_COMPLICATES,C0012737,Dissection,topp,C0013720,Ehlers-Danlos Syndrome,dsyn,PubMed
+NEG_COMPLICATES,C0281398,phenylbutyrate,orch,C0039082,Syndrome,dsyn,PubMed
+NEG_COMPLICATES,C0001563,"Administration, Oral",topp,C0020541,"Hypertension, Portal",dsyn,PubMed
+NEG_COMPLICATES,C0030305,Pancreatitis,dsyn,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0879626,Adverse effects,patf,C0026691,Mucocutaneous Lymph Node Syndrome,dsyn,PubMed
+NEG_COMPLICATES,C0155626,Acute myocardial infarction,dsyn,C0007177,Cardiac Tamponade,dsyn,PubMed
+NEG_COMPLICATES,C0066677,modafinil,orch,C0033975,Psychotic Disorders,mobd,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0237123,AOD use,mobd,PubMed
+NEG_COMPLICATES,C0014563,Epinephrine,horm,C0014653,Equilibrium,orgf,PubMed
+NEG_COMPLICATES,C0030305,Pancreatitis,dsyn,C0149521,"Pancreatitis, Chronic",dsyn,PubMed
+NEG_COMPLICATES,C0022116,Ischemia,dsyn,C0160420,Injury to kidney NOS,inpo,PubMed
+NEG_COMPLICATES,C1516119,sorafenib,phsu,C0232164,Cardiac function,ortf,PubMed
+NEG_COMPLICATES,C0269102,Endometrioma,dsyn,C0006826,Malignant Neoplasms,neop,PubMed
+NEG_COMPLICATES,C0015376,Extravasation,patf,C0277785,Functional disorder,patf,PubMed
+NEG_COMPLICATES,C0060241,"ferric oxide, saccharated",orch,C0033687,Proteinuria,dsyn,PubMed
+NEG_COMPLICATES,C0001617,Adrenal Cortex Hormones,horm,C0021368,Inflammation,patf,PubMed
+NEG_COMPLICATES,C0017327,Generalized atherosclerosis,dsyn,C0021368,Inflammation,patf,PubMed
+NEG_COMPLICATES,C0017327,Generalized atherosclerosis,dsyn,C0277785,Functional disorder,patf,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0040053,Thrombosis,patf,PubMed
+NEG_COMPLICATES,C0004045,Asphyxia Neonatorum,dsyn,C0746730,myocardium; injury,inpo,PubMed
+NEG_COMPLICATES,C0002520,Amino Acids,aapp,C0025268,Multiple Endocrine Neoplasia Type 2a,neop,PubMed
+NEG_COMPLICATES,C0038220,Status Epilepticus,dsyn,C0018790,Heart Arrest,patf,PubMed
+NEG_COMPLICATES,C0007406,"Estrogens, Catechol",horm,C1155266,Inflammatory Response,patf,PubMed
+NEG_COMPLICATES,C0033972,"Psychotherapy, Multiple",topp,C0002871,Anemia,dsyn,PubMed
+NEG_COMPLICATES,C1299353,Outpatient procedure,topp,C0009566,Complication,patf,PubMed
+NEG_COMPLICATES,C0019721,HLA Antigens,aapp,C0473780,Neonatal alloimmune thrombocytopenia,dsyn,PubMed
+NEG_COMPLICATES,C0085355,Human Platelet Antigens,imft,C0473780,Neonatal alloimmune thrombocytopenia,dsyn,PubMed
+NEG_COMPLICATES,C0728940,Excision,topp,C0020635,Hypopituitarism,dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0237820,Recovery,orgf,PubMed
+NEG_COMPLICATES,C0018790,Heart Arrest,patf,C0038220,Status Epilepticus,dsyn,PubMed
+NEG_COMPLICATES,C0281481,anti-tumor necrosis factor therapy,topp,C0033860,Psoriasis,dsyn,PubMed
+NEG_COMPLICATES,C0524909,"Hepatitis B, Chronic",dsyn,C0400966,Non-alcoholic fatty liver,dsyn,PubMed
+NEG_COMPLICATES,C0524909,"Hepatitis B, Chronic",dsyn,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0027051,Myocardial Infarction,dsyn,C0013537,Eclampsia,dsyn,PubMed
+NEG_COMPLICATES,C0027051,Myocardial Infarction,dsyn,C0032914,Pre-Eclampsia,dsyn,PubMed
+NEG_COMPLICATES,C0038454,Cerebrovascular accident,dsyn,C0013537,Eclampsia,dsyn,PubMed
+NEG_COMPLICATES,C0038454,Cerebrovascular accident,dsyn,C0032914,Pre-Eclampsia,dsyn,PubMed
+NEG_COMPLICATES,C0126174,Losartan,phsu,C0178665,GLUCOSE TOLERANCE,phsf,PubMed
+NEG_COMPLICATES,C0019270,Hernia,dsyn,C0751792,"Trauma, Nervous System",inpo,PubMed
+NEG_COMPLICATES,C0151945,Thrombosis of cerebral veins,dsyn,C0021390,Inflammatory Bowel Diseases,dsyn,PubMed
+NEG_COMPLICATES,C0400966,Non-alcoholic fatty liver,dsyn,C0011847,Diabetes,dsyn,PubMed
+NEG_COMPLICATES,C0012634,Disease,dsyn,C0011847,Diabetes,dsyn,PubMed
+NEG_COMPLICATES,C0441509,Coagulation procedure,topp,C0005779,Blood Coagulation Disorders,dsyn,PubMed
+NEG_COMPLICATES,C0008625,Chromosome abnormality,comd,C0000768,Congenital Abnormality,cgab,PubMed
+NEG_COMPLICATES,C0020538,Hypertensive disease,dsyn,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C1511605,Cystic Changes,fndg,C0040128,Thyroid Diseases,dsyn,PubMed
+NEG_COMPLICATES,C0020538,Hypertensive disease,dsyn,C0856169,Endothelial dysfunction,dsyn,PubMed
+NEG_COMPLICATES,C0242339,Dyslipidemias,dsyn,C0856169,Endothelial dysfunction,dsyn,PubMed
+NEG_COMPLICATES,C0040423,Tonsillectomy,topp,C0237820,Recovery,orgf,PubMed
+NEG_COMPLICATES,C0025746,Methylene blue,orch,C0002878,"Anemia, Hemolytic",dsyn,PubMed
+NEG_COMPLICATES,C0441615,Patch repair,topp,C0162872,"Aortic Aneurysm, Thoracic",dsyn,PubMed
+NEG_COMPLICATES,C0009566,Complication,patf,C0016059,Fibrosis,patf,PubMed
+NEG_COMPLICATES,C0007222,Cardiovascular Diseases,dsyn,C0035222,"Respiratory Distress Syndrome, Adult",dsyn,PubMed
+NEG_COMPLICATES,C0007820,Cerebrovascular Disorders,patf,C0035222,"Respiratory Distress Syndrome, Adult",dsyn,PubMed
+NEG_COMPLICATES,C0007820,Cerebrovascular Disorders,patf,C0036983,Septic Shock,patf,PubMed
+NEG_COMPLICATES,C0011849,Diabetes Mellitus,dsyn,C0035222,"Respiratory Distress Syndrome, Adult",dsyn,PubMed
+NEG_COMPLICATES,C0011849,Diabetes Mellitus,dsyn,C0036983,Septic Shock,patf,PubMed
+NEG_COMPLICATES,C0007222,Cardiovascular Diseases,dsyn,C0036983,Septic Shock,patf,PubMed
+NEG_COMPLICATES,C0750971,Cortical Contusion,inpo,C0231170,Disability NOS,patf,PubMed
+NEG_COMPLICATES,C0021368,Inflammation,patf,C1155266,Inflammatory Response,patf,PubMed
+NEG_COMPLICATES,C0032914,Pre-Eclampsia,dsyn,C0032051,Placental Insufficiency,dsyn,PubMed
+NEG_COMPLICATES,C0199176,Prophylactic treatment,topp,C0149725,Lower respiratory tract infection,dsyn,PubMed
+NEG_COMPLICATES,C0051334,alpha-bungarotoxin receptor,aapp,C0004153,Atherosclerosis,dsyn,PubMed
+NEG_COMPLICATES,C0273058,Traumatic intracranial hemorrhage,inpo,C0032285,Pneumonia,dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0730328,Central serous chorioretinopathy,dsyn,PubMed
+NEG_COMPLICATES,C0032042,Placebos,topp,C0232804,Renal function,ortf,PubMed
+NEG_COMPLICATES,C0054015,Brain natriuretic peptide,horm,C0232804,Renal function,ortf,PubMed
+NEG_COMPLICATES,C0133860,"Fatty Acids, Omega-6",bacs,C0021368,Inflammation,patf,PubMed
+NEG_COMPLICATES,C1267087,Accessory navicular bone,cgab,C0016202,Flatfoot,anab,PubMed
+NEG_COMPLICATES,C0021368,Inflammation,patf,C0993582,"Arthritis, Experimental",emod,PubMed
+NEG_COMPLICATES,C0003289,Antidepressive Agents,phsu,C0033975,Psychotic Disorders,mobd,PubMed
+NEG_COMPLICATES,C0018924,Hemarthrosis,patf,C0029408,Degenerative polyarthritis,dsyn,PubMed
+NEG_COMPLICATES,C0020538,Hypertensive disease,dsyn,C0002395,Alzheimer's Disease,dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0015397,Eye diseases,dsyn,PubMed
+NEG_COMPLICATES,C0027651,Neoplasm,neop,C0034065,Pulmonary Embolism,dsyn,PubMed
+NEG_COMPLICATES,C0001425,Adenoidectomy,topp,C0037817,Speech,orgf,PubMed
+NEG_COMPLICATES,C0877248,Adverse event,fndg,C0036572,Seizures,sosy,PubMed
+NEG_COMPLICATES,C0011849,Diabetes Mellitus,dsyn,C0021368,Inflammation,patf,PubMed
+NEG_COMPLICATES,C1512034,Donor Lymphocyte Infusion,topp,C0018133,Graft-vs-Host Disease,dsyn,PubMed
+NEG_COMPLICATES,C0162574,"Glycosylation End Products, Advanced",bacs,C0400966,Non-alcoholic fatty liver,dsyn,PubMed
+NEG_COMPLICATES,C0162574,"Glycosylation End Products, Advanced",bacs,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0007389,Cataract Extraction,topp,C0242383,Age related macular degeneration,dsyn,PubMed
+NEG_COMPLICATES,C0020538,Hypertensive disease,dsyn,C0242339,Dyslipidemias,dsyn,PubMed
+NEG_COMPLICATES,C0028953,Oligonucleotides,nnon,C0035245,Respiratory physiology,ortf,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0035245,Respiratory physiology,ortf,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0003864,Arthritis,dsyn,PubMed
+NEG_COMPLICATES,C0037116,Silicosis,dsyn,C0971858,"Arthritis, Collagen-Induced",emod,PubMed
+NEG_COMPLICATES,C0017628,Glyburide,orch,C0021368,Inflammation,patf,PubMed
+NEG_COMPLICATES,C0028754,Obesity,dsyn,C0024236,Lymphedema,dsyn,PubMed
+NEG_COMPLICATES,C0032797,Postpartum Hemorrhage,patf,C0042135,Uterine Inertia,patf,PubMed
+NEG_COMPLICATES,C0013227,Pharmaceutical Preparations,phsu,C0014544,Epilepsy,dsyn,PubMed
+NEG_COMPLICATES,C0543467,Operative Surgical Procedures,topp,C0232483,Reflux,patf,PubMed
+NEG_COMPLICATES,C0012860,DNA Damage,comd,C0021655,Insulin Resistance,patf,PubMed
+NEG_COMPLICATES,C0242606,Oxidative Stress,comd,C0021655,Insulin Resistance,patf,PubMed
+NEG_COMPLICATES,C0032914,Pre-Eclampsia,dsyn,C0877208,Peripartum cardiomyopathy,dsyn,PubMed
+NEG_COMPLICATES,C0040038,Thromboembolism,patf,C0004238,Atrial Fibrillation,patf,PubMed
+NEG_COMPLICATES,C0009566,Complication,patf,C0751792,"Trauma, Nervous System",inpo,PubMed
+NEG_COMPLICATES,C0042514,"Tachycardia, Ventricular",patf,C0878544,Cardiomyopathies,dsyn,PubMed
+NEG_COMPLICATES,C0271051,Macular retinal edema,dsyn,C0042164,Uveitis,dsyn,PubMed
+NEG_COMPLICATES,C0278092,Sexual function,fndg,C0520679,"Sleep Apnea, Obstructive",dsyn,PubMed
+NEG_COMPLICATES,C1096274,Corneal thinning,dsyn,C1290884,Inflammatory disorder,dsyn,PubMed
+NEG_COMPLICATES,C0108066,Calcitonin-Gene Related Peptide Receptor,aapp,C0151744,Myocardial Ischemia,dsyn,PubMed
+NEG_COMPLICATES,C0024291,"Lymphohistiocytosis, Hemophagocytic",dsyn,C0041466,Typhoid Fever,dsyn,PubMed
+NEG_COMPLICATES,C0354604,Oral anticoagulants,orch,C0876926,Traumatic Brain Injury,inpo,PubMed
+NEG_COMPLICATES,C0149521,"Pancreatitis, Chronic",dsyn,C0030305,Pancreatitis,dsyn,PubMed
+NEG_COMPLICATES,C0360457,Oral form morphine,orch,C0520679,"Sleep Apnea, Obstructive",dsyn,PubMed
+NEG_COMPLICATES,C0178874,Neoplasm progression,neop,C0017601,Glaucoma,dsyn,PubMed
+NEG_COMPLICATES,C0019009,Hemodilution,topp,C0001122,Acidosis,patf,PubMed
+NEG_COMPLICATES,C0857121,Hypertensive,fndg,C0751955,Brain Infarction,dsyn,PubMed
+NEG_COMPLICATES,C1571148,argyrophilic nucleolar organizer region associated proteins,aapp,C0018801,Heart failure,dsyn,PubMed
+NEG_COMPLICATES,C0341950,Severe pre-eclampsia unspecified,dsyn,C0015934,Fetal Growth Retardation,patf,PubMed
+NEG_COMPLICATES,C0376620,Pouchitis,dsyn,C0041582,Ulcer,patf,PubMed
+NEG_COMPLICATES,C0002913,"Anesthesia, Epidural",topp,C0231940,Alveolar ventilation function,ortf,PubMed
+NEG_COMPLICATES,C0277785,Functional disorder,patf,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",dsyn,PubMed
+NEG_COMPLICATES,C0013931,"Embolization, Therapeutic",topp,C0035245,Respiratory physiology,ortf,PubMed
+NEG_COMPLICATES,C0012359,Pathological Dilatation,patf,C0869523,Carditis,dsyn,PubMed
+NEG_COMPLICATES,C1170000,drotrecogin alfa,aapp,C0005779,Blood Coagulation Disorders,dsyn,PubMed
+NEG_COMPLICATES,C0016365,Fluoxetine,orch,C0005587,"Depression, Bipolar",mobd,PubMed
+NEG_COMPLICATES,C0003289,Antidepressive Agents,phsu,C0005587,"Depression, Bipolar",mobd,PubMed
+NEG_COMPLICATES,C0221025,Kasabach-Merritt syndrome,dsyn,C0018916,Hemangioma,neop,PubMed
+NEG_COMPLICATES,C0004031,"Aspergillosis, Allergic Bronchopulmonary",dsyn,C0392164,Pulmonary Cystic Fibrosis,dsyn,PubMed
+NEG_COMPLICATES,C0004031,"Aspergillosis, Allergic Bronchopulmonary",dsyn,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0017168,Gastroesophageal reflux disease,dsyn,C0004096,Asthma,dsyn,PubMed
+NEG_COMPLICATES,C0232989,Normal pregnancy,fndg,C0020456,Hyperglycemia,dsyn,PubMed
+NEG_COMPLICATES,C1511790,Detection,topp,C0015219,Evolution,genf,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0015219,Evolution,genf,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0879626,Adverse effects,patf,PubMed
+NEG_COMPLICATES,C0011884,Diabetic Retinopathy,dsyn,C0035309,Retinal Diseases,dsyn,PubMed
+NEG_COMPLICATES,C1527336,Sjogren's Syndrome,dsyn,C0151450,Secondary Sjogren's syndrome,dsyn,PubMed
+NEG_COMPLICATES,C0264376,Non-infectious pneumonia,dsyn,C0009447,Common Variable Immunodeficiency,dsyn,PubMed
+NEG_COMPLICATES,C0012634,Disease,dsyn,C0009447,Common Variable Immunodeficiency,dsyn,PubMed
+NEG_COMPLICATES,C0013491,Ecchymosis,fndg,C0034065,Pulmonary Embolism,dsyn,PubMed
+NEG_COMPLICATES,C0013491,Ecchymosis,fndg,C0087086,Thrombus,dsyn,PubMed
+NEG_COMPLICATES,C0028754,Obesity,dsyn,C0015695,Fatty Liver,dsyn,PubMed
+NEG_COMPLICATES,C0028754,Obesity,dsyn,C0032787,Postoperative Complications,patf,PubMed
+NEG_COMPLICATES,C0020429,Hyperalgesia,fndg,C1457887,Symptoms,sosy,PubMed
+NEG_COMPLICATES,C0679246,advanced disease,fndg,C0233763,"Hallucinations, Visual",sosy,PubMed
+NEG_COMPLICATES,C0855112,Diffuse large B-cell lymphoma refractory,neop,C0879626,Adverse effects,patf,PubMed
+NEG_COMPLICATES,C0022354,"Jaundice, Obstructive",dsyn,C0149521,"Pancreatitis, Chronic",dsyn,PubMed
+NEG_COMPLICATES,C0383327,Interleukin-18,aapp,C0018801,Heart failure,dsyn,PubMed
+NEG_COMPLICATES,C0748540,Limited Scleroderma,dsyn,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0003811,cardiac arrhythmia,patf,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0004623,Bacterial Infections,dsyn,PubMed
+NEG_COMPLICATES,C0004096,Asthma,dsyn,C0149516,Chronic sinusitis NOS,dsyn,PubMed
+NEG_COMPLICATES,C1122087,adalimumab,imft,C0232804,Renal function,ortf,PubMed
+NEG_COMPLICATES,C0076733,titanium dioxide,phsu,C0034067,Pulmonary Emphysema,dsyn,PubMed
+NEG_COMPLICATES,C0034063,Pulmonary Edema,dsyn,C0018790,Heart Arrest,patf,PubMed
+NEG_COMPLICATES,C0018799,Heart Diseases,dsyn,C0018213,Graves' Disease,dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0032961,Pregnancy,orgf,PubMed
+NEG_COMPLICATES,C0031866,Phytosterols,bacs,C0012359,Pathological Dilatation,patf,PubMed
+NEG_COMPLICATES,C0008679,Chronic Disease,dsyn,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0020456,Hyperglycemia,dsyn,C0270611,Brain Injuries,inpo,PubMed
+NEG_COMPLICATES,C0003450,Antivenins,aapp,C0005779,Blood Coagulation Disorders,dsyn,PubMed
+NEG_COMPLICATES,C0454507,Autogenic pulmonary drainage,topp,C0017168,Gastroesophageal reflux disease,dsyn,PubMed
+NEG_COMPLICATES,C0332575,Redness,fndg,C0035854,Rosacea,dsyn,PubMed
+NEG_COMPLICATES,C0019134,Heparin,bacs,C0232804,Renal function,ortf,PubMed
+NEG_COMPLICATES,C1299590,Seizure free,fndg,C0018991,Hemiplegia,sosy,PubMed
+NEG_COMPLICATES,C0030054,Oxygen,phsu,C0242606,Oxidative Stress,comd,PubMed
+NEG_COMPLICATES,C0267941,"Pancreatitis, Acute Necrotizing",dsyn,C0027051,Myocardial Infarction,dsyn,PubMed
+NEG_COMPLICATES,C0013216,Pharmacotherapy,topp,C0162429,Malnutrition,dsyn,PubMed
+NEG_COMPLICATES,C0014939,Estrogens,horm,C0277785,Functional disorder,patf,PubMed
+NEG_COMPLICATES,C0009062,Clostridium Infections,dsyn,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0543467,Operative Surgical Procedures,topp,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0040615,Antipsychotic Agents,phsu,C0149623,BEHAVIOR DISTURBANCE,mobd,PubMed
+NEG_COMPLICATES,C0034541,Radiation-Sensitizing Agents,phsu,C0600688,Toxic effect,inpo,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0023895,Liver diseases,dsyn,PubMed
+NEG_COMPLICATES,C0006675,Calcium,bacs,C0232804,Renal function,ortf,PubMed
+NEG_COMPLICATES,C0002092,Allergens,imft,C0035204,Respiration Disorders,dsyn,PubMed
+NEG_COMPLICATES,C0277785,Functional disorder,patf,C0003811,cardiac arrhythmia,patf,PubMed
+NEG_COMPLICATES,C0277785,Functional disorder,patf,C0016059,Fibrosis,patf,PubMed
+NEG_COMPLICATES,C0025810,Methylphenidate,orch,C0040188,Tic disorder,dsyn,PubMed
+NEG_COMPLICATES,C0074414,sevoflurane,orch,C1273070,Left ventricular diastolic dysfunction,dsyn,PubMed
+NEG_COMPLICATES,C0033603,Protamines,aapp,C0021368,Inflammation,patf,PubMed
+NEG_COMPLICATES,C0039286,Tamoxifen,orch,C0879626,Adverse effects,patf,PubMed
+NEG_COMPLICATES,C0076829,topiramate,orch,C0338831,Manic,mobd,PubMed
+NEG_COMPLICATES,C0022521,Primary Ciliary Dyskinesias,dsyn,C0878555,Diffuse panbronchiolitis,dsyn,PubMed
+NEG_COMPLICATES,C0039240,Supraventricular tachycardia,dsyn,C0040188,Tic disorder,dsyn,PubMed
+NEG_COMPLICATES,C0024808,Marihuana,phsu,C0032961,Pregnancy,orgf,PubMed
+NEG_COMPLICATES,C0001701,"Exercise, Aerobic",topp,C0020456,Hyperglycemia,dsyn,PubMed
+NEG_COMPLICATES,C0262926,Medical History,fndg,C0344304,Generalized abdominal pain,sosy,PubMed
+NEG_COMPLICATES,C0004482,Azathioprine,orch,C0566602,Primary sclerosing cholangitis,dsyn,PubMed
+NEG_COMPLICATES,C0524955,Axotomy,topp,C0598940,neuron loss,comd,PubMed
+NEG_COMPLICATES,C0077163,trimethobenzamide,orch,C0242422,Parkinsonian Disorders,dsyn,PubMed
+NEG_COMPLICATES,C1306577,Death (finding),fndg,C0009421,comatose,dsyn,PubMed
+NEG_COMPLICATES,C0240618,OZONE EXPOSURE,fndg,C0032285,Pneumonia,dsyn,PubMed
+NEG_COMPLICATES,C0281176,antibody therapy,topp,C0004368,Autoimmunity,patf,PubMed
+NEG_COMPLICATES,C0541315,everolimus,orch,C0600688,Toxic effect,inpo,PubMed
+NEG_COMPLICATES,C0521300,Life support procedure,topp,C0019054,hemolysis,celf,PubMed
+NEG_COMPLICATES,C0334096,Intimal proliferation,patf,C0340539,Pulmonary tumor embolism,neop,PubMed
+NEG_COMPLICATES,C0400966,Non-alcoholic fatty liver,dsyn,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",dsyn,PubMed
+NEG_COMPLICATES,C0012634,Disease,dsyn,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",dsyn,PubMed
+NEG_COMPLICATES,C0024299,Lymphoma,neop,C0021831,Intestinal Diseases,dsyn,PubMed
+NEG_COMPLICATES,C0242606,Oxidative Stress,comd,C0333641,Atrophic,patf,PubMed
+NEG_COMPLICATES,C0438696,Suicidal,fndg,C1457887,Symptoms,sosy,PubMed
+NEG_COMPLICATES,C0155626,Acute myocardial infarction,dsyn,C0036980,"Shock, Cardiogenic",patf,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0040156,Thyrotoxicosis,dsyn,PubMed
+NEG_COMPLICATES,C0005403,Bile Reflux,dsyn,C0030305,Pancreatitis,dsyn,PubMed
+NEG_COMPLICATES,C0011847,Diabetes,dsyn,C0152156,Obstructed labor,patf,PubMed
+NEG_COMPLICATES,C0079459,Granulocyte Colony-Stimulating Factor,aapp,C0021368,Inflammation,patf,PubMed
+NEG_COMPLICATES,C0079459,Granulocyte Colony-Stimulating Factor,aapp,C0022116,Ischemia,dsyn,PubMed
+NEG_COMPLICATES,C1533685,Injection procedure,topp,C0021368,Inflammation,patf,PubMed
+NEG_COMPLICATES,C1533685,Injection procedure,topp,C0022116,Ischemia,dsyn,PubMed
+NEG_COMPLICATES,C1145670,Respiratory Failure,dsyn,C0032227,Pleural effusion disorder,patf,PubMed
+NEG_COMPLICATES,C0527316,donepezil,orch,C0030567,Parkinson Disease,dsyn,PubMed
+NEG_COMPLICATES,C0887947,"Antiretroviral Therapy, Highly Active",topp,C0301889,Immune defect,patf,PubMed
+NEG_COMPLICATES,C0149931,Migraine Disorders,dsyn,C0011581,Depressive disorder,mobd,PubMed
+NEG_COMPLICATES,C0221198,Lesion,fndg,C0020255,Hydrocephalus,dsyn,PubMed
+NEG_COMPLICATES,C0009566,Complication,patf,C1565489,Renal Insufficiency,dsyn,PubMed
+NEG_COMPLICATES,C0029463,osteosarcoma,neop,C0153676,Secondary malignant neoplasm of lung,neop,PubMed
+NEG_COMPLICATES,C0020538,Hypertensive disease,dsyn,C0007222,Cardiovascular Diseases,dsyn,PubMed
+NEG_COMPLICATES,C0151699,Intracranial Hemorrhages,patf,C0948008,Ischemic stroke,dsyn,PubMed
+NEG_COMPLICATES,C0003015,Angiotensin-Converting Enzyme Inhibitors,phsu,C0034059,Pulmonary Diffusing Capacity,ortf,PubMed
+NEG_COMPLICATES,C0042196,Vaccination,topp,C0863093,Cold symptoms,dsyn,PubMed
+NEG_COMPLICATES,C0030305,Pancreatitis,dsyn,C0009566,Complication,patf,PubMed
+NEG_COMPLICATES,C0151526,Premature Birth,patf,C0000768,Congenital Abnormality,cgab,PubMed
+NEG_COMPLICATES,C0025219,Melatonin,horm,C0035203,Respiration,phsf,PubMed
+NEG_COMPLICATES,C0085762,Alcohol abuse,mobd,C0001973,"Alcoholic Intoxication, Chronic",mobd,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0004238,Atrial Fibrillation,patf,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0231170,Disability NOS,patf,PubMed
+NEG_COMPLICATES,C0384228,Tenofovir,phsu,C0521170,[X]Unspecified osteoporosis with pathological fracture,dsyn,PubMed
+NEG_COMPLICATES,C0971023,entecavir,nnon,C0521170,[X]Unspecified osteoporosis with pathological fracture,dsyn,PubMed
+NEG_COMPLICATES,C0003250,Monoclonal Antibodies,aapp,C0004153,Atherosclerosis,dsyn,PubMed
+NEG_COMPLICATES,C0151744,Myocardial Ischemia,dsyn,C0022658,Kidney Diseases,dsyn,PubMed
+NEG_COMPLICATES,C0029443,Osteomyelitis,dsyn,C0023223,Leg Ulcer,dsyn,PubMed
+NEG_COMPLICATES,C1519789,Unexpected Adverse Event,fndg,C0233401,Psychiatric symptom,sosy,PubMed
+NEG_COMPLICATES,C0011847,Diabetes,dsyn,C0027651,Neoplasm,neop,PubMed
+NEG_COMPLICATES,C0043251,Wounds and Injuries,inpo,C0035222,"Respiratory Distress Syndrome, Adult",dsyn,PubMed
+NEG_COMPLICATES,C0151699,Intracranial Hemorrhages,patf,C0039082,Syndrome,dsyn,PubMed
+NEG_COMPLICATES,C0342301,Acute hyperglycemia,patf,C0027055,Myocardial Reperfusion Injury,patf,PubMed
+NEG_COMPLICATES,C0023890,Liver Cirrhosis,dsyn,C0275551,Primary bacterial peritonitis,dsyn,PubMed
+NEG_COMPLICATES,C0027051,Myocardial Infarction,dsyn,C0028778,Obstruction,patf,PubMed
+NEG_COMPLICATES,C0073386,Ringer's solution,phsu,C0220981,Metabolic acidosis,patf,PubMed
+NEG_COMPLICATES,C0559546,Adverse reactions,fndg,C1167791,Skin toxicity,dsyn,PubMed
+NEG_COMPLICATES,C0021051,Immunologic Deficiency Syndromes,dsyn,C0000833,Abscess,patf,PubMed
+NEG_COMPLICATES,C0005841,Blood Transfusion,topp,C0013604,Edema,patf,PubMed
+NEG_COMPLICATES,C0007389,Cataract Extraction,topp,C0271084,Exudative age-related macular degeneration,dsyn,PubMed
+NEG_COMPLICATES,C0018338,Cyclic GMP,bacs,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0029936,Ovariectomy,topp,C0009319,Colitis,dsyn,PubMed
+NEG_COMPLICATES,C0304516,Beta 1 blocking agent,phsu,C0231921,pulmonary function,ortf,PubMed
+NEG_COMPLICATES,C0085207,"Diabetes, Gestational",dsyn,C0011847,Diabetes,dsyn,PubMed
+NEG_COMPLICATES,C0008350,Cholelithiasis,dsyn,C0037889,"Spherocytosis, Hereditary",dsyn,PubMed
+NEG_COMPLICATES,C0311468,Increased bilirubin level,fndg,C0037889,"Spherocytosis, Hereditary",dsyn,PubMed
+NEG_COMPLICATES,C0002871,Anemia,dsyn,C0018802,Congestive heart failure,dsyn,PubMed
+NEG_COMPLICATES,C0013227,Pharmaceutical Preparations,phsu,C0033975,Psychotic Disorders,mobd,PubMed
+NEG_COMPLICATES,C0242184,Hypoxia,patf,C0026846,Muscular Atrophy,dsyn,PubMed
+NEG_COMPLICATES,C0110610,connective tissue growth factor,aapp,C0039103,Synovitis,dsyn,PubMed
+NEG_COMPLICATES,C0812319,transforming growth factor beta3,aapp,C0039103,Synovitis,dsyn,PubMed
+NEG_COMPLICATES,C0282193,Iron Overload,dsyn,C0152254,Fatty degeneration,patf,PubMed
+NEG_COMPLICATES,C0188673,Subtalar arthrodesis,topp,C0029408,Degenerative polyarthritis,dsyn,PubMed
+NEG_COMPLICATES,C0553741,Fluid Management,topp,C0232804,Renal function,ortf,PubMed
+NEG_COMPLICATES,C1335302,Pancreatic Ductal Adenocarcinoma,neop,C0598934,tumor growth,neop,PubMed
+NEG_COMPLICATES,C0262627,Seroma,anab,C0009917,Contracture,acab,PubMed
+NEG_COMPLICATES,C0545017,Increased mesangial matrix,comd,C0007137,Squamous cell carcinoma,neop,PubMed
+NEG_COMPLICATES,C0021246,Indomethacin,phsu,C0232804,Renal function,ortf,PubMed
+NEG_COMPLICATES,C0085272,Leuprolide,aapp,C0020550,Hyperthyroidism,dsyn,PubMed
+NEG_COMPLICATES,C1533685,Injection procedure,topp,C0020550,Hyperthyroidism,dsyn,PubMed
+NEG_COMPLICATES,C0000975,Acetate,phsu,C0232741,Liver function,ortf,PubMed
+NEG_COMPLICATES,C0036557,Sedatives,phsu,C0520679,"Sleep Apnea, Obstructive",dsyn,PubMed
+NEG_COMPLICATES,C0123745,integrin beta7,imft,C0009319,Colitis,dsyn,PubMed
+NEG_COMPLICATES,C0259972,Ketogenic diet,fndg,C0235031,Neurologic Symptoms,sosy,PubMed
+NEG_COMPLICATES,C0262926,Medical History,fndg,C0030193,Pain,sosy,PubMed
+NEG_COMPLICATES,C0009905,"Contraceptives, Oral",phsu,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0020431,Hyperbaric Oxygenation,topp,C0232164,Cardiac function,ortf,PubMed
+NEG_COMPLICATES,C0009492,Compartment syndromes,dsyn,C0332717,"Fracture, segmental",inpo,PubMed
+NEG_COMPLICATES,C0948089,Acute coronary syndrome,dsyn,C0036980,"Shock, Cardiogenic",patf,PubMed
+NEG_COMPLICATES,C0282493,"Surgical Procedures, Endoscopic",topp,C0231940,Alveolar ventilation function,ortf,PubMed
+NEG_COMPLICATES,C1609165,tocilizumab,aapp,C0026769,Multiple Sclerosis,dsyn,PubMed
+NEG_COMPLICATES,C0003232,Antibiotics,antb,C0004623,Bacterial Infections,dsyn,PubMed
+NEG_COMPLICATES,C0587279,Methylprednisolone pulse therapy,topp,C0596204,bone metabolism,ortf,PubMed
+NEG_COMPLICATES,C0015625,Fanconi Anemia,dsyn,C0020517,Hypersensitivity,patf,PubMed
+NEG_COMPLICATES,C0250480,piperacillin-tazobactam combination,phsu,C0022660,"Kidney Failure, Acute",dsyn,PubMed
+NEG_COMPLICATES,C2973725,Pulmonary arterial hypertension,dsyn,C0018798,Congenital Heart Defects,cgab,PubMed
+NEG_COMPLICATES,C0035067,Renal Artery Stenosis,dsyn,C0599732,cell injury,comd,PubMed
+NEG_COMPLICATES,C0013931,"Embolization, Therapeutic",topp,C1832055,Hepatic Complication,patf,PubMed
+NEG_COMPLICATES,C1880354,Disconnection,fndg,C1504404,Hippocampal sclerosis,dsyn,PubMed
+NEG_COMPLICATES,C0013023,Dopa,aapp,C0013384,Dyskinetic syndrome,dsyn,PubMed
+NEG_COMPLICATES,C4551689,Sleep-Disordered Breathing,dsyn,C0242656,Disease Progression,patf,PubMed
+NEG_COMPLICATES,C0521974,"Diet, High-Fat",topp,C3178781,Vascular Stiffness,patf,PubMed
+NEG_COMPLICATES,C0022592,"Keratoplasty, Penetrating",topp,C0018131,Graft Survival,ortf,PubMed
+NEG_COMPLICATES,C0021107,Implantation procedure,topp,C0080311,"Ventricular Function, Right",ortf,PubMed
+NEG_COMPLICATES,C3714514,Infection,patf,C1262018,Graft failure,patf,PubMed
+NEG_COMPLICATES,C0021051,Immunologic Deficiency Syndromes,dsyn,C0036974,Shock,patf,PubMed
+NEG_COMPLICATES,C0013687,effusion,patf,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0026764,Multiple Myeloma,neop,PubMed
+NEG_COMPLICATES,C1999216,Inhibitor,bacs,C0600688,Toxic effect,inpo,PubMed
+NEG_COMPLICATES,C0028040,nicotine,hops,C0162337,Vascular Permeability,ortf,PubMed
+NEG_COMPLICATES,C0004238,Atrial Fibrillation,dsyn,C0856169,Endothelial dysfunction,dsyn,PubMed
+NEG_COMPLICATES,C0221198,Lesion,fndg,C1510432,Radiation Sickness,inpo,PubMed
+NEG_COMPLICATES,C0040549,Toxin,bacs,C0042636,Vibrio Infections,dsyn,PubMed
+NEG_COMPLICATES,C0023810,Lipopolysaccharides,orch,C0006287,Bronchopulmonary Dysplasia,dsyn,PubMed
+NEG_COMPLICATES,C0008269,chloroquine,phsu,C3178870,Endoplasmic Reticulum Stress,comd,PubMed
+NEG_COMPLICATES,C0920425,Cancer Therapeutic Procedure,topp,C0398623,Thrombophilia,dsyn,PubMed
+NEG_COMPLICATES,C4763675,Single Agent Therapy,topp,C0242656,Disease Progression,patf,PubMed
+NEG_COMPLICATES,C0018790,Cardiac Arrest,dsyn,C0036980,"Shock, Cardiogenic",patf,PubMed
+NEG_COMPLICATES,C0028754,Obesity,dsyn,C0021368,Inflammation,patf,PubMed
+NEG_COMPLICATES,C5203670,COVID-19,dsyn,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0400447,Orthotopic liver transplant,topp,C0009324,Ulcerative Colitis,dsyn,PubMed
+NEG_COMPLICATES,C0021655,Insulin Resistance,patf,C0028754,Obesity,dsyn,PubMed
+NEG_COMPLICATES,C0021655,Insulin Resistance,patf,C0242339,Dyslipidemias,dsyn,PubMed
+NEG_COMPLICATES,C0022180,isoflurane,orch,C0338656,Impaired cognition,mobd,PubMed
+NEG_COMPLICATES,C0033487,propofol,orch,C0338656,Impaired cognition,mobd,PubMed
+NEG_COMPLICATES,C0033487,propofol,orch,C3178870,Endoplasmic Reticulum Stress,comd,PubMed
+NEG_COMPLICATES,C0022180,isoflurane,orch,C3178870,Endoplasmic Reticulum Stress,comd,PubMed
+NEG_COMPLICATES,C0040732,Transplantation,topp,C0027765,nervous system disorder,dsyn,PubMed
+NEG_COMPLICATES,C0002792,anaphylaxis,dsyn,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0037379,Snake Bites,inpo,C0019080,Hemorrhage,patf,PubMed
+NEG_COMPLICATES,C0003611,Appendectomy,topp,C0003615,Appendicitis,dsyn,PubMed
+NEG_COMPLICATES,C0836924,Thrombocytosis,dsyn,C0242606,Oxidative Stress,comd,PubMed
+NEG_COMPLICATES,C0068475,nebivolol,phsu,C0232164,Cardiac function,ortf,PubMed
+NEG_COMPLICATES,C0019134,heparin,bacs,C0151699,Intracranial Hemorrhage,patf,PubMed
+NEG_COMPLICATES,C0015944,"Fetal Membranes, Premature Rupture",patf,C0151526,Premature Birth,patf,PubMed
+NEG_COMPLICATES,C0020538,Hypertensive disease,dsyn,C0151526,Premature Birth,patf,PubMed
+NEG_COMPLICATES,C0032914,Pre-Eclampsia,patf,C0151526,Premature Birth,patf,PubMed
+NEG_COMPLICATES,C0022660,"Kidney Failure, Acute",dsyn,C0021368,Inflammation,patf,PubMed
+NEG_COMPLICATES,C0559546,Adverse reactions,patf,C2004491,Cicatrix,patf,PubMed
+NEG_COMPLICATES,C0554804,Assisted breathing,topp,C0231940,Alveolar ventilation function,ortf,PubMed
+NEG_COMPLICATES,C4033447,sacubitril,aapp,C0022658,Kidney Diseases,dsyn,PubMed
+NEG_COMPLICATES,C0194086,Partial nephrectomy,topp,C0232804,Renal function,ortf,PubMed
+NEG_COMPLICATES,C0009068,Closure by suture,topp,C0856169,Endothelial dysfunction,dsyn,PubMed
+NEG_COMPLICATES,C0015252,removal technique,topp,C0003504,Aortic Valve Insufficiency,dsyn,PubMed
+NEG_COMPLICATES,C0155773,Portal Vein Thrombosis,dsyn,C0023890,Liver Cirrhosis,dsyn,PubMed
+NEG_COMPLICATES,C0015236,"Exchange Transfusion, Whole Blood",topp,C0678908,brain function,ortf,PubMed
+NEG_COMPLICATES,C0038636,sucrose,bacs,C0021655,Insulin Resistance,patf,PubMed
+NEG_COMPLICATES,C0521974,"Diet, High-Fat",topp,C0021655,Insulin Resistance,patf,PubMed
+NEG_COMPLICATES,C0556082,Amino acid supplement,aapp,C0021655,Insulin Resistance,patf,PubMed
+NEG_COMPLICATES,C0015938,Fetal Macrosomia,fndg,C0085207,Gestational Diabetes,dsyn,PubMed
+NEG_COMPLICATES,C0020538,Hypertensive disease,dsyn,C0085207,Gestational Diabetes,dsyn,PubMed
+NEG_COMPLICATES,C0701826,Perinatal death,fndg,C0085207,Gestational Diabetes,dsyn,PubMed
+NEG_COMPLICATES,C0746977,"Obesity, Maternal",fndg,C0085207,Gestational Diabetes,dsyn,PubMed
+NEG_COMPLICATES,C0020789,idarubicin,orch,C0559546,Adverse reactions,patf,PubMed
+NEG_COMPLICATES,C0087111,Therapeutic procedure,topp,C0027709,Nephrocalcinosis,dsyn,PubMed
+NEG_COMPLICATES,C0393022,rituximab,imft,C0032961,Pregnancy,orgf,PubMed
+NEG_COMPLICATES,C0879626,Adverse effects,patf,C0009766,Allergic Conjunctivitis,dsyn,PubMed
+NEG_COMPLICATES,C3533236,Mean score,fndg,C0026769,Multiple Sclerosis,dsyn,PubMed
+NEG_COMPLICATES,C0004910,Bed rest,topp,C3178781,Vascular Stiffness,patf,PubMed
+NEG_COMPLICATES,C0007202,Cardiopulmonary Bypass,topp,C0020542,Pulmonary Hypertension,patf,PubMed
+NEG_COMPLICATES,C0007389,Cataract Extraction,topp,C0730328,Central Serous Chorioretinopathy,dsyn,PubMed
+NEG_COMPLICATES,C0085083,Ovarian Hyperstimulation Syndrome,dsyn,C5238908,Neonatal Complication,patf,PubMed
+NEG_COMPLICATES,C0001645,Adrenergic beta-Antagonists,phsu,C0024117,Chronic Obstructive Airway Disease,dsyn,PubMed
+NEG_COMPLICATES,C0003242,"Antibodies, Anti-Idiotypic",aapp,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0032326,Pneumothorax,dsyn,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0748796,skin lesion bullous,fndg,C1457887,Symptoms,sosy,PubMed
+NEG_COMPLICATES,C0004930,Behavior Disorders,mobd,C1456530,Craniofacial Injuries,inpo,PubMed
+NEG_COMPLICATES,C0027695,Nephrectomy,topp,C0039730,Thalassemia,dsyn,PubMed
+NEG_COMPLICATES,C0003250,Monoclonal Antibodies,aapp,C0021831,Intestinal Diseases,dsyn,PubMed
+NEG_COMPLICATES,C0009402,Colorectal Carcinoma,neop,C0036323,Schistosomiasis,dsyn,PubMed
+NEG_COMPLICATES,C0042313,vancomycin,antb,C0232804,Renal function,ortf,PubMed
+NEG_COMPLICATES,C4049065,topiroxostat,phsu,C0242606,Oxidative Stress,comd,PubMed
+NEG_COMPLICATES,C0043251,Wounds and Injuries,inpo,C0012634,Disease,dsyn,PubMed
+NEG_COMPLICATES,C0018790,Cardiac Arrest,dsyn,C0155626,Acute myocardial infarction,dsyn,PubMed
+NEG_COMPLICATES,C2939419,Secondary Neoplasm,neop,C0036690,Septicemia,dsyn,PubMed
+NEG_COMPLICATES,C0021368,Inflammation,patf,C0010957,Tissue damage,inpo,PubMed
+NEG_COMPLICATES,C4271578,sofosbuvir / velpatasvir,phsu,C0232804,Renal function,ortf,PubMed
+NEG_COMPLICATES,C0185115,Extraction,topp,C0037864,Spermatogenesis,celf,PubMed
+NEG_COMPLICATES,C0403351,Testicular Sperm Aspiration,topp,C0037864,Spermatogenesis,celf,PubMed
+NEG_COMPLICATES,C5236984,Responsive Disease,fndg,C0009319,Colitis,dsyn,PubMed
+NEG_COMPLICATES,C0002772,"Analgesics, Opioid",phsu,C0011581,Depressive disorder,mobd,PubMed
+NEG_COMPLICATES,C0003211,"Anti-Inflammatory Agents, Non-Steroidal",phsu,C0011581,Depressive disorder,mobd,PubMed
+NEG_COMPLICATES,C0003009,angiotensin II,bacs,C0232164,Cardiac function,ortf,PubMed
+NEG_COMPLICATES,C0205082,Severe (severity modifier),fndg,C0235031,Neurologic Symptoms,sosy,PubMed
+NEG_COMPLICATES,C0013216,Pharmacotherapy,topp,C0340515,Myocardial dysfunction,patf,PubMed
+NEG_COMPLICATES,C1099456,escitalopram,phsu,C0234130,Motor function,biof,PubMed
+NEG_COMPLICATES,C0009079,clozapine,phsu,C0234130,Motor function,biof,PubMed
+NEG_COMPLICATES,C4086713,Substance with programmed cell death protein 1 inhibitor mechanism of action (substance),imft,C0600688,Toxic effect,inpo,PubMed
+NEG_COMPLICATES,C0444664,Standard meal,fndg,C0030193,Pain,sosy,PubMed
+NEG_COMPLICATES,C0264714,Acute heart failure,dsyn,C0020538,Hypertensive disease,dsyn,PubMed
+NEG_COMPLICATES,C1739395,Takotsubo Cardiomyopathy,dsyn,C0020538,Hypertensive disease,dsyn,PubMed
+NEG_COMPLICATES,C0264978,Embolic infarction,patf,C0278061,Abnormal mental state,mobd,PubMed
+NEG_COMPLICATES,C0264978,Embolic infarction,patf,C1290384,Structural disorder of heart,dsyn,PubMed
+NEG_COMPLICATES,C0005283,beta Thalassemia,dsyn,C0002871,Anemia,dsyn,PubMed
+NEG_COMPLICATES,C0176940,Distal subtotal pancreatectomy,topp,C0032787,Postoperative Complications,patf,PubMed
+NEG_COMPLICATES,C1619629,deferasirox,orch,C0600688,Toxic effect,inpo,PubMed
+NEG_COMPLICATES,C0449820,Score,fndg,C1457887,Symptoms,sosy,PubMed
+NEG_COMPLICATES,C0009262,colchicine,orch,C0019080,Hemorrhage,patf,PubMed
+NEG_COMPLICATES,C0003364,Antihypertensive Agents,phsu,C0017601,Glaucoma,dsyn,PubMed
+NEG_COMPLICATES,C0243033,Maternal Exposure,inpo,C0302158,Leucocytic infiltrate,patf,PubMed
+NEG_COMPLICATES,C4510497,Testosterone replacement therapy,topp,C0022735,Klinefelter Syndrome,dsyn,PubMed
+NEG_COMPLICATES,C0028128,nitric oxide,phsu,C0020542,Pulmonary Hypertension,patf,PubMed
+NEG_COMPLICATES,C0021107,Implantation procedure,topp,C0040961,Tricuspid Valve Insufficiency,dsyn,PubMed
+NEG_COMPLICATES,C0011847,Diabetes,dsyn,C0028754,Obesity,dsyn,PubMed
+NEG_COMPLICATES,C0204193,Orthodontic procedure,topp,C0039494,Temporomandibular Joint Disorders,dsyn,PubMed
+NEG_COMPLICATES,C0472699,Hemopoietic stem cell transplant,topp,C0018133,Graft-vs-Host Disease,dsyn,PubMed
+NEG_COMPLICATES,C0002092,Allergens,imft,C3662483,Allergic sensitization,dsyn,PubMed
+NEG_COMPLICATES,C1373218,Decreased Immunologic Activity [PE],patf,C0521158,Recurrent tumor,neop,PubMed
+NEG_COMPLICATES,C0020507,Hyperplasia,patf,C0022660,"Kidney Failure, Acute",dsyn,PubMed
+NEG_COMPLICATES,C0009079,clozapine,orch,C0242422,Parkinsonian Disorders,dsyn,PubMed
+NEG_COMPLICATES,C1722267,pimavanserin,orch,C0242422,Parkinsonian Disorders,dsyn,PubMed
+NEG_COMPLICATES,C0858952,silence,mobd,C0035126,Reperfusion Injury,inpo,PubMed
+NEG_COMPLICATES,C0746883,Febrile Neutropenia,dsyn,C0023530,Leukopenia,dsyn,PubMed
+NEG_COMPLICATES,C0877208,Peripartum cardiomyopathy,dsyn,C0878544,Cardiomyopathies,dsyn,PubMed
+NEG_COMPLICATES,C4316303,Infusion Therapy,topp,C0232804,Renal function,ortf,PubMed
+NEG_COMPLICATES,C5139840,Bifunctional epoxide hydrolase 2,aapp,C0020542,Pulmonary Hypertension,patf,PubMed
+NEG_COMPLICATES,C5139840,Bifunctional epoxide hydrolase 2,aapp,C0242707,Right Ventricular Dysfunction,patf,PubMed
+NEG_COMPLICATES,C0342582,Pseudohyponatremia,fndg,C0020625,Hyponatremia,dsyn,PubMed
+NEG_COMPLICATES,C0015376,Extravasation,patf,C1155266,Inflammatory Response,patf,PubMed
+NEG_COMPLICATES,C0006558,C-Peptide,aapp,C0011884,Diabetic Retinopathy,dsyn,PubMed
+NEG_COMPLICATES,C2825616,esketamine,phsu,C3269210,oligodendrocyte apoptotic process,celf,PubMed
+NEG_COMPLICATES,C0001563,"Administration, Oral",topp,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",dsyn,PubMed
+NEG_COMPLICATES,C0521974,"Diet, High-Fat",topp,C0026846,Muscular Atrophy,patf,PubMed
+NEG_COMPLICATES,C0052441,Aryl Hydrocarbon Receptor,aapp,C0021375,allergic inflammation,patf,PubMed
+NEG_COMPLICATES,C0372525,Laparoscopic appendectomy,topp,C5203670,COVID-19,dsyn,PubMed
+NEG_COMPLICATES,C0015934,Fetal Growth Retardation,dsyn,C2909036,Fetus-to-fetus placental transfusion syndrome,patf,PubMed
+NEG_COMPLICATES,C0013216,Pharmacotherapy,topp,C0338656,Impaired cognition,mobd,PubMed
+NEG_COMPLICATES,C0019080,Hemorrhage,patf,C0022660,"Kidney Failure, Acute",dsyn,PubMed
+NEG_COMPLICATES,C1841972,Glucocorticoid Receptor Deficiency,dsyn,C0206062,"Lung Diseases, Interstitial",dsyn,PubMed
+NEG_COMPLICATES,C0028754,Obesity,dsyn,C0017639,Gliosis,patf,PubMed
+NEG_COMPLICATES,C0028754,Obesity,dsyn,C0027746,Nerve Degeneration,comd,PubMed
+NEG_COMPLICATES,C0032740,Positive End-Expiratory Pressure,topp_topp,C0036690,Septicemia,dsyn_dsyn,MIMIC
+NEG_COMPLICATES,C2937358,Cerebral Hemorrhage,patf_patf,C0393984,Herniation under falx cerebri,dsyn_dsyn,MIMIC
+NEG_COMPLICATES,C0035222,"Respiratory Distress Syndrome, Adult",dsyn_dsyn,C0002871,Anemia,dsyn_dsyn,MIMIC
+NEG_COMPLICATES,C0032285,Pneumonia,dsyn_dsyn,C0004144,Atelectasis,patf_patf,MIMIC
+NEG_COMPLICATES,C0042514,"Tachycardia, Ventricular",dsyn_dsyn,C1145670,Respiratory Failure,dsyn_dsyn,MIMIC
+NEG_COMPLICATES,C0857117,hand rash,dsyn_dsyn,C0018802,Congestive heart failure,dsyn_dsyn,MIMIC
+NEG_COMPLICATES,C0004144,Atelectasis,patf_patf,C0013687,effusion,patf_patf,MIMIC
+NEG_COMPLICATES,C0553741,Fluid Management,topp_topp,C0026266,Mitral Valve Insufficiency,patf_patf,MIMIC
+NEG_COMPLICATES,C0043251,Wounds and Injuries,inpo_inpo,C0018946,"Hematoma, Subdural",patf_patf,MIMIC
+NEG_COMPLICATES,C0150773,Skin Care,topp_topp,C0270724,Infantile Neuroaxonal Dystrophy,dsyn_dsyn,MIMIC
+NEG_COMPLICATES,C0029443,Osteomyelitis,dsyn_dsyn,C1265815,Multiple ulcers,patf_patf,MIMIC
+NEG_COMPLICATES,C0012634,Disease,dsyn_dsyn,C0270724,Infantile Neuroaxonal Dystrophy,dsyn_dsyn,MIMIC
+NEG_COMPLICATES,C0578150,Hemodynamically stable,fndg_fndg,C0010200,Coughing,sosy_sosy,MIMIC
+NEG_COMPLICATES,C0151705,Retroperitoneal hemorrhage,patf_patf,C0000768,Congenital Abnormality,cgab_cgab,MIMIC
+NEG_COMPLICATES,C0310367,Today,antb_orch_antb,C0034063,Pulmonary Edema,dsyn_dsyn,MIMIC
+NEG_COMPLICATES,C0030305,Pancreatitis,dsyn_dsyn,C0012359,Pathological Dilatation,patf_patf,MIMIC
+NEG_COMPLICATES,C1415495,HCL2 gene,gngm_aapp_aapp,C0020542,Pulmonary Hypertension,patf_patf,MIMIC

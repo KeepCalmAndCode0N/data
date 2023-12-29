@@ -1,0 +1,33 @@
+PREDICATE,SUBJECT_CUI,SUBJECT_NAME,SUBJECT_SEMTYPE,OBJECT_CUI,OBJECT_NAME,OBJECT_SEMTYPE,Database
+NEG_MEASUREMENT_OF,C1265611,Quantity,qnco,C0205127,Longitudinal,spco,PubMed
+NEG_MEASUREMENT_OF,C0814225,Benefits,qnco,C0205284,Marginal,spco,PubMed
+NEG_MEASUREMENT_OF,C0392762,Quantitative,qnco,C0678594,Structure,spco,PubMed
+NEG_MEASUREMENT_OF,C0086749,Outcome Measures,qnco,C0599949,arterial stiffness,phsf,PubMed
+NEG_MEASUREMENT_OF,C0392762,Quantitative,qnco,C0025519,Metabolism,orgf,PubMed
+NEG_MEASUREMENT_OF,C0392762,Quantitative,qnco,C0080310,"Ventricular Function, Left",ortf,PubMed
+NEG_MEASUREMENT_OF,C0205450,Four,qnco,C0232338,Blood flow,orgf,PubMed
+NEG_MEASUREMENT_OF,C0001779,Age,orga,C0232804,Renal function,ortf,PubMed
+NEG_MEASUREMENT_OF,C0449820,Score,qnco,C0026649,Movement,orgf,PubMed
+NEG_MEASUREMENT_OF,C0150312,Present,qnco,C0678594,Structure,spco,PubMed
+NEG_MEASUREMENT_OF,C0036668,Sensitivity and Specificity,qnco,C0022745,Knee joint,bsoj,PubMed
+NEG_MEASUREMENT_OF,C0600061,Serum creatinine level,lbtr,C0232804,Renal function,ortf,PubMed
+NEG_MEASUREMENT_OF,C0439157,counts,qnco,C0205146,Area,spco,PubMed
+NEG_MEASUREMENT_OF,C0680864,expense,qnco,C0009462,Community,geoa,PubMed
+NEG_MEASUREMENT_OF,C1547011,Aspect,qnco,C0009462,Community,geoa,PubMed
+NEG_MEASUREMENT_OF,C0332197,Absent,qnco,C0234222,Baresthesia,ortf,PubMed
+NEG_MEASUREMENT_OF,C0449820,Score,qnco,C0205123,Coronal,spco,PubMed
+NEG_MEASUREMENT_OF,C0079809,Measures,qnco,C0080310,"Ventricular Function, Left",ortf,PubMed
+NEG_MEASUREMENT_OF,C0150312,Present,qnco,C0439792,Extent,spco,PubMed
+NEG_MEASUREMENT_OF,C0021632,instrumentation,qnco,C0007227,Cardiovascular Physiology,ortf,PubMed
+NEG_MEASUREMENT_OF,C0427861,Human cells,lbtr,C0031945,Pinocytosis,celf,PubMed
+NEG_MEASUREMENT_OF,C0079809,Measures,qnco,C0205246,Generalized,spco,PubMed
+NEG_MEASUREMENT_OF,C0033204,Probability,qnco,C0080310,"Ventricular Function, Left",ortf,PubMed
+NEG_MEASUREMENT_OF,C0392762,Quantitative,qnco,C0036104,secretion of saliva,ortf,PubMed
+NEG_MEASUREMENT_OF,C0871261,response,clna,C0234222,Baresthesia,ortf,PubMed
+NEG_MEASUREMENT_OF,C0079809,Measures,qnco,C0022742,Knee,blor,PubMed
+NEG_MEASUREMENT_OF,C0439185,Eq,qnco,C0205064,Cervical,spco,PubMed
+NEG_MEASUREMENT_OF,C1514721,Range,qnco,C0026649,Movement,orgf,PubMed
+NEG_MEASUREMENT_OF,C0205549,Series,qnco,C0014362,Enterohepatic Circulation,ortf,PubMed
+NEG_MEASUREMENT_OF,C1547053,*Velocity,qnco,C0042380,Vascular resistance,phsf,PubMed
+NEG_MEASUREMENT_OF,C1547053,*Velocity,qnco,C0232338,Blood flow,orgf,PubMed
+NEG_MEASUREMENT_OF,C0021632,instrumentation,qnco,C0037817,Speech,orgf,PubMed

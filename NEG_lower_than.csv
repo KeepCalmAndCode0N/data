@@ -1,0 +1,527 @@
+PREDICATE,SUBJECT_CUI,SUBJECT_NAME,SUBJECT_SEMTYPE,OBJECT_CUI,OBJECT_NAME,OBJECT_SEMTYPE,Database
+NEG_lower_than,C0001128,Acids,chem,C0001128,Acids,chem,PubMed
+NEG_lower_than,C0000970,Acetaminophen,orch,C0003211,"Anti-Inflammatory Agents, Non-Steroidal",phsu,PubMed
+NEG_lower_than,C1334043,Homologous Gene,gngm,C0085238,"Genome, Bacterial",gngm,PubMed
+NEG_lower_than,C0006222,Bromides,inch,C0567415,Atom,elii,PubMed
+NEG_lower_than,C1259299,Bronchipret,orch,C0259849,Synthetic drug,phsu,PubMed
+NEG_lower_than,C0087111,Therapeutic procedure,topp,C0087111,Therapeutic procedure,topp,PubMed
+NEG_lower_than,C0032042,Placebos,medd,C0030049,Oxycodone,orch,PubMed
+NEG_lower_than,C0044410,Alfacalcidol,phsu,C0249582,paricalcitol,orch,PubMed
+NEG_lower_than,C0087111,Therapeutic procedure,topp,C0249582,paricalcitol,orch,PubMed
+NEG_lower_than,C0936060,indoleacetic acid,horm,C0033727,Protons,elii,PubMed
+NEG_lower_than,C0949266,"Therapies, Investigational",topp,C0087111,Therapeutic procedure,topp,PubMed
+NEG_lower_than,C0013103,Drainage procedure,topp,C1515119,Systemic Therapy,topp,PubMed
+NEG_lower_than,C0073096,resveratrol,orch,C0025746,Methylene blue,irda,PubMed
+NEG_lower_than,C0015684,Fatty Acids,bacs,C0011134,Deet,orch,PubMed
+NEG_lower_than,C0001924,Albumins,aapp,C0597177,particle,chvs,PubMed
+NEG_lower_than,C0459914,Conservative therapy,topp,C0087111,Therapeutic procedure,topp,PubMed
+NEG_lower_than,C0068856,nitrosamides,inch,C0026879,Mutagens,hops,PubMed
+NEG_lower_than,C0033497,Propranolol,orch,C0028833,Octreotide,aapp,PubMed
+NEG_lower_than,C0009429,Combined Modality Therapy,topp,C0087111,Therapeutic procedure,topp,PubMed
+NEG_lower_than,C0150457,Anticoagulant therapy,topp,C0040808,Treatment Protocols,resa,PubMed
+NEG_lower_than,C0002348,Althesin,phsu,C0039925,Thiopental,orch,PubMed
+NEG_lower_than,C0039925,Thiopental,orch,C0591624,Hypnomidate,orch,PubMed
+NEG_lower_than,C0038150,Stapedectomy,topp,C0543467,Operative Surgical Procedures,topp,PubMed
+NEG_lower_than,C0879203,Pigtail Catheters,medd,C1533685,Injection procedure,topp,PubMed
+NEG_lower_than,C0171023,olanzapine,orch,C0087111,Therapeutic procedure,topp,PubMed
+NEG_lower_than,C0543467,Operative Surgical Procedures,topp,C0554139,Pyeloplasty,topp,PubMed
+NEG_lower_than,C0037494,Sodium Chloride,bacs,C0043047,Water,inch,PubMed
+NEG_lower_than,C0031676,Phospholipids,bacs,C0008377,Cholesterol,bacs,PubMed
+NEG_lower_than,C0012854,DNA,bacs,C0184898,Surgical incisions,topp,PubMed
+NEG_lower_than,C0043454,Zearalenone,hops,C0149313,zearalenol,bacs,PubMed
+NEG_lower_than,C0526513,quinupristin-dalfopristin,antb,C0002645,Amoxicillin,antb,PubMed
+NEG_lower_than,C0052297,arachidonyl-coenzyme A,bacs,C0003695,Arachidonic Acid,eico,PubMed
+NEG_lower_than,C0020268,Hydrocortisone,horm,C0002520,Amino Acids,aapp,PubMed
+NEG_lower_than,C0004905,Beclomethasone,horm,C0087111,Therapeutic procedure,topp,PubMed
+NEG_lower_than,C0162326,DNA Sequence,nnon,C0028630,Nucleotides,nnon,PubMed
+NEG_lower_than,C0018318,Guanethidine,orch,C0035179,Reserpine,orch,PubMed
+NEG_lower_than,C0040732,Transplantation,topp,C0011946,Dialysis procedure,topp,PubMed
+NEG_lower_than,C0369286,H NOS ANTIBODY,aapp,C0003241,Antibodies,aapp,PubMed
+NEG_lower_than,C0038164,Staphylococcal Protein A,aapp,C0450442,Agent,chvf,PubMed
+NEG_lower_than,C0040555,Toxoids,imft,C1520145,Whole Cell Vaccine,imft,PubMed
+NEG_lower_than,C0023767,Lipid A,imft,C0015684,Fatty Acids,bacs,PubMed
+NEG_lower_than,C0017725,Glucose,bacs,C0017725,Glucose,bacs,PubMed
+NEG_lower_than,C0006669,Calcitonin Gene-Related Peptide,aapp,C0006668,Calcitonin,aapp,PubMed
+NEG_lower_than,C0574032,Infusion procedures,topp,C0040732,Transplantation,topp,PubMed
+NEG_lower_than,C1276996,Atypical antipsychotic,phsu,C0058698,Dopamine D2 Receptor,aapp,PubMed
+NEG_lower_than,C0013227,Pharmaceutical Preparations,phsu,C0058698,Dopamine D2 Receptor,aapp,PubMed
+NEG_lower_than,C0009906,Combined Oral Contraceptives,phsu,C0014939,Estrogens,horm,PubMed
+NEG_lower_than,C0023837,Lipoxygenase,aapp,C0023837,Lipoxygenase,aapp,PubMed
+NEG_lower_than,C0206788,zorubicin,antb,C0012683,Disinfection,topp,PubMed
+NEG_lower_than,C0070543,phenazepam,orch,C0699194,Ativan,orch,PubMed
+NEG_lower_than,C0033493,Propoxyphene,orch,C0000970,Acetaminophen,orch,PubMed
+NEG_lower_than,C0533079,bis(7-amino-4-azaheptyl)dimethylsilane,orch,C0533081,bis(7-ethylamino-4-azaheptyl)dimethylsilane,orch,PubMed
+NEG_lower_than,C0070421,perilla seed oil,lipd,C0036048,Safflower Oil,food,PubMed
+NEG_lower_than,C0026879,Mutagens,hops,C0030015,Oxides,inch,PubMed
+NEG_lower_than,C0243192,agonists,phsu,C0002333,Alprazolam,orch,PubMed
+NEG_lower_than,C0243192,agonists,phsu,C0040616,Anti-Anxiety Agents,phsu,PubMed
+NEG_lower_than,C0009429,Combined Modality Therapy,topp,C0061863,Granisetron,orch,PubMed
+NEG_lower_than,C0752312,Mitogen-Activated Protein Kinases,aapp,C0243077,inhibitors,chvf,PubMed
+NEG_lower_than,C0055003,cefepime,antb,C0007559,Ceftazidime,antb,PubMed
+NEG_lower_than,C0178638,Folate,orch,C0178638,Folate,orch,PubMed
+NEG_lower_than,C0025252,Membrane Proteins,aapp,C0011740,Detergents,chvf,PubMed
+NEG_lower_than,C0008145,Chitinase,aapp,C1512523,hydrochloride,inch,PubMed
+NEG_lower_than,C0039601,Testosterone,horm,C0019932,Hormones,horm,PubMed
+NEG_lower_than,C0001617,Adrenal Cortex Hormones,horm,C0010124,Corticosterone,horm,PubMed
+NEG_lower_than,C0033679,Transglutaminases,aapp,C0243077,inhibitors,chvf,PubMed
+NEG_lower_than,C0003241,Antibodies,aapp,C0003316,Epitopes,imft,PubMed
+NEG_lower_than,C0028959,Oligosaccharides,carb,C0041102,Trisaccharides,carb,PubMed
+NEG_lower_than,C1136254,Microbicides,phsu,C1136254,Microbicides,phsu,PubMed
+NEG_lower_than,C0093484,2-naphthylamide,orch,C0087870,"1,10-phenanthroline",hops,PubMed
+NEG_lower_than,C0087111,Therapeutic procedure,topp,C0039607,Testosterone Propionate,horm,PubMed
+NEG_lower_than,C0167626,estradiol 3-benzoate,horm,C0087111,Therapeutic procedure,topp,PubMed
+NEG_lower_than,C0049941,7-methylguanine,nnon,C0018321,Guanine,bacs,PubMed
+NEG_lower_than,C0019588,Histamine,nsba,C0006675,Calcium,bacs,PubMed
+NEG_lower_than,C0008864,Citrulline,aapp,C0006960,Carbamyl Phosphate,bacs,PubMed
+NEG_lower_than,C1334043,Homologous Gene,gngm,C0028630,Nucleotides,nnon,PubMed
+NEG_lower_than,C0005971,Bone plates,medd,C0005971,Bone plates,medd,PubMed
+NEG_lower_than,C0023556,Levamisole,orch,C0007009,Carbon,elii,PubMed
+NEG_lower_than,C0031955,Piperacillin,antb,C0040193,Ticarcillin,antb,PubMed
+NEG_lower_than,C0003320,Antigens,bacs,C0003320,Antigens,bacs,PubMed
+NEG_lower_than,C0030855,Pentachlorophenol,hops,C0001034,Acetylaminofluorene,hops,PubMed
+NEG_lower_than,C0007955,Charcoal,elii,C0011946,Dialysis procedure,topp,PubMed
+NEG_lower_than,C0014582,Epirubicin,orch,C0013089,Doxorubicin,antb,PubMed
+NEG_lower_than,C0038585,Substance P,aapp,C0053672,bipiperidyl mustard,orch,PubMed
+NEG_lower_than,C0626053,sural,phsu,C0626053,sural,phsu,PubMed
+NEG_lower_than,C0021983,Iodohippuric Acid,irda,C0013254,Pentetic Acid,irda,PubMed
+NEG_lower_than,C0025859,Metoprolol,orch,C0025859,Metoprolol,orch,PubMed
+NEG_lower_than,C0014277,Enflurane,orch,C0018549,Halothane,orch,PubMed
+NEG_lower_than,C0019873,Ethidium Bromide,orch,C0019873,Ethidium Bromide,orch,PubMed
+NEG_lower_than,C0206460,Enoxaparin,carb,C0917726,Fragmin,carb,PubMed
+NEG_lower_than,C0047456,3-Hydroxybutyric Acid,orch,C0001002,Acetone,orch,PubMed
+NEG_lower_than,C0059865,Etodolac,orch,C0021246,Indomethacin,orch,PubMed
+NEG_lower_than,C0013879,Elements,elii,C0013879,Elements,elii,PubMed
+NEG_lower_than,C0085590,catheter device,medd,C0199176,Prophylactic treatment,topp,PubMed
+NEG_lower_than,C0012586,Dipyrone,orch,C0025376,Meperidine,orch,PubMed
+NEG_lower_than,C0038766,Sulfonylurea Compounds,orch,C0025598,Metformin,orch,PubMed
+NEG_lower_than,C0302912,Radicals (chemistry),chvs,C0027695,Nephrectomy,topp,PubMed
+NEG_lower_than,C0019046,Hemoglobin,aapp,C0764700,"4-methyl-5-ethoxalyl-1H-2,3,4,5-tetrahydro-1,5-benzodiazepin-2-one",orch,PubMed
+NEG_lower_than,C0034303,Pyrogallol,hops,C0023570,Levodopa,aapp,PubMed
+NEG_lower_than,C0066815,morphine-3-glucuronide,phsu,C0026549,Morphine,orch,PubMed
+NEG_lower_than,C0728805,Cephalosporinase,aapp,C0243077,inhibitors,chvf,PubMed
+NEG_lower_than,C0002521,"Amino Acids, Branched-Chain",aapp,C0041119,Tritium,elii,PubMed
+NEG_lower_than,C0004057,Aspirin,orch,C0004057,Aspirin,orch,PubMed
+NEG_lower_than,C0018284,Growth Factor,bacs,C0021756,Interleukin-2,aapp,PubMed
+NEG_lower_than,C0034798,Dopamine Receptor,aapp,C0013030,Dopamine,nsba,PubMed
+NEG_lower_than,C0027695,Nephrectomy,topp,C0013931,"Embolization, Therapeutic",topp,PubMed
+NEG_lower_than,C0013216,Pharmacotherapy,topp,C0087111,Therapeutic procedure,topp,PubMed
+NEG_lower_than,C0038581,Neurokinin A,aapp,C0038585,Substance P,aapp,PubMed
+NEG_lower_than,C0003241,Antibodies,aapp,C0596072,amino group,inch,PubMed
+NEG_lower_than,C0728940,Excision,topp,C0021900,Intrauterine Devices,medd,PubMed
+NEG_lower_than,C0003211,"Anti-Inflammatory Agents, Non-Steroidal",phsu,C0004057,Aspirin,orch,PubMed
+NEG_lower_than,C0042313,Vancomycin,aapp,C0087111,Therapeutic procedure,topp,PubMed
+NEG_lower_than,C0041004,Triglycerides,bacs,C0031001,Perfusion (procedure),topp,PubMed
+NEG_lower_than,C0032042,Placebos,medd,C0008281,Chlorpheniramine,orch,PubMed
+NEG_lower_than,C0021757,Interleukin-3,aapp,C0014822,Erythropoietin,aapp,PubMed
+NEG_lower_than,C0031507,Phenytoin,orch,C0031507,Phenytoin,orch,PubMed
+NEG_lower_than,C0597357,receptor,aapp,C0012854,DNA,bacs,PubMed
+NEG_lower_than,C0017797,Glutamine,aapp,C0017797,Glutamine,aapp,PubMed
+NEG_lower_than,C0003320,Antigens,bacs,C0770206,"Insulin, Pork",aapp,PubMed
+NEG_lower_than,C0037494,Sodium Chloride,bacs,C0037494,Sodium Chloride,bacs,PubMed
+NEG_lower_than,C0543467,Operative Surgical Procedures,topp,C0041447,Tympanoplasty,topp,PubMed
+NEG_lower_than,C0005367,Bicarbonates,inch,C0000975,Acetate,orch,PubMed
+NEG_lower_than,C0010422,Crystallins,aapp,C0024337,Lysine,aapp,PubMed
+NEG_lower_than,C0085845,Aspartate,aapp,C0771387,ZINC ASPARTATE,orch,PubMed
+NEG_lower_than,C0062934,Homocysteine S-Methyltransferase,aapp,C0700308,Protium,elii,PubMed
+NEG_lower_than,C0192412,Selective vagotomy,topp,C0013216,Pharmacotherapy,topp,PubMed
+NEG_lower_than,C0012590,Direct Lytic Factors,hops,C0076494,Thionine,irda,PubMed
+NEG_lower_than,C0021641,Insulin,aapp,C0021641,Insulin,aapp,PubMed
+NEG_lower_than,C0085170,Astemizole,orch,C0360541,Nasal beclomethasone,phsu,PubMed
+NEG_lower_than,C1136312,"Histamine H1 Antagonists, Non-Sedating",phsu,C0360541,Nasal beclomethasone,phsu,PubMed
+NEG_lower_than,C0051967,anti-c antibody,imft,C0003316,Epitopes,imft,PubMed
+NEG_lower_than,C0007188,Cardiolipins,lipd,C0007188,Cardiolipins,lipd,PubMed
+NEG_lower_than,C0022616,Ketanserin,orch,C0085260,Ritanserin,orch,PubMed
+NEG_lower_than,C0026879,Mutagens,hops,C0033858,Psoralens,orch,PubMed
+NEG_lower_than,C0034665,Ranitidine,orch,C0016377,Flurbiprofen,orch,PubMed
+NEG_lower_than,C0043791,"1,2-diacylglycerol",bacs,C0178485,Arachidonate,bacs,PubMed
+NEG_lower_than,C0597979,beta-Lactamase,aapp,C0007562,Cefuroxime,antb,PubMed
+NEG_lower_than,C0969670,Non-Fibrillar Collagens,aapp,C0969669,Fibrillar Collagen,aapp,PubMed
+NEG_lower_than,C0338237,Antibiotic therapy,topp,C0003232,Antibiotics,antb,PubMed
+NEG_lower_than,C0021246,Indomethacin,orch,C0021246,Indomethacin,orch,PubMed
+NEG_lower_than,C0004521,Aztreonam,antb,C0017436,Gentamicins,antb,PubMed
+NEG_lower_than,C0015133,Etoposide,carb,C0015133,Etoposide,carb,PubMed
+NEG_lower_than,C0087111,Therapeutic procedure,topp,C0030830,"Penicillin G, Procaine",antb,PubMed
+NEG_lower_than,C0011685,Desipramine,orch,C0242701,Serotonin Agents,nsba,PubMed
+NEG_lower_than,C0033684,Proteins,aapp,C0028606,Nucleic Acids,bacs,PubMed
+NEG_lower_than,C0027780,Netilmicin,antb,C0002556,Aminoglycosides,carb,PubMed
+NEG_lower_than,C0034338,Pyruvaldehyde,irda,C0034338,Pyruvaldehyde,irda,PubMed
+NEG_lower_than,C0012854,DNA,bacs,C0012854,DNA,bacs,PubMed
+NEG_lower_than,C0030956,Peptides,aapp,C0002520,Amino Acids,aapp,PubMed
+NEG_lower_than,C0012854,DNA,bacs,C1334043,Homologous Gene,gngm,PubMed
+NEG_lower_than,C0014806,Erythromycin,antb,C0035608,Rifampin,antb,PubMed
+NEG_lower_than,C0023689,Ligase,aapp,C0047215,3-aminobenzamide,phsu,PubMed
+NEG_lower_than,C0013973,Emetics,phsu,C0008838,Cisplatin,inch,PubMed
+NEG_lower_than,C0243077,inhibitors,chvf,C0003211,"Anti-Inflammatory Agents, Non-Steroidal",phsu,PubMed
+NEG_lower_than,C0011503,Deoxyguanosine,nnon,C0001443,Adenosine,bacs,PubMed
+NEG_lower_than,C0031978,Pirenzepine,orch,C0008783,Cimetidine,orch,PubMed
+NEG_lower_than,C0237795,Pressors,phsu,C0003779,Argipressin,aapp,PubMed
+NEG_lower_than,C0003779,Argipressin,aapp,C0033554,Prostaglandins,bacs,PubMed
+NEG_lower_than,C0242958,DNA Adducts,bacs,C0012854,DNA,bacs,PubMed
+NEG_lower_than,C0038317,Steroids,strd,C0012854,DNA,bacs,PubMed
+NEG_lower_than,C0007550,Cefmetazole,antb,C0000983,Acetic Acid,irda,PubMed
+NEG_lower_than,C0000983,Acetic Acid,irda,C0000983,Acetic Acid,irda,PubMed
+NEG_lower_than,C0700769,Obsidan,orch,C0917852,Novocainamide,orch,PubMed
+NEG_lower_than,C1271537,Non-contact tonometer,medd,C0183969,Tonometer,medd,PubMed
+NEG_lower_than,C0012582,Dipyridamole,orch,C0043031,Warfarin,hops,PubMed
+NEG_lower_than,C0023660,Lidocaine,orch,C1533685,Injection procedure,topp,PubMed
+NEG_lower_than,C0172161,tyramine-deoxysorbitol,orch,C0172161,tyramine-deoxysorbitol,orch,PubMed
+NEG_lower_than,C0012854,DNA,bacs,C0031676,Phospholipids,bacs,PubMed
+NEG_lower_than,C0001455,Cyclic AMP,bacs,C0018338,Cyclic GMP,bacs,PubMed
+NEG_lower_than,C0087111,Therapeutic procedure,topp,C0013227,Pharmaceutical Preparations,phsu,PubMed
+NEG_lower_than,C0038636,Sucrose,bacs,C0033684,Proteins,aapp,PubMed
+NEG_lower_than,C0012203,Diethylstilbestrol,hops,C0007554,Cefotaxime,antb,PubMed
+NEG_lower_than,C1533685,Injection procedure,topp,C0012854,DNA,bacs,PubMed
+NEG_lower_than,C0002680,Ampicillin,antb,C0087111,Therapeutic procedure,topp,PubMed
+NEG_lower_than,C0036435,Sclerotherapy,topp,C0194985,Excision of varicocele,topp,PubMed
+NEG_lower_than,C0194985,Excision of varicocele,topp,C0023690,Ligation,topp,PubMed
+NEG_lower_than,C0023779,Lipids,lipd,C0007004,Carbohydrates,carb,PubMed
+NEG_lower_than,C0025607,Methadyl Acetate,orch,C0025605,Methadone,orch,PubMed
+NEG_lower_than,C0013227,Pharmaceutical Preparations,phsu,C0013227,Pharmaceutical Preparations,phsu,PubMed
+NEG_lower_than,C0141925,selenate,inch,C0036580,Selenite,inch,PubMed
+NEG_lower_than,C0006960,Carbamyl Phosphate,bacs,C0135096,N-Phosphonacetyl-L-aspartate,opco,PubMed
+NEG_lower_than,C0007090,Carcinogens,hops,C0028203,Nitrosoguanidines,orch,PubMed
+NEG_lower_than,C0543467,Operative Surgical Procedures,topp,C0192412,Selective vagotomy,topp,PubMed
+NEG_lower_than,C0243077,inhibitors,chvf,C0087111,Therapeutic procedure,topp,PubMed
+NEG_lower_than,C0020740,Ibuprofen,orch,C0021246,Indomethacin,orch,PubMed
+NEG_lower_than,C0596072,amino group,inch,C0567415,Atom,elii,PubMed
+NEG_lower_than,C0596439,diene,orch,C0567415,Atom,elii,PubMed
+NEG_lower_than,C0002335,Alprostadil,eico,C0150764,Sex Therapy,topp,PubMed
+NEG_lower_than,C0011459,"Denture, Overlay",medd,C0175649,Prosthesis,medd,PubMed
+NEG_lower_than,C0175727,Stimulator,medd,C0857127,Induction,topp,PubMed
+NEG_lower_than,C0085297,"Immunoglobulins, Intravenous",aapp,C0001617,Adrenal Cortex Hormones,horm,PubMed
+NEG_lower_than,C0087111,Therapeutic procedure,topp,C0001617,Adrenal Cortex Hormones,horm,PubMed
+NEG_lower_than,C0079083,Carboplatin,orch,C0008838,Cisplatin,inch,PubMed
+NEG_lower_than,C0037494,Sodium Chloride,bacs,C0028623,Nucleosomes,aapp,PubMed
+NEG_lower_than,C0043047,Water,inch,C0013806,Electroconvulsive Therapy,topp,PubMed
+NEG_lower_than,C0795635,"Insulin, Regular, Human",aapp,C0770206,"Insulin, Pork",aapp,PubMed
+NEG_lower_than,C0182158,Pads,medd,C0182158,Pads,medd,PubMed
+NEG_lower_than,C0596038,acyl group,orch,C0596038,acyl group,orch,PubMed
+NEG_lower_than,C0087111,Therapeutic procedure,topp,C0841584,Psychological therapies,topp,PubMed
+NEG_lower_than,C0162326,DNA Sequence,nnon,C0162326,DNA Sequence,nnon,PubMed
+NEG_lower_than,C0170127,Calcibiotic Root Canal Sealer,bodm,C0149750,Partial resection of colon,topp,PubMed
+NEG_lower_than,C0728940,Excision,topp,C0184114,Tube drain,medd,PubMed
+NEG_lower_than,C0211726,anandamide,bacs,C0039663,Tetrahydrocannabinol,orch,PubMed
+NEG_lower_than,C0086225,Enteral Feeding,topp,C0038317,Steroids,strd,PubMed
+NEG_lower_than,C0170483,8-epi-prostaglandin F2alpha,eico,C0012471,Dinoprost,eico,PubMed
+NEG_lower_than,C0015688,"Fatty Acids, Nonesterified",lipd,C0008731,Chylomicrons,aapp,PubMed
+NEG_lower_than,C0140079,Insulin-Like Growth Factor Receptor,aapp,C0021665,Insulin-Like Growth Factor I,aapp,PubMed
+NEG_lower_than,C1305923,Polypeptides,aapp,C0003316,Epitopes,imft,PubMed
+NEG_lower_than,C0040808,Treatment Protocols,resa,C0087111,Therapeutic procedure,topp,PubMed
+NEG_lower_than,C0542331,Shunt Device,medd,C0542331,Shunt Device,medd,PubMed
+NEG_lower_than,C0728940,Excision,topp,C1536078,Bypass surgery,topp,PubMed
+NEG_lower_than,C0450442,Agent,chvf,C0051761,amphotericin B-deoxycholate,orch,PubMed
+NEG_lower_than,C0242402,Opioids,hops,C0001962,Ethanol,orch,PubMed
+NEG_lower_than,C0036774,"Serum Albumin, Bovine",aapp,C1172921,glutathionesulfonic acid sodium salt,orch,PubMed
+NEG_lower_than,C0014912,Estradiol,horm,C0014939,Estrogens,horm,PubMed
+NEG_lower_than,C0013089,Doxorubicin,antb,C0014582,Epirubicin,orch,PubMed
+NEG_lower_than,C0717726,Liposomal Doxorubicin,antb,C0013089,Doxorubicin,antb,PubMed
+NEG_lower_than,C0087111,Therapeutic procedure,topp,C0021153,Decompressive incision,topp,PubMed
+NEG_lower_than,C0001975,Alcohols,orch,C0022634,Ketones,orch,PubMed
+NEG_lower_than,C0243077,inhibitors,chvf,C0020926,Imides,orch,PubMed
+NEG_lower_than,C0247389,diaspirin-cross-linked hemoglobin,aapp,C0035273,Resuscitation,topp,PubMed
+NEG_lower_than,C0520481,Saponin,strd,C0450442,Agent,chvf,PubMed
+NEG_lower_than,C0857127,Induction,topp,C0042679,Vincristine,orch,PubMed
+NEG_lower_than,C0001480,Adenosine Triphosphate,bacs,C0001480,Adenosine Triphosphate,bacs,PubMed
+NEG_lower_than,C0719198,Celebrex,orch,C0003211,"Anti-Inflammatory Agents, Non-Steroidal",phsu,PubMed
+NEG_lower_than,C0085149,Tacrolimus,orch,C0010592,Cyclosporine,aapp,PubMed
+NEG_lower_than,C0087111,Therapeutic procedure,topp,C0010592,Cyclosporine,aapp,PubMed
+NEG_lower_than,C0032447,Polychlorinated Biphenyls,hops,C0023779,Lipids,lipd,PubMed
+NEG_lower_than,C0004147,Atenolol,orch,C0053799,Bisoprolol,orch,PubMed
+NEG_lower_than,C0547070,Ablation,topp,C0018284,Growth Factor,bacs,PubMed
+NEG_lower_than,C0001047,Acetylcysteine,aapp,C0001047,Acetylcysteine,aapp,PubMed
+NEG_lower_than,C1176415,lumiracoxib,orch,C0012091,Diclofenac,orch,PubMed
+NEG_lower_than,C0017977,Glycosides,carb,C0304518,Aglycone,orch,PubMed
+NEG_lower_than,C0013227,Pharmaceutical Preparations,phsu,C0001617,Adrenal Cortex Hormones,horm,PubMed
+NEG_lower_than,C0389169,doripenem,orch,C0279516,Anti-Bacterial Agents,antb,PubMed
+NEG_lower_than,C0032346,Poisons,hops,C0020591,Hypnotics,phsu,PubMed
+NEG_lower_than,C1135929,Mass Vaccination,topp,C0042196,Vaccination,topp,PubMed
+NEG_lower_than,C0262878,"Microscopes, Electron, Scanning",medd,C0597177,particle,chvs,PubMed
+NEG_lower_than,C0024360,Lysophosphatidylcholines,lipd,C0023749,Linoleic Acid,bacs,PubMed
+NEG_lower_than,C1122087,adalimumab,aapp,C0025677,Methotrexate,orch,PubMed
+NEG_lower_than,C0010194,Cotinine,orch,C0441122,Pack,medd,PubMed
+NEG_lower_than,C0014327,Enteral Nutrition,topp,C0030548,"Parenteral Nutrition, Total",topp,PubMed
+NEG_lower_than,C0013227,Pharmaceutical Preparations,phsu,C0006644,Caffeine,orch,PubMed
+NEG_lower_than,C0032042,Placebos,medd,C0055147,Cetirizine,orch,PubMed
+NEG_lower_than,C1332396,BCL2-Related Protein 11,aapp,C1099354,"RNA, Small Interfering",bacs,PubMed
+NEG_lower_than,C0035139,Surgical Replantation,topp,C1293131,Fusion procedure,topp,PubMed
+NEG_lower_than,C1302181,Chemotherapy cycle,topp,C1533685,Injection procedure,topp,PubMed
+NEG_lower_than,C0013216,Pharmacotherapy,topp,C1533685,Injection procedure,topp,PubMed
+NEG_lower_than,C0032042,Placebos,medd,C0008809,Ciprofloxacin,orch,PubMed
+NEG_lower_than,C0001962,Ethanol,orch,C0001962,Ethanol,orch,PubMed
+NEG_lower_than,C0087111,Therapeutic procedure,topp,C0025810,Methylphenidate,orch,PubMed
+NEG_lower_than,C0003448,Antitubercular Agents,phsu,C0022209,isoniazid,orch,PubMed
+NEG_lower_than,C0033684,Proteins,aapp,C0001962,Ethanol,orch,PubMed
+NEG_lower_than,C0123091,quetiapine,orch,C0073393,Risperidone,orch,PubMed
+NEG_lower_than,C0242402,Opioids,hops,C0013227,Pharmaceutical Preparations,phsu,PubMed
+NEG_lower_than,C1305923,Polypeptides,aapp,C0582263,Structural protein,aapp,PubMed
+NEG_lower_than,C0017237,Gelatin,aapp,C0017237,Gelatin,aapp,PubMed
+NEG_lower_than,C0524865,Reconstructive Surgical Procedures,topp,C0017428,Genome,gngm,PubMed
+NEG_lower_than,C0060236,ferric hydroxide,inch,C0296048,ferrihydrite,aapp,PubMed
+NEG_lower_than,C0037366,Smoke,eehu,C0037366,Smoke,eehu,PubMed
+NEG_lower_than,C0040087,Thymine,bacs,C0010843,Cytosine,bacs,PubMed
+NEG_lower_than,C0085104,Drug Delivery Systems,medd,C0013227,Pharmaceutical Preparations,phsu,PubMed
+NEG_lower_than,C0754647,frovatriptan,orch,C0914729,almotriptan,orch,PubMed
+NEG_lower_than,C0013227,Pharmaceutical Preparations,phsu,C0087111,Therapeutic procedure,topp,PubMed
+NEG_lower_than,C0450442,Agent,chvf,C0003392,Antineoplastic Agents,phsu,PubMed
+NEG_lower_than,C0037125,Silver,bacs,C0013119,Sterile coverings,medd,PubMed
+NEG_lower_than,C0216784,valsartan,orch,C0014025,Enalapril,aapp,PubMed
+NEG_lower_than,C0038257,Stents,medd,C0038257,Stents,medd,PubMed
+NEG_lower_than,C0009429,Combined Modality Therapy,topp,C0033968,Psychotherapy,topp,PubMed
+NEG_lower_than,C0032042,Placebos,medd,C0014939,Estrogens,horm,PubMed
+NEG_lower_than,C0246415,docetaxel,orch,C0246415,docetaxel,orch,PubMed
+NEG_lower_than,C0543467,Operative Surgical Procedures,topp,C0543467,Operative Surgical Procedures,topp,PubMed
+NEG_lower_than,C0087111,Therapeutic procedure,topp,C0199176,Prophylactic treatment,topp,PubMed
+NEG_lower_than,C0021920,Introns,bacs,C0002520,Amino Acids,aapp,PubMed
+NEG_lower_than,C0086511,"Arthroplasty, Replacement, Knee",topp,C0006560,C-reactive protein,aapp,PubMed
+NEG_lower_than,C0020587,Hypnosis,topp,C0013227,Pharmaceutical Preparations,phsu,PubMed
+NEG_lower_than,C0011177,Dehydroascorbic Acid,carb,C0003968,Ascorbic Acid,carb,PubMed
+NEG_lower_than,C0009244,Cognitive Therapy,topp,C0009244,Cognitive Therapy,topp,PubMed
+NEG_lower_than,C0209368,mycophenolate mofetil,orch,C0010583,Cyclophosphamide,opco,PubMed
+NEG_lower_than,C0079925,"Oligonucleotides, Antisense",bacs,C0003241,Antibodies,aapp,PubMed
+NEG_lower_than,C0013832,Electrolytes,inch,C0013832,Electrolytes,inch,PubMed
+NEG_lower_than,C0908045,cycloferon,orch,C1533685,Injection procedure,topp,PubMed
+NEG_lower_than,C0396565,Lung excision,topp,C0023928,Lobectomy,topp,PubMed
+NEG_lower_than,C0771875,MITE EXTRACT,aapp,C0162352,Allergen Immunotherapy,topp,PubMed
+NEG_lower_than,C0023038,Laparotomy,topp,C0023038,Laparotomy,topp,PubMed
+NEG_lower_than,C0005491,Biofeedback,topp,C0087111,Therapeutic procedure,topp,PubMed
+NEG_lower_than,C0051920,anisodamine,orch,C0004259,Atropine,orch,PubMed
+NEG_lower_than,C0025552,Metals,inch,C0302583,Iron,bacs,PubMed
+NEG_lower_than,C0040610,Tramadol,orch,C0026549,Morphine,orch,PubMed
+NEG_lower_than,C0087111,Therapeutic procedure,topp,C0043031,Warfarin,hops,PubMed
+NEG_lower_than,C0028013,Nickel,bacs,C0028013,Nickel,bacs,PubMed
+NEG_lower_than,C0043047,Water,inch,C0002611,Ammonium,inch,PubMed
+NEG_lower_than,C0441503,Primary closure,topp,C0524865,Reconstructive Surgical Procedures,topp,PubMed
+NEG_lower_than,C0006086,Braces-Orthopedic appliances,medd,C0343138,Application of strapping,topp,PubMed
+NEG_lower_than,C0394664,Acupuncture procedure,topp,C0003195,Anti-Arrhythmia Agents,phsu,PubMed
+NEG_lower_than,C0394664,Acupuncture procedure,topp,C0013227,Pharmaceutical Preparations,phsu,PubMed
+NEG_lower_than,C0017428,Genome,gngm,C0017337,Genes,gngm,PubMed
+NEG_lower_than,C0017337,Genes,gngm,C0017337,Genes,gngm,PubMed
+NEG_lower_than,C0032042,Placebos,medd,C0013227,Pharmaceutical Preparations,phsu,PubMed
+NEG_lower_than,C0001645,Adrenergic beta-Antagonists,phsu,C0087111,Therapeutic procedure,topp,PubMed
+NEG_lower_than,C0751429,"Surgical Procedures, Laparoscopic",topp,C0348025,Open approach,topp,PubMed
+NEG_lower_than,C0162758,Serotonin Uptake Inhibitors,phsu,C0003290,"Antidepressive Agents, Tricyclic",orch,PubMed
+NEG_lower_than,C0028953,Oligonucleotides,nnon,C0596448,dimer,chvs,PubMed
+NEG_lower_than,C0104238,arsenate,inch,C0052418,arsenite,inch,PubMed
+NEG_lower_than,C0393022,rituximab,aapp,C0010583,Cyclophosphamide,opco,PubMed
+NEG_lower_than,C0060600,fly ash,hops,C0179302,Binder,medd,PubMed
+NEG_lower_than,C0013216,Pharmacotherapy,topp,C0246415,docetaxel,orch,PubMed
+NEG_lower_than,C0008407,Choline O-Acetyltransferase,aapp,C0059796,ethylcholine aziridinium,orch,PubMed
+NEG_lower_than,C1456408,liraglutide,aapp,C0061323,glimepiride,orch,PubMed
+NEG_lower_than,C0023821,High Density Lipoproteins,aapp,C0001962,Ethanol,orch,PubMed
+NEG_lower_than,C0040341,Tobramycin,antb,C0040808,Treatment Protocols,resa,PubMed
+NEG_lower_than,C0031469,Phenylephrine,orch,C0053672,bipiperidyl mustard,orch,PubMed
+NEG_lower_than,C0762662,rofecoxib,orch,C0057678,diacetylrhein,orch,PubMed
+NEG_lower_than,C0087111,Therapeutic procedure,topp,C0031765,Phototherapy,topp,PubMed
+NEG_lower_than,C0199176,Prophylactic treatment,topp,C0019139,"Heparin, Low-Molecular-Weight",carb,PubMed
+NEG_lower_than,C0081876,pantoprazole,orch,C0028978,Omeprazole,orch,PubMed
+NEG_lower_than,C0984630,celecoxib 200 MG,clnd,C0992428,Ibuprofen 400 MG,clnd,PubMed
+NEG_lower_than,C0054836,carvedilol,orch,C0025859,Metoprolol,orch,PubMed
+NEG_lower_than,C0001962,Ethanol,orch,C0395416,Photorefractive Keratectomy,topp,PubMed
+NEG_lower_than,C0014939,Estrogens,horm,C0014939,Estrogens,horm,PubMed
+NEG_lower_than,C1522405,Recombinant Interleukin-2,aapp,C0087111,Therapeutic procedure,topp,PubMed
+NEG_lower_than,C0041942,Urea,bacs,C0012004,Diatrizoate,irda,PubMed
+NEG_lower_than,C0002932,Anesthetics,phsu,C0873118,Levobupivacaine,orch,PubMed
+NEG_lower_than,C0026388,Molindone,orch,C0013227,Pharmaceutical Preparations,phsu,PubMed
+NEG_lower_than,C0216660,zanamivir,orch,C0032042,Placebos,medd,PubMed
+NEG_lower_than,C0162645,Laryngeal Masks,medd,C0162645,Laryngeal Masks,medd,PubMed
+NEG_lower_than,C0199176,Prophylactic treatment,topp,C0040808,Treatment Protocols,resa,PubMed
+NEG_lower_than,C0015618,Family psychotherapy,topp,C0204525,Individual psychotherapy,topp,PubMed
+NEG_lower_than,C0085590,catheter device,medd,C0085590,catheter device,medd,PubMed
+NEG_lower_than,C0012737,Dissection,topp,C0012737,Dissection,topp,PubMed
+NEG_lower_than,C0543467,Operative Surgical Procedures,topp,C0728940,Excision,topp,PubMed
+NEG_lower_than,C0441488,Directional atherectomy,topp,C0002996,"Angioplasty, Balloon",topp,PubMed
+NEG_lower_than,C0032042,Placebos,medd,C0086073,Cromolyn,orch,PubMed
+NEG_lower_than,C0199176,Prophylactic treatment,topp,C0565514,Compression procedure,topp,PubMed
+NEG_lower_than,C0004259,Atropine,orch,C0012582,Dipyridamole,orch,PubMed
+NEG_lower_than,C0073393,Risperidone,orch,C0018546,Haloperidol,orch,PubMed
+NEG_lower_than,C0040866,Triamcinolone Acetonide,phsu,C0600901,methylprednisolone acetate,phsu,PubMed
+NEG_lower_than,C0026088,Mifepristone,phsu,C0023566,Levonorgestrel,phsu,PubMed
+NEG_lower_than,C0665341,Estrogen Receptor alpha,aapp,C0665341,Estrogen Receptor alpha,aapp,PubMed
+NEG_lower_than,C0042903,Vitrectomy,topp,C0042903,Vitrectomy,topp,PubMed
+NEG_lower_than,C0013873,Electrosurgery,topp,C0392251,Carbon dioxide laser device,medd,PubMed
+NEG_lower_than,C1569608,varenicline,orch,C1278444,Nicotine replacement therapy,topp,PubMed
+NEG_lower_than,C1533685,Injection procedure,topp,C0035139,Surgical Replantation,topp,PubMed
+NEG_lower_than,C1373120,Non-Nucleoside Reverse Transcriptase Inhibitors,phsu,C0087111,Therapeutic procedure,topp,PubMed
+NEG_lower_than,C0850292,Radiofrequency ablation,topp,C0013804,Electrocoagulation,topp,PubMed
+NEG_lower_than,C0076840,torsemide,orch,C0016860,Furosemide,orch,PubMed
+NEG_lower_than,C1566537,Ranibizumab,aapp,C0850168,Laser treatment,topp,PubMed
+NEG_lower_than,C0034945,Reflexology,topp,C0024875,Massage,topp,PubMed
+NEG_lower_than,C0180860,Filters,medd,C0180860,Filters,medd,PubMed
+NEG_lower_than,C0023065,Laryngectomy,topp,C0189231,Total laryngectomy,topp,PubMed
+NEG_lower_than,C0040348,Tocolysis,topp,C0243192,agonists,phsu,PubMed
+NEG_lower_than,C0543467,Operative Surgical Procedures,topp,C0024883,Modified radical mastectomy,topp,PubMed
+NEG_lower_than,C0033968,Psychotherapy,topp,C0087111,Therapeutic procedure,topp,PubMed
+NEG_lower_than,C0935989,imatinib,orch,C0290883,anastrozole,orch,PubMed
+NEG_lower_than,C0185014,Banding procedure,topp,C0036435,Sclerotherapy,topp,PubMed
+NEG_lower_than,C0066928,mullerian-inhibiting hormone,horm,C0066928,mullerian-inhibiting hormone,horm,PubMed
+NEG_lower_than,C0677881,Cytotoxic Chemotherapy,topp,C1135135,erlotinib,orch,PubMed
+NEG_lower_than,C0596973,monomer,chvs,C0457285,Conventional denture,medd,PubMed
+NEG_lower_than,C0360528,Oral form dexamethasone,horm,C0358513,Oral form prednisolone,clnd,PubMed
+NEG_lower_than,C0025598,Metformin,orch,C0087111,Therapeutic procedure,topp,PubMed
+NEG_lower_than,C1602113,Oxynorm,orch,C0040610,Tramadol,orch,PubMed
+NEG_lower_than,C0087111,Therapeutic procedure,topp,C0013216,Pharmacotherapy,topp,PubMed
+NEG_lower_than,C0032042,Placebos,medd,C0083381,meloxicam,orch,PubMed
+NEG_lower_than,C0193788,Total thyroidectomy,topp,C0193788,Total thyroidectomy,topp,PubMed
+NEG_lower_than,C0007439,Indwelling Catheter,medd,C0020311,Hydrotherapy,topp,PubMed
+NEG_lower_than,C0542331,Shunt Device,medd,C1258018,Microbubbles,medd,PubMed
+NEG_lower_than,C0070470,perphenazine enanthate,orch,C0040615,Antipsychotic Agents,phsu,PubMed
+NEG_lower_than,C0183346,"Sling, device",medd,C0543467,Operative Surgical Procedures,topp,PubMed
+NEG_lower_than,C0087111,Therapeutic procedure,topp,C0035848,Root Canal Obturation,topp,PubMed
+NEG_lower_than,C0003211,"Anti-Inflammatory Agents, Non-Steroidal",phsu,C0242402,Opioids,hops,PubMed
+NEG_lower_than,C0038842,Supervision,topp,C0038842,Supervision,topp,PubMed
+NEG_lower_than,C0053672,bipiperidyl mustard,orch,C0053672,bipiperidyl mustard,orch,PubMed
+NEG_lower_than,C0451615,Pain relief,topp,C0003211,"Anti-Inflammatory Agents, Non-Steroidal",phsu,PubMed
+NEG_lower_than,C0087111,Therapeutic procedure,topp,C0009244,Cognitive Therapy,topp,PubMed
+NEG_lower_than,C0013216,Pharmacotherapy,topp,C0013216,Pharmacotherapy,topp,PubMed
+NEG_lower_than,C0917707,Cannulation,topp,C0917707,Cannulation,topp,PubMed
+NEG_lower_than,C0012798,Diuretics,phsu,C0006376,Bumetanide,orch,PubMed
+NEG_lower_than,C0020934,Imipramine,orch,C0162758,Serotonin Uptake Inhibitors,phsu,PubMed
+NEG_lower_than,C0040615,Antipsychotic Agents,phsu,C0040615,Antipsychotic Agents,phsu,PubMed
+NEG_lower_than,C0076096,tenoxicam,orch,C0087111,Therapeutic procedure,topp,PubMed
+NEG_lower_than,C1533685,Injection procedure,topp,C0087111,Therapeutic procedure,topp,PubMed
+NEG_lower_than,C0002928,Spinal Anesthesia,topp,C0003974,Asepsis,topp,PubMed
+NEG_lower_than,C0243077,inhibitors,chvf,C1136254,Microbicides,phsu,PubMed
+NEG_lower_than,C0052430,artemisinine,orch,C0034417,Quinine,orch,PubMed
+NEG_lower_than,C0013227,Pharmaceutical Preparations,phsu,C0034417,Quinine,orch,PubMed
+NEG_lower_than,C0039840,Thiamine,orch,C0032042,Placebos,medd,PubMed
+NEG_lower_than,C1257954,Cyclooxygenase 2 Inhibitors,orch,C0003211,"Anti-Inflammatory Agents, Non-Steroidal",phsu,PubMed
+NEG_lower_than,C0451615,Pain relief,topp,C0282493,"Surgical Procedures, Endoscopic",topp,PubMed
+NEG_lower_than,C0199176,Prophylactic treatment,topp,C0199176,Prophylactic treatment,topp,PubMed
+NEG_lower_than,C0076829,topiramate,orch,C0032042,Placebos,medd,PubMed
+NEG_lower_than,C0032042,Placebos,medd,C0087111,Therapeutic procedure,topp,PubMed
+NEG_lower_than,C0040808,Treatment Protocols,resa,C0796545,peginterferon alfa-2b,aapp,PubMed
+NEG_lower_than,C0585942,Antianginal therapy,topp,C0053672,bipiperidyl mustard,orch,PubMed
+NEG_lower_than,C0031923,Pilocarpine,orch,C0032042,Placebos,medd,PubMed
+NEG_lower_than,C0677829,Palifermin,aapp,C0032042,Placebos,medd,PubMed
+NEG_lower_than,C0086330,Gamma Knife Radiosurgery,topp,C0086330,Gamma Knife Radiosurgery,topp,PubMed
+NEG_lower_than,C0031139,Peritoneal Dialysis,topp,C0019004,Hemodialysis,topp,PubMed
+NEG_lower_than,C0032483,Polyethylene Glycols,bodm,C0040808,Treatment Protocols,resa,PubMed
+NEG_lower_than,C0087111,Therapeutic procedure,topp,C0032042,Placebos,medd,PubMed
+NEG_lower_than,C0728940,Excision,topp,C0348025,Open approach,topp,PubMed
+NEG_lower_than,C0028978,Omeprazole,orch,C0028978,Omeprazole,orch,PubMed
+NEG_lower_than,C0061851,Ondansetron,orch,C0027556,Nefopam,orch,PubMed
+NEG_lower_than,C0451615,Pain relief,topp,C0030049,Oxycodone,orch,PubMed
+NEG_lower_than,C0279493,Androgen therapy,topp,C0279493,Androgen therapy,topp,PubMed
+NEG_lower_than,C0179407,Brackets,medd,C0179407,Brackets,medd,PubMed
+NEG_lower_than,C0017436,Gentamicins,antb,C0007561,Ceftriaxone,antb,PubMed
+NEG_lower_than,C0404090,Total laparoscopic hysterectomy,topp,C0404077,Abdominal hysterectomy,topp,PubMed
+NEG_lower_than,C0179874,Chambers,medd,C0179874,Chambers,medd,PubMed
+NEG_lower_than,C0087111,Therapeutic procedure,topp,C1533685,Injection procedure,topp,PubMed
+NEG_lower_than,C0087111,Therapeutic procedure,topp,C0025598,Metformin,orch,PubMed
+NEG_lower_than,C0167117,exenatide,aapp,C0087111,Therapeutic procedure,topp,PubMed
+NEG_lower_than,C0035273,Resuscitation,topp,C0007203,Cardiopulmonary Resuscitation,topp,PubMed
+NEG_lower_than,C0003241,Antibodies,aapp,C0016564,Formaldehyde,hops,PubMed
+NEG_lower_than,C0400084,"Hartmann operation, rectal resection",topp,C0348025,Open approach,topp,PubMed
+NEG_lower_than,C0246421,letrozole,orch,C0290883,anastrozole,orch,PubMed
+NEG_lower_than,C0003211,"Anti-Inflammatory Agents, Non-Steroidal",phsu,C0003211,"Anti-Inflammatory Agents, Non-Steroidal",phsu,PubMed
+NEG_lower_than,C0017725,Glucose,bacs,C0021641,Insulin,aapp,PubMed
+NEG_lower_than,C0947647,Manipulation procedure,topp,C0087111,Therapeutic procedure,topp,PubMed
+NEG_lower_than,C0771019,Paroxetine Hydrochloride,orch,C0162758,Serotonin Uptake Inhibitors,phsu,PubMed
+NEG_lower_than,C0004057,Aspirin,orch,C0003211,"Anti-Inflammatory Agents, Non-Steroidal",phsu,PubMed
+NEG_lower_than,C0016875,Fusidic Acid,antb,C0042313,Vancomycin,aapp,PubMed
+NEG_lower_than,C0194086,Partial nephrectomy NOS,topp,C0348025,Open approach,topp,PubMed
+NEG_lower_than,C0011777,Dexamethasone,phsu,C0038317,Steroids,strd,PubMed
+NEG_lower_than,C0003893,Arthroplasty,topp,C0199176,Prophylactic treatment,topp,PubMed
+NEG_lower_than,C0935989,imatinib,orch,C0935989,imatinib,orch,PubMed
+NEG_lower_than,C1293283,Thigh reconstruction,topp,C0035139,Surgical Replantation,topp,PubMed
+NEG_lower_than,C0344211,Supportive care,topp,C0087111,Therapeutic procedure,topp,PubMed
+NEG_lower_than,C0019144,Hepatectomy,topp,C0348025,Open approach,topp,PubMed
+NEG_lower_than,C0543467,Operative Surgical Procedures,topp,C0279027,"Laser Therapy, Low-Level",topp,PubMed
+NEG_lower_than,C1136312,"Histamine H1 Antagonists, Non-Sedating",phsu,C0001617,Adrenal Cortex Hormones,horm,PubMed
+NEG_lower_than,C0887947,"Antiretroviral Therapy, Highly Active",topp,C0033607,Protease Inhibitor,bacs,PubMed
+NEG_lower_than,C1433124,idraparinux,orch,C1096489,Vitamin K antagonist,topp,PubMed
+NEG_lower_than,C0014392,Enucleation procedure,topp,C0014392,Enucleation procedure,topp,PubMed
+NEG_lower_than,C1566537,Ranibizumab,aapp,C0730064,Panretinal photocoagulation,topp,PubMed
+NEG_lower_than,C1566537,Ranibizumab,aapp,C0087111,Therapeutic procedure,topp,PubMed
+NEG_lower_than,C0248719,telmisartan,orch,C0065374,Lisinopril,aapp,PubMed
+NEG_lower_than,C0663241,linezolid,orch,C0055856,Clarithromycin,antb,PubMed
+NEG_lower_than,C0359916,Phenolics,orch,C0031253,Pesticides,hops,PubMed
+NEG_lower_than,C0039663,Tetrahydrocannabinol,orch,C0024808,Marihuana,orch,PubMed
+NEG_lower_than,C0242210,Binding Protein,aapp,C0010654,Cysteine,aapp,PubMed
+NEG_lower_than,C0007203,Cardiopulmonary Resuscitation,topp,C0007203,Cardiopulmonary Resuscitation,topp,PubMed
+NEG_lower_than,C0002766,Pain management,topp,C0027741,Nerve Block,topp,PubMed
+NEG_lower_than,C0027415,Narcotics,hops,C0040519,Tourniquets,medd,PubMed
+NEG_lower_than,C0677965,Video-Assisted Surgery,topp,C0039991,Thoracotomy,topp,PubMed
+NEG_lower_than,C0304402,Stimulant,phsu,C0032042,Placebos,medd,PubMed
+NEG_lower_than,C0524865,Reconstructive Surgical Procedures,topp,C0040732,Transplantation,topp,PubMed
+NEG_lower_than,C0296800,fexofenadine,orch,C1136312,"Histamine H1 Antagonists, Non-Sedating",phsu,PubMed
+NEG_lower_than,C0066677,modafinil,orch,C0032042,Placebos,medd,PubMed
+NEG_lower_than,C0034428,Quinolones,orch,C0002556,Aminoglycosides,orch,PubMed
+NEG_lower_than,C0008196,chlorhexidine,orch,C0001962,ethanol,orch,PubMed
+NEG_lower_than,C0079083,carboplatin,orch,C0008838,cisplatin,inch,PubMed
+NEG_lower_than,C0013216,Pharmacotherapy,topp,C0184908,Partial excision,topp,PubMed
+NEG_lower_than,C0013227,Pharmaceutical Preparations,phsu,C0040808,Treatment Protocols,topp,PubMed
+NEG_lower_than,C1721082,Suburethral Slings,medd,C3179501,Midurethral Slings,medd,PubMed
+NEG_lower_than,C0150189,Distraction training,topp,C0150189,Distraction training,topp,PubMed
+NEG_lower_than,C0250480,piperacillin-tazobactam combination,phsu,C0042313,vancomycin,aapp,PubMed
+NEG_lower_than,C0063252,desflurane,orch,C0074414,sevoflurane,orch,PubMed
+NEG_lower_than,C0030956,Peptides,aapp,C0030956,Peptides,aapp,PubMed
+NEG_lower_than,C0007004,Carbohydrates,orch,C0007004,Carbohydrates,orch,PubMed
+NEG_lower_than,C0015250,Complete excision,topp,C0041626,Ultraviolet Therapy,topp,PubMed
+NEG_lower_than,C1335144,Orthologous Gene,gngm,C0017337,Genes,gngm,PubMed
+NEG_lower_than,C0949266,"Therapies, Investigational",topp,C1704532,Active Method,topp,PubMed
+NEG_lower_than,C0057144,daptomycin,aapp,C0003232,Antibiotics,antb,PubMed
+NEG_lower_than,C3179535,suvorexant,orch,C0032042,Placebos,topp,PubMed
+NEG_lower_than,C0017977,Glycosides,orch,C0075246,stevioside,orch,PubMed
+NEG_lower_than,C0013227,Pharmaceutical Preparations,phsu,C0009244,Cognitive Therapy,topp,PubMed
+NEG_lower_than,C0070455,permethrin,hops,C0070455,permethrin,hops,PubMed
+NEG_lower_than,C0052796,azithromycin,antb,C0030842,penicillins,antb,PubMed
+NEG_lower_than,C0040461,Toothbrushing,topp,C0040461,Toothbrushing,topp,PubMed
+NEG_lower_than,C5197773,Broadly Neutralizing Antibodies,aapp,C0443640,Specific antibody,aapp,PubMed
+NEG_lower_than,C0015421,Eyeglasses,medd,C0009836,Contact Lenses,medd,PubMed
+NEG_lower_than,C0042210,Vaccines,aapp,C1721787,Gardasil,imft,PubMed
+NEG_lower_than,C0007009,Carbon,elii,C0007009,Carbon,elii,PubMed
+NEG_lower_than,C0199176,Prophylactic treatment,topp,C0678485,controlled substance,phsu,PubMed
+NEG_lower_than,C1675326,peramivir,orch,C0874161,oseltamivir,orch,PubMed
+NEG_lower_than,C2982391,Long Intergenic Non-Protein Coding RNA,nnon,C0035696,"RNA, Messenger",bacs,PubMed
+NEG_lower_than,C1167956,Cardiac Resynchronization Therapy,topp,C1167956,Cardiac Resynchronization Therapy,topp,PubMed
+NEG_lower_than,C0162522,"Cholecystectomy, Laparoscopic",topp,C0341073,Percutaneous cholecystostomy,topp,PubMed
+NEG_lower_than,C1882413,Poly(ADP-ribose) Polymerase Inhibitors,orch,C0013216,Pharmacotherapy,topp,PubMed
+NEG_lower_than,C0013227,Pharmaceutical Preparations,phsu,C0021641,Insulin,aapp,PubMed
+NEG_lower_than,C0024885,Segmental Mastectomy,topp,C0024881,Mastectomy,topp,PubMed
+NEG_lower_than,C0407613,Excision of the trapezium,topp,C0407613,Excision of the trapezium,topp,PubMed
+NEG_lower_than,C1764827,Isolate - microorganism,bacs,C1764827,Isolate - microorganism,bacs,PubMed
+NEG_lower_than,C0070166,clopidogrel,orch,C0004057,aspirin,orch,PubMed
+NEG_lower_than,C1533685,Injection procedure,topp,C0001617,Adrenal Cortex Hormones,horm,PubMed
+NEG_lower_than,C0179802,Urinary catheter,medd,C0185115,Extraction,topp,PubMed
+NEG_lower_than,C0667408,terpene synthase,aapp,C0039561,Terpenes,bacs,PubMed
+NEG_lower_than,C0043832,deferiprone,orch,C0043832,deferiprone,orch,PubMed
+NEG_lower_than,C1764827,Isolate - microorganism,bacs,C1136254,Microbicides,phsu,PubMed
+NEG_lower_than,C0035668,RNA,nnon,C0028630,Nucleotides,nnon,PubMed
+NEG_lower_than,C0085104,Drug Delivery Systems,medd,C1706912,BARRIER,medd,PubMed
+NEG_lower_than,C0002915,General Anesthesia,topp,C0079159,Conscious Sedation,topp,PubMed
+NEG_lower_than,C0030956,Peptides,aapp,C0017890,glycine,aapp,PubMed
+NEG_lower_than,C3264738,pepper extract,orch,C0525503,beta-caryophyllene,orch,PubMed
+NEG_lower_than,C0028910,"Oils, Volatile",orch,C0028910,"Oils, Volatile",orch,PubMed
+NEG_lower_than,C0010286,creatine,aapp,C0873188,creatine monohydrate,orch,PubMed
+NEG_lower_than,C0053799,bisoprolol,orch,C0012702,disopyramide,orch,PubMed
+NEG_lower_than,C0033684,Proteins,aapp,C0030956,Peptides,aapp,PubMed
+NEG_lower_than,C0278348,Immunotherapy for cancer,topp,C5392215,Neoadjuvant Chemoradiotherapy,topp,PubMed
+NEG_lower_than,C0123931,irinotecan,orch,C4057931,irinotecan liposomal,orch,PubMed
+NEG_lower_than,C0887909,"RNA, Untranslated",nnon,C0017337,Genes,gngm,PubMed
+NEG_lower_than,C0057626,dezocine,orch,C0002772,"Analgesics, Opioid",orch,PubMed
+NEG_lower_than,C1706912,BARRIER,medd,C0678941,Gene Mutant,gngm,PubMed
+NEG_lower_than,C0002766,Pain management,topp,C1522449,Therapeutic radiology procedure,topp,PubMed
+NEG_lower_than,C0949266,"Therapies, Investigational",topp,C2827774,Current Therapy,topp,PubMed
+NEG_lower_than,C1955991,"Genome, Plastid",gngm,C1955991,"Genome, Plastid",gngm,PubMed
+NEG_lower_than,C4071858,Injectate,medd,C4071858,Injectate,medd,PubMed
+NEG_lower_than,C0013216,Pharmacotherapy,topp,C0040808,Treatment Protocols,topp,PubMed
+NEG_lower_than,C0013103,Drainage procedure,topp,C0013103,Drainage procedure,topp,PubMed
+NEG_lower_than,C0033971,Group Psychotherapy,topp,C0678941,Gene Mutant,gngm,PubMed
+NEG_lower_than,C0040732,Transplantation,topp,C0040732,Transplantation,topp,PubMed
+NEG_lower_than,C0183932,Thoracoscopes,medd,C0183932,Thoracoscopes,medd,PubMed
+NEG_lower_than,C0033798,pseudoephedrine,orch,C0002062,Alkaloids,orch,PubMed
+NEG_lower_than,C0596383,Copolymer,chvs,C1883559,Wild Type,gngm,PubMed
+NEG_lower_than,C0021461,Inhaler,medd,C0993596,Metered Dose Inhaler,medd,PubMed
+NEG_lower_than,C0015153,eugenol,orch,C5435024,molnupiravir,orch,PubMed
+NEG_lower_than,C0015252,removal technique,topp,C0023928,Lobectomy,topp,PubMed
+NEG_lower_than,C0013786,Electric stimulation technique,topp,C0182083,Ankle/foot orthosis,medd,PubMed
+NEG_lower_than,C1961993,pomegranate extract,orch,C0759922,punicalagin,orch,PubMed
+NEG_lower_than,C0013900,ellagic acid,bacs,C0071649,polyphenols,orch,PubMed
+NEG_lower_than,C0014898,Esters,orch,C0014898,Esters,orch,PubMed
+NEG_lower_than,C0209368,mycophenolate mofetil,orch,C0004482,azathioprine,hops,PubMed
+NEG_lower_than,C0193959,Tonsillectomy and adenoidectomy,topp_topp,C0025787,Methylmalonic Acid,orch_orch,MIMIC
+NEG_lower_than,C0002766,Pain management,topp_topp,C0310367,Today,antb_orch_antb,MIMIC
+NEG_lower_than,C0700776,Lopressor,orch_phsu_orch,C0037494,Sodium Chloride,bacs_inch_phsu_bacs,MIMIC
+NEG_lower_than,C0056633,cyclophosphamide/prednisone/vincristine protocol,topp_topp,C0032740,Positive End-Expiratory Pressure,topp_topp,MIMIC
+NEG_lower_than,C1415375,GYPC gene,gngm_aapp_gngm,C1568891,"HGS protein, human",aapp_gngm_bacs_aapp,MIMIC

@@ -1,0 +1,896 @@
+PREDICATE,SUBJECT_CUI,SUBJECT_NAME,SUBJECT_SEMTYPE,OBJECT_CUI,OBJECT_NAME,OBJECT_SEMTYPE,Database
+NEG_CONVERTS_TO,C0023779,Lipids,lipd,C0066324,methylamphotericin B,orch,PubMed
+NEG_CONVERTS_TO,C0038230,Stearic Acids,lipd,C0041004,Triglycerides,bacs,PubMed
+NEG_CONVERTS_TO,C0030956,Peptides,aapp,C0016693,Free Radicals,bacs,PubMed
+NEG_CONVERTS_TO,C0282641,Transgenes,gngm,C0080124,Antisense RNA,bacs,PubMed
+NEG_CONVERTS_TO,C0039746,Thebaine,orch,C0002771,Analgesics,phsu,PubMed
+NEG_CONVERTS_TO,C0031610,Phosphatidic Acid,lipd,C0031621,Phosphatidylinositols,bacs,PubMed
+NEG_CONVERTS_TO,C0012854,DNA,bacs,C0162326,DNA Sequence,nusq,PubMed
+NEG_CONVERTS_TO,C1257879,Trans Fatty Acids,lipd,C0015684,Fatty Acids,bacs,PubMed
+NEG_CONVERTS_TO,C0047701,3-phosphoglycerate,bacs,C0001898,Alanine,bacs,PubMed
+NEG_CONVERTS_TO,C0047701,3-phosphoglycerate,bacs,C0038636,Sucrose,bacs,PubMed
+NEG_CONVERTS_TO,C0061418,Glucose-6-Phosphate,bacs,C0038636,Sucrose,bacs,PubMed
+NEG_CONVERTS_TO,C0061418,Glucose-6-Phosphate,bacs,C0001898,Alanine,bacs,PubMed
+NEG_CONVERTS_TO,C0017890,Glycine,aapp,C0036720,Serine,gngm,PubMed
+NEG_CONVERTS_TO,C1453650,corynoline,orch,C0001047,Acetylcysteine,gngm,PubMed
+NEG_CONVERTS_TO,C0031866,Phytosterols,bacs,C0008377,Cholesterol,bacs,PubMed
+NEG_CONVERTS_TO,C0001407,Adenine,bacs,C0010815,Cytokinins,bacs,PubMed
+NEG_CONVERTS_TO,C0018321,Guanine,bacs,C0010815,Cytokinins,bacs,PubMed
+NEG_CONVERTS_TO,C0035668,RNA,bacs,C0010815,Cytokinins,bacs,PubMed
+NEG_CONVERTS_TO,C0027303,NADP,bacs,C0027289,NADH,bacs,PubMed
+NEG_CONVERTS_TO,C0017996,Glyoxylates,orch,C0017890,Glycine,gngm,PubMed
+NEG_CONVERTS_TO,C0002860,Androstenedione,horm,C0014939,Estrogens,horm,PubMed
+NEG_CONVERTS_TO,C0282523,CpG Islands,bacs,C1366752,Neomycin resistance gene,gngm,PubMed
+NEG_CONVERTS_TO,C0017337,Genes,gngm,C0033684,Proteins,gngm,PubMed
+NEG_CONVERTS_TO,C0005248,beta Lactoglobulin,aapp,C0030956,Peptides,gngm,PubMed
+NEG_CONVERTS_TO,C0022942,Lactoferrin,aapp,C0030956,Peptides,gngm,PubMed
+NEG_CONVERTS_TO,C0026138,Milk Proteins,aapp,C0030956,Peptides,gngm,PubMed
+NEG_CONVERTS_TO,C0030946,Endopeptidases,aapp,C0034861,Recombinant Proteins,gngm,PubMed
+NEG_CONVERTS_TO,C1121991,Cangrelor,phsu,C0040018,Thrombin,gngm,PubMed
+NEG_CONVERTS_TO,C0002508,Amines,orch,C0002482,Amides,orch,PubMed
+NEG_CONVERTS_TO,C0025646,Methionine,aapp,C0032433,Polyamines,orch,PubMed
+NEG_CONVERTS_TO,C0079941,Open Reading Frames,gngm,C0582263,Structural protein,gngm,PubMed
+NEG_CONVERTS_TO,C0034790,T-Cell Receptor,aapp,C0003320,Antigens,bacs,PubMed
+NEG_CONVERTS_TO,C0643518,guanosine 5'-monophosphorothioate,phsu,C0001443,Adenosine,bacs,PubMed
+NEG_CONVERTS_TO,C0033164,Prions,aapp,C0002716,Amyloid,gngm,PubMed
+NEG_CONVERTS_TO,C0072092,Proglucagon,aapp,C0030956,Peptides,gngm,PubMed
+NEG_CONVERTS_TO,C0014898,Esters,orch,C0038229,stearic acid,lipd,PubMed
+NEG_CONVERTS_TO,C0052558,asphalt,orch,C0007009,Carbon,elii,PubMed
+NEG_CONVERTS_TO,C0030956,Peptides,aapp,C0031684,Phosphopeptides,gngm,PubMed
+NEG_CONVERTS_TO,C0009325,Collagen,aapp,C0115137,Durapatite,inch,PubMed
+NEG_CONVERTS_TO,C0002845,"Androgens, Synthetic",horm,C0014912,Estradiol,horm,PubMed
+NEG_CONVERTS_TO,C0038148,Stanolone,horm,C0014912,Estradiol,horm,PubMed
+NEG_CONVERTS_TO,C0015637,Farnesol,lipd,C1434580,drimenol,orch,PubMed
+NEG_CONVERTS_TO,C0034320,Diphosphates,inch,C1434580,drimenol,orch,PubMed
+NEG_CONVERTS_TO,C0303755,Hard coal,orch,C0057717,Diamond,elii,PubMed
+NEG_CONVERTS_TO,C0025646,Methionine,aapp,C0033382,Proline,gngm,PubMed
+NEG_CONVERTS_TO,C0041249,Tryptophan,aapp,C0936060,indoleacetic acid,horm,PubMed
+NEG_CONVERTS_TO,C0702172,Alar,hops,C0012968,Docosahexaenoic Acids,bacs,PubMed
+NEG_CONVERTS_TO,C0025646,Methionine,aapp,C0596922,methyl group,orch,PubMed
+NEG_CONVERTS_TO,C0683005,natural polymers,orch,C0006675,Calcium,bacs,PubMed
+NEG_CONVERTS_TO,C1299007,Alpha-glucoside inhibitor,phsu,C0003968,Ascorbic Acid,carb,PubMed
+NEG_CONVERTS_TO,C0162326,DNA Sequence,nusq,C0030956,Peptides,gngm,PubMed
+NEG_CONVERTS_TO,C1364818,APP gene,gngm,C1449651,Amyloid Fibrils,gngm,PubMed
+NEG_CONVERTS_TO,C0008377,Cholesterol,bacs,C0001026,Acetyl Coenzyme A,bacs,PubMed
+NEG_CONVERTS_TO,C0003241,Antibodies,aapp,C0242210,Binding Protein,gngm,PubMed
+NEG_CONVERTS_TO,C0015677,Fatty acid glycerol esters,lipd,C0599745,lipid mediator,bacs,PubMed
+NEG_CONVERTS_TO,C0004057,Aspirin,orch,C0036077,Salicylates,orch,PubMed
+NEG_CONVERTS_TO,C0870883,Metabolites,bacs,C0014939,Estrogens,horm,PubMed
+NEG_CONVERTS_TO,C0013227,Pharmaceutical Preparations,phsu,C0014442,Enzymes,enzy,PubMed
+NEG_CONVERTS_TO,C0003765,Arginine,aapp,C0242209,Sugars,carb,PubMed
+NEG_CONVERTS_TO,C0031453,Phenylalanine,aapp,C0242209,Sugars,carb,PubMed
+NEG_CONVERTS_TO,C0033382,Proline,aapp,C0242209,Sugars,carb,PubMed
+NEG_CONVERTS_TO,C0042285,Valine,aapp,C0242209,Sugars,carb,PubMed
+NEG_CONVERTS_TO,C0050993,agroclavine,orch,C0014707,Ergot Alkaloids,bacs,PubMed
+NEG_CONVERTS_TO,C0369632,Lysergic Acid,orch,C0014707,Ergot Alkaloids,bacs,PubMed
+NEG_CONVERTS_TO,C0132326,Nevirapine,phsu,C0597104,nucleoside inhibitor,phsu,PubMed
+NEG_CONVERTS_TO,C0024337,Lysine,aapp,C0034325,Pyrroles,orch,PubMed
+NEG_CONVERTS_TO,C0026138,Milk Proteins,aapp,C0030966,Peptones,gngm,PubMed
+NEG_CONVERTS_TO,C1433854,squaraine,orch,C1100802,Rotaxanes,orch,PubMed
+NEG_CONVERTS_TO,C0055568,Cholic Acid,bacs,C0018850,Heat shock proteins,gngm,PubMed
+NEG_CONVERTS_TO,C0599770,genetic element,gngm,C0012591,Direct Repeat,nusq,PubMed
+NEG_CONVERTS_TO,C0024808,Marihuana,orch,C0006864,Cannabinoids,orch,PubMed
+NEG_CONVERTS_TO,C0039561,Terpenes,bacs,C0544309,Repellent,hops,PubMed
+NEG_CONVERTS_TO,C0031264,Petroleum,orch,C0032616,Polyurethanes,orch,PubMed
+NEG_CONVERTS_TO,C0033559,Prostaglandins E,bacs,C0033557,Prostaglandins B,eico,PubMed
+NEG_CONVERTS_TO,C0016366,Fluoxymesterone,horm,C0014939,Estrogens,horm,PubMed
+NEG_CONVERTS_TO,C0018353,Guanosine Triphosphate,bacs,C0034320,Diphosphates,inch,PubMed
+NEG_CONVERTS_TO,C0021540,Inosine Triphosphate,bacs,C0034320,Diphosphates,inch,PubMed
+NEG_CONVERTS_TO,C0024481,Mg-UTP,bacs,C0034320,Diphosphates,inch,PubMed
+NEG_CONVERTS_TO,C0022949,Lactose,bacs,C0028959,Oligosaccharides,carb,PubMed
+NEG_CONVERTS_TO,C0036100,Salivary Proteins,aapp,C0007012,Carbon Dioxide,bacs,PubMed
+NEG_CONVERTS_TO,C0044482,1-methylxanthine,orch,C1454451,1-methylurate,orch,PubMed
+NEG_CONVERTS_TO,C0019046,Hemoglobin,aapp,C0007061,Carboxyhemoglobin,gngm,PubMed
+NEG_CONVERTS_TO,C0008405,Choline,bacs,C0001041,Acetylcholine,nsba,PubMed
+NEG_CONVERTS_TO,C0036002,S-Adenosylmethionine,aapp,C0035711,Transfer RNA,bacs,PubMed
+NEG_CONVERTS_TO,C0017797,Glutamine,aapp,C0017725,Glucose,bacs,PubMed
+NEG_CONVERTS_TO,C0003695,Arachidonic Acid,eico,C0012472,Dinoprostone,eico,PubMed
+NEG_CONVERTS_TO,C0003695,Arachidonic Acid,eico,C0040059,Thromboxane B2,eico,PubMed
+NEG_CONVERTS_TO,C0043791,"1,2-diacylglycerol",bacs,C0031617,Lecithin,bacs,PubMed
+NEG_CONVERTS_TO,C0950056,Xenopus Proteins,aapp,C0013708,Yolk Proteins,gngm,PubMed
+NEG_CONVERTS_TO,C0085791,Aminonucleoside,phsu,C0034145,Puromycin,antb,PubMed
+NEG_CONVERTS_TO,C1337049,hGH Gene,gngm,C0033684,Proteins,gngm,PubMed
+NEG_CONVERTS_TO,C0243192,agonists,phsu,C0242893,Cholinergic Agents,phsu,PubMed
+NEG_CONVERTS_TO,C0011957,Diamines,orch,C0032433,Polyamines,orch,PubMed
+NEG_CONVERTS_TO,C0025646,Methionine,aapp,C0035711,Transfer RNA,bacs,PubMed
+NEG_CONVERTS_TO,C0206008,Coenzyme M,bacs,C0033434,Propane,orch,PubMed
+NEG_CONVERTS_TO,C0373704,Pregnenolone,horm,C0039601,Testosterone,horm,PubMed
+NEG_CONVERTS_TO,C0012171,Dietary Fats,lipd,C0015684,Fatty Acids,bacs,PubMed
+NEG_CONVERTS_TO,C0145934,"sarsasapogenin, (3beta,5alpha,25R)-isomer",strd,C0036189,Saponins,strd,PubMed
+NEG_CONVERTS_TO,C0041236,TRYPSIN,aapp,C0030946,Endopeptidases,gngm,PubMed
+NEG_CONVERTS_TO,C0031621,Phosphatidylinositols,bacs,C0043791,"1,2-diacylglycerol",bacs,PubMed
+NEG_CONVERTS_TO,C0043791,"1,2-diacylglycerol",bacs,C0031610,Phosphatidic Acid,lipd,PubMed
+NEG_CONVERTS_TO,C0017887,Nitroglycerin,orch,C0028128,Nitric Oxide,bacs,PubMed
+NEG_CONVERTS_TO,C0003006,Angiotensin I,aapp,C0003009,Angiotensin II,gngm,PubMed
+NEG_CONVERTS_TO,C0032136,Plasmids,bacs,C0162326,DNA Sequence,nusq,PubMed
+NEG_CONVERTS_TO,C0033665,Protein Precursors,aapp,C0033684,Proteins,gngm,PubMed
+NEG_CONVERTS_TO,C0079941,Open Reading Frames,gngm,C0032136,Plasmids,bacs,PubMed
+NEG_CONVERTS_TO,C0030190,Plasminogen Activator Inhibitor 1,aapp,C0032143,Alteplase,gngm,PubMed
+NEG_CONVERTS_TO,C0017725,Glucose,bacs,C0051380,alpha-hydroxyglutarate,orch,PubMed
+NEG_CONVERTS_TO,C0017725,Glucose,bacs,C0220918,succinate,orch,PubMed
+NEG_CONVERTS_TO,C0017725,Glucose,bacs,C1291208,2-Oxoglutarate,orch,PubMed
+NEG_CONVERTS_TO,C0033554,Prostaglandins,bacs,C0006100,Bradykinin,gngm,PubMed
+NEG_CONVERTS_TO,C0034170,Putrescine,nsba,C0037871,Spermidine,nsba,PubMed
+NEG_CONVERTS_TO,C0003765,Arginine,aapp,C0038836,Superoxides,elii,PubMed
+NEG_CONVERTS_TO,C0003765,Arginine,aapp,C0022023,Ions,elii,PubMed
+NEG_CONVERTS_TO,C0038636,Sucrose,bacs,C0016745,Fructose,carb,PubMed
+NEG_CONVERTS_TO,C0065063,"lipoproteins, IDL",aapp,C0023825,Very low density lipoprotein,gngm,PubMed
+NEG_CONVERTS_TO,C0244104,Pyruvate,bacs,C0007009,Carbon,elii,PubMed
+NEG_CONVERTS_TO,C0015690,"Fatty Acids, Unsaturated",lipd,C0015684,Fatty Acids,bacs,PubMed
+NEG_CONVERTS_TO,C0164903,11-dodecenoic acid,lipd,C0014630,Epoxy Compounds,orch,PubMed
+NEG_CONVERTS_TO,C0018353,Guanosine Triphosphate,bacs,C0005562,Biopterin,bacs,PubMed
+NEG_CONVERTS_TO,C0010654,Cysteine,aapp,C0026879,Mutagens,hops,PubMed
+NEG_CONVERTS_TO,C0003695,Arachidonic Acid,eico,C0023545,Leukotrienes,bacs,PubMed
+NEG_CONVERTS_TO,C0003695,Arachidonic Acid,eico,C0033554,Prostaglandins,bacs,PubMed
+NEG_CONVERTS_TO,C0001992,Aldehydes,orch,C0009325,Collagen,gngm,PubMed
+NEG_CONVERTS_TO,C0001992,Aldehydes,orch,C0013765,Elastin,aapp,PubMed
+NEG_CONVERTS_TO,C0005390,Bile Acids,bacs,C0008024,Chenodeoxycholic Acid,bacs,PubMed
+NEG_CONVERTS_TO,C0005390,Bile Acids,bacs,C0055568,Cholic Acid,bacs,PubMed
+NEG_CONVERTS_TO,C0007258,Carnitine,aapp,C0077194,trimethyloxamine,orch,PubMed
+NEG_CONVERTS_TO,C0007271,Carotenoids,bacs,C0042839,Vitamin A,orch,PubMed
+NEG_CONVERTS_TO,C0033382,Proline,aapp,C0057334,delta-1-pyrroline-5-carboxylate,orch,PubMed
+NEG_CONVERTS_TO,C0086123,Deoxycholate,bacs,C0596543,exoenzyme,gngm,PubMed
+NEG_CONVERTS_TO,C0022634,Ketones,orch,C0014994,"Ether, Ethyl",orch,PubMed
+NEG_CONVERTS_TO,C0031621,Phosphatidylinositols,bacs,C0037900,Sphingolipids,lipd,PubMed
+NEG_CONVERTS_TO,C0031621,Phosphatidylinositols,bacs,C0058396,diphosphoinositides,lipd,PubMed
+NEG_CONVERTS_TO,C0033554,Prostaglandins,bacs,C0012471,Dinoprost,eico,PubMed
+NEG_CONVERTS_TO,C0056760,cyclohexanone,orch,C0010569,Cyclohexanol,orch,PubMed
+NEG_CONVERTS_TO,C0002771,Analgesics,phsu,C0003211,"Anti-Inflammatory Agents, Non-Steroidal",phsu,PubMed
+NEG_CONVERTS_TO,C0030234,Palmitic Acid,bacs,C0037900,Sphingolipids,lipd,PubMed
+NEG_CONVERTS_TO,C0014442,Enzymes,enzy,C0002335,Alprostadil,eico,PubMed
+NEG_CONVERTS_TO,C0162326,DNA Sequence,nusq,C0002520,Amino Acids,gngm,PubMed
+NEG_CONVERTS_TO,C0039601,Testosterone,horm,C0038148,Stanolone,horm,PubMed
+NEG_CONVERTS_TO,C0007004,Carbohydrates,carb,C0015684,Fatty Acids,bacs,PubMed
+NEG_CONVERTS_TO,C0039601,Testosterone,horm,C0014939,Estrogens,horm,PubMed
+NEG_CONVERTS_TO,C0002844,Androgens,horm,C0014939,Estrogens,horm,PubMed
+NEG_CONVERTS_TO,C0002645,Amoxicillin,antb,C0002680,Ampicillin,antb,PubMed
+NEG_CONVERTS_TO,C0017337,Genes,gngm,C0066908,"Receptors, Opioid, mu",gngm,PubMed
+NEG_CONVERTS_TO,C0003320,Antigens,bacs,C0034789,"Receptors, Antigen, B-Cell",gngm,PubMed
+NEG_CONVERTS_TO,C0031617,Lecithin,bacs,C0043791,"1,2-diacylglycerol",bacs,PubMed
+NEG_CONVERTS_TO,C0031614,Phosphatidyl glycerol,bacs,C0031623,Phosphatidylserines,lipd,PubMed
+NEG_CONVERTS_TO,C0600437,Nitric Oxide Donors,phsu,C0028128,Nitric Oxide,bacs,PubMed
+NEG_CONVERTS_TO,C0001964,1-Propanol,orch,C0014442,Enzymes,enzy,PubMed
+NEG_CONVERTS_TO,C0071960,pretyrosine,aapp,C0031453,Phenylalanine,gngm,PubMed
+NEG_CONVERTS_TO,C0071960,pretyrosine,aapp,C0041485,Tyrosine,aapp,PubMed
+NEG_CONVERTS_TO,C0723796,Trace metal,elii,C0007090,Carcinogens,hops,PubMed
+NEG_CONVERTS_TO,C0030235,Palmitic Acids,lipd,C0069966,palmitoleic acid,lipd,PubMed
+NEG_CONVERTS_TO,C0004057,Aspirin,orch,C0077126,triflusal,orch,PubMed
+NEG_CONVERTS_TO,C0004057,Aspirin,orch,C0085826,Antiplatelet Agents,phsu,PubMed
+NEG_CONVERTS_TO,C0030896,Pentostatin,phsu,C0020684,Hypoxanthine,bacs,PubMed
+NEG_CONVERTS_TO,C0045044,18-hydroxydeoxycorticosterone,horm,C0000172,18-Hydroxycorticosterone,phsu,PubMed
+NEG_CONVERTS_TO,C0045044,18-hydroxydeoxycorticosterone,horm,C0002006,Aldosterone,horm,PubMed
+NEG_CONVERTS_TO,C0035724,Leucine-Specific tRNA,bacs,C0040329,Tobacco,hops,PubMed
+NEG_CONVERTS_TO,C0023779,Lipids,lipd,C0015684,Fatty Acids,lipd,PubMed
+NEG_CONVERTS_TO,C0023779,Lipids,lipd,C0037900,Sphingolipids,lipd,PubMed
+NEG_CONVERTS_TO,C0040018,Thrombin,aapp,C0243192,agonists,phsu,PubMed
+NEG_CONVERTS_TO,C0019134,Heparin,bacs,C0012611,Disaccharides,carb,PubMed
+NEG_CONVERTS_TO,C0019143,Heparitin Sulfate,bacs,C0012611,Disaccharides,carb,PubMed
+NEG_CONVERTS_TO,C0051405,alpha-Linolenic Acid,bacs,C0058129,dihydroxyacetone sulfate,orch,PubMed
+NEG_CONVERTS_TO,C0033235,Procollagen,aapp,C0009325,Collagen,gngm,PubMed
+NEG_CONVERTS_TO,C0244104,Pyruvate,bacs,C0870883,Metabolites,bacs,PubMed
+NEG_CONVERTS_TO,C0657854,fusarin X,bacs,C0657855,fusarin Z,orch,PubMed
+NEG_CONVERTS_TO,C0010654,Cysteine,aapp,C0475338,Mixed disulfides,gngm,PubMed
+NEG_CONVERTS_TO,C0010682,Cystine,aapp,C0475338,Mixed disulfides,gngm,PubMed
+NEG_CONVERTS_TO,C0019588,Histamine,nsba,C0063387,imidazoleacetic acid,orch,PubMed
+NEG_CONVERTS_TO,C1364818,APP gene,gngm,C0030956,Peptides,gngm,PubMed
+NEG_CONVERTS_TO,C0031412,Phenobarbital,orch,C0026879,Mutagens,hops,PubMed
+NEG_CONVERTS_TO,C0030054,Oxygen,elii,C0567415,Atom,elii,PubMed
+NEG_CONVERTS_TO,C0013023,Dopa,aapp,C0071038,picolinic acid,orch,PubMed
+NEG_CONVERTS_TO,C0038317,Steroids,strd,C0014912,Estradiol,horm,PubMed
+NEG_CONVERTS_TO,C0076660,tibolone,phsu,C0014912,Estradiol,horm,PubMed
+NEG_CONVERTS_TO,C0052699,averantin,orch,C0001734,Aflatoxins,bacs,PubMed
+NEG_CONVERTS_TO,C0069024,norsolorinic acid,orch,C0001734,Aflatoxins,bacs,PubMed
+NEG_CONVERTS_TO,C0053396,Beta Carotene,orch,C0035339,Retinoids,bacs,PubMed
+NEG_CONVERTS_TO,C0167250,Krebs-Henseleit solution,carb,C0034435,Quinones,orch,PubMed
+NEG_CONVERTS_TO,C0017953,Glycopeptides,aapp,C0017725,Glucose,bacs,PubMed
+NEG_CONVERTS_TO,C0178585,dehydroascorbate,carb,C0041236,TRYPSIN,gngm,PubMed
+NEG_CONVERTS_TO,C0024337,Lysine,aapp,C0003320,Antigens,bacs,PubMed
+NEG_CONVERTS_TO,C0014994,"Ether, Ethyl",orch,C0042839,Vitamin A,orch,PubMed
+NEG_CONVERTS_TO,C0000970,Acetaminophen,orch,C0038734,Sulfhydryl Compounds,orch,PubMed
+NEG_CONVERTS_TO,C0010762,Cytochrome P450,aapp,C0870883,Metabolites,bacs,PubMed
+NEG_CONVERTS_TO,C0039617,Tetanus Toxin,aapp,C0815048,toxic proteins,gngm,PubMed
+NEG_CONVERTS_TO,C0019134,Heparin,bacs,C0028959,Oligosaccharides,carb,PubMed
+NEG_CONVERTS_TO,C0020281,Hydrogen Peroxide,inch,C0038836,Superoxides,elii,PubMed
+NEG_CONVERTS_TO,C0041485,Tyrosine,aapp,C0047029,"3,5-dibromo-4-nitrosobenzenesulfonate",orch,PubMed
+NEG_CONVERTS_TO,C0011710,Deoxycorticosterone,horm,C0596439,diene,orch,PubMed
+NEG_CONVERTS_TO,C0162326,DNA Sequence,nusq,C0012854,DNA,bacs,PubMed
+NEG_CONVERTS_TO,C0027270,Nicotinamide adenine dinucleotide (NAD),bacs,C0071038,picolinic acid,orch,PubMed
+NEG_CONVERTS_TO,C0068882,nitroxyl,inch,C0038838,Superoxide Dismutase,gngm,PubMed
+NEG_CONVERTS_TO,C0003075,Anions,elii,C0038838,Superoxide Dismutase,gngm,PubMed
+NEG_CONVERTS_TO,C0036720,Serine,aapp,C0001898,Alanine,gngm,PubMed
+NEG_CONVERTS_TO,C0017817,Glutathione,aapp,C0034435,Quinones,orch,PubMed
+NEG_CONVERTS_TO,C0043317,Xanthine Oxidase,aapp,C0018321,Guanine,bacs,PubMed
+NEG_CONVERTS_TO,C0282641,Transgenes,gngm,C0035668,RNA,bacs,PubMed
+NEG_CONVERTS_TO,C0033684,Proteins,aapp,C0006675,Calcium,bacs,PubMed
+NEG_CONVERTS_TO,C0029277,Ornithine,aapp,C0032433,Polyamines,orch,PubMed
+NEG_CONVERTS_TO,C0030958,Peptidoglycan,bacs,C0242209,Sugars,carb,PubMed
+NEG_CONVERTS_TO,C0017978,Glycosphingolipids,lipd,C0246257,ceramide 1-phosphate,lipd,PubMed
+NEG_CONVERTS_TO,C0038317,Steroids,strd,C0014939,Estrogens,horm,PubMed
+NEG_CONVERTS_TO,C0017337,Genes,gngm,C0035668,RNA,bacs,PubMed
+NEG_CONVERTS_TO,C0043369,Xylitol,carb,C0870883,Metabolites,bacs,PubMed
+NEG_CONVERTS_TO,C0670751,milk fat globule,lipd,C0005149,beta-2 Microglobulin,gngm,PubMed
+NEG_CONVERTS_TO,C0023749,Linoleic Acid,bacs,C0003695,Arachidonic Acid,eico,PubMed
+NEG_CONVERTS_TO,C0012200,Diethylnitrosamine,hops,C0752086,Glucuronides,bacs,PubMed
+NEG_CONVERTS_TO,C0007009,Carbon,elii,C0026879,Mutagens,hops,PubMed
+NEG_CONVERTS_TO,C0031676,Phospholipids,bacs,C0031617,Lecithin,bacs,PubMed
+NEG_CONVERTS_TO,C0030020,Oximes,orch,C0022023,Ions,elii,PubMed
+NEG_CONVERTS_TO,C0314681,Conjugative plasmid,gngm,C0032136,Plasmids,bacs,PubMed
+NEG_CONVERTS_TO,C0040162,Thyrotropin-Releasing Hormone,aapp,C0870883,Metabolites,bacs,PubMed
+NEG_CONVERTS_TO,C0055782,circumsporozoite protein,aapp,C0002520,Amino Acids,gngm,PubMed
+NEG_CONVERTS_TO,C0023820,Lipoproteins,aapp,C0008395,"Cholesterol, Dietary",strd,PubMed
+NEG_CONVERTS_TO,C0037871,Spermidine,nsba,C0037874,Spermine,nsba,PubMed
+NEG_CONVERTS_TO,C0037874,Spermine,nsba,C0037871,Spermidine,nsba,PubMed
+NEG_CONVERTS_TO,C0034170,Putrescine,nsba,C0037874,Spermine,nsba,PubMed
+NEG_CONVERTS_TO,C0009325,Collagen,aapp,C0304402,Stimulant,phsu,PubMed
+NEG_CONVERTS_TO,C0015689,"Fatty Acids, Omega-3",bacs,C0058129,dihydroxyacetone sulfate,orch,PubMed
+NEG_CONVERTS_TO,C0017366,Structural gene,gngm,C0033684,Proteins,gngm,PubMed
+NEG_CONVERTS_TO,C0017968,Glycoproteins,aapp,C0003320,Antigens,bacs,PubMed
+NEG_CONVERTS_TO,C0011535,Deoxyuridine,bacs,C0049336,5-nitrouracil,phsu,PubMed
+NEG_CONVERTS_TO,C0054169,brushite,inch,C0003522,Apatites,inch,PubMed
+NEG_CONVERTS_TO,C0039771,Theophylline,bacs,C0041980,Uric Acid,bacs,PubMed
+NEG_CONVERTS_TO,C0178845,shikimate,bacs,C0077985,valienamine,carb,PubMed
+NEG_CONVERTS_TO,C0035668,RNA,bacs,C0035693,"RNA, Double-Stranded",bacs,PubMed
+NEG_CONVERTS_TO,C0043314,xanthine,bacs,C0031638,Phosphodiesterase Inhibitors,phsu,PubMed
+NEG_CONVERTS_TO,C0072092,Proglucagon,aapp,C0061361,glucagon-like-immunoreactivity,gngm,PubMed
+NEG_CONVERTS_TO,C0025219,Melatonin,horm,C0000983,Acetic Acid,orch,PubMed
+NEG_CONVERTS_TO,C0596922,methyl group,orch,C0016564,Formaldehyde,hops,PubMed
+NEG_CONVERTS_TO,C0041197,Tropomyosin,aapp,C0162326,DNA Sequence,nusq,PubMed
+NEG_CONVERTS_TO,C0000966,Acetaldehyde,orch,C0001962,Ethanol,orch,PubMed
+NEG_CONVERTS_TO,C0028027,Niacinamide,orch,C0027270,Nicotinamide adenine dinucleotide (NAD),bacs,PubMed
+NEG_CONVERTS_TO,C0028158,Nitrogen,elii,C0010682,Cystine,gngm,PubMed
+NEG_CONVERTS_TO,C0062816,HLA-B13,imft,C0062836,HLA-Bw47,imft,PubMed
+NEG_CONVERTS_TO,C0044887,"15-hydroxy-5,8,11,13-eicosatetraenoic acid",bacs,C0870883,Metabolites,bacs,PubMed
+NEG_CONVERTS_TO,C0045010,17-alpha-Hydroxyprogesterone,horm,C0002860,Androstenedione,horm,PubMed
+NEG_CONVERTS_TO,C0597357,receptor,aapp,C0021246,Indomethacin,orch,PubMed
+NEG_CONVERTS_TO,C0014939,Estrogens,horm,C0242958,DNA Adducts,bacs,PubMed
+NEG_CONVERTS_TO,C0019588,Histamine,nsba,C0145110,tele-methylimidazoleacetic acid,orch,PubMed
+NEG_CONVERTS_TO,C0067686,N-acetylbenzidine,bacs,C0033551,Prostaglandin-Endoperoxide Synthase,gngm,PubMed
+NEG_CONVERTS_TO,C0045079,"19-oxo-delta(4) androstene-3,17-dione",phsu,C0014939,Estrogens,horm,PubMed
+NEG_CONVERTS_TO,C0035331,Retinaldehyde,orch,C0073115,retinyl palmitate,orch,PubMed
+NEG_CONVERTS_TO,C0035331,Retinaldehyde,orch,C1095873,11-cis-Retinol,orch,PubMed
+NEG_CONVERTS_TO,C0073115,retinyl palmitate,orch,C0035331,Retinaldehyde,orch,PubMed
+NEG_CONVERTS_TO,C0073115,retinyl palmitate,orch,C1095873,11-cis-Retinol,orch,PubMed
+NEG_CONVERTS_TO,C1095873,11-cis-Retinol,orch,C0035331,Retinaldehyde,orch,PubMed
+NEG_CONVERTS_TO,C1095873,11-cis-Retinol,orch,C0073115,retinyl palmitate,orch,PubMed
+NEG_CONVERTS_TO,C0035331,Retinaldehyde,orch,C0035339,Retinoids,bacs,PubMed
+NEG_CONVERTS_TO,C0073115,retinyl palmitate,orch,C0035339,Retinoids,bacs,PubMed
+NEG_CONVERTS_TO,C1095873,11-cis-Retinol,orch,C0035339,Retinoids,bacs,PubMed
+NEG_CONVERTS_TO,C0033567,Epoprostenol,bacs,C0013725,Eicosanoids,eico,PubMed
+NEG_CONVERTS_TO,C0031676,Phospholipids,bacs,C0023828,Liposomes,lipd,PubMed
+NEG_CONVERTS_TO,C0023779,Lipids,lipd,C0043791,"1,2-diacylglycerol",bacs,PubMed
+NEG_CONVERTS_TO,C0072184,propionaldehyde,hops,C0002068,Alkenes,orch,PubMed
+NEG_CONVERTS_TO,C0023825,Very low density lipoprotein,aapp,C0023823,Low-Density Lipoproteins,gngm,PubMed
+NEG_CONVERTS_TO,C0021755,Interleukin-1,aapp,C0079189,cytokine,gngm,PubMed
+NEG_CONVERTS_TO,C0040162,Thyrotropin-Releasing Hormone,aapp,C0019602,Histidine,gngm,PubMed
+NEG_CONVERTS_TO,C0040162,Thyrotropin-Releasing Hormone,aapp,C1334043,Homologous Gene,gngm,PubMed
+NEG_CONVERTS_TO,C0036825,Serum Proteins,aapp,C0311448,Abnormal protein,gngm,PubMed
+NEG_CONVERTS_TO,C0000975,Acetate,orch,C0007009,Carbon,elii,PubMed
+NEG_CONVERTS_TO,C0017861,Glycerol,phsu,C0007009,Carbon,elii,PubMed
+NEG_CONVERTS_TO,C0007054,Carboxy-Lyases,aapp,C0030710,Patulin,hops,PubMed
+NEG_CONVERTS_TO,C0007004,Carbohydrates,carb,C0016745,Fructose,carb,PubMed
+NEG_CONVERTS_TO,C0086987,Single-Chain Urokinase-Type Plasminogen Activator,aapp,C0042071,Urokinase,gngm,PubMed
+NEG_CONVERTS_TO,C0108478,carboxyprimaquine,orch,C0658114,8-aminoquinoline,orch,PubMed
+NEG_CONVERTS_TO,C0282587,Neural Cell Adhesion Molecules,aapp,C1305923,Polypeptides,gngm,PubMed
+NEG_CONVERTS_TO,C0019134,Heparin,bacs,C0065063,"lipoproteins, IDL",gngm,PubMed
+NEG_CONVERTS_TO,C0031676,Phospholipids,bacs,C0043791,"1,2-diacylglycerol",bacs,PubMed
+NEG_CONVERTS_TO,C0040059,Thromboxane B2,eico,C0044728,11-dehydro-thromboxane B2,eico,PubMed
+NEG_CONVERTS_TO,C0012968,Docosahexaenoic Acids,bacs,C0023837,Lipoxygenase,gngm,PubMed
+NEG_CONVERTS_TO,C0012968,Docosahexaenoic Acids,bacs,C0033554,Prostaglandins,bacs,PubMed
+NEG_CONVERTS_TO,C0033306,Progestins,horm,C0002844,Androgens,horm,PubMed
+NEG_CONVERTS_TO,C0052416,arsenic trioxide,inch,C0301363,5-Trimethoxyamphetamine,orch,PubMed
+NEG_CONVERTS_TO,C0010762,Cytochrome P450,aapp,C0017945,Glycol,orch,PubMed
+NEG_CONVERTS_TO,C0033006,Pregnanes,strd,C0006349,Bufadienolides,strd,PubMed
+NEG_CONVERTS_TO,C0017890,Glycine,aapp,C0017817,Glutathione,gngm,PubMed
+NEG_CONVERTS_TO,C0073959,saikosaponin,strd,C0596439,diene,orch,PubMed
+NEG_CONVERTS_TO,C0148335,very high density lipoproteins,aapp,C0023820,Lipoproteins,gngm,PubMed
+NEG_CONVERTS_TO,C0020349,Hydroxyeicosatetraenoic Acids,bacs,C0870883,Metabolites,bacs,PubMed
+NEG_CONVERTS_TO,C1333198,Cytoplasmic Protein,aapp,C0030956,Peptides,gngm,PubMed
+NEG_CONVERTS_TO,C0008947,Clindamycin,antb,C0444622,Toxin production,hops,PubMed
+NEG_CONVERTS_TO,C0033634,Protein Kinase C,aapp,C0033638,Protein Kinase M,gngm,PubMed
+NEG_CONVERTS_TO,C0017817,Glutathione,aapp,C0010654,Cysteine,gngm,PubMed
+NEG_CONVERTS_TO,C0038785,Sulfuric Acid Esters,orch,C0013030,Dopamine,nsba,PubMed
+NEG_CONVERTS_TO,C0000988,Acetoacetates,orch,C0001026,Acetyl Coenzyme A,bacs,PubMed
+NEG_CONVERTS_TO,C0028040,Nicotine,hops,C0746574,METHYLATE,phsu,PubMed
+NEG_CONVERTS_TO,C0014295,"Enkephalin, Methionine",aapp,C0030956,Peptides,gngm,PubMed
+NEG_CONVERTS_TO,C0072186,Propionic acid,orch,C0260264,Steroid drugs,strd,PubMed
+NEG_CONVERTS_TO,C1137590,Ketoximes,orch,C0001645,Adrenergic beta-Antagonists,phsu,PubMed
+NEG_CONVERTS_TO,C0067762,N-Acetylneuraminic Acid,bacs,C0007158,Cardiac Glycosides,carb,PubMed
+NEG_CONVERTS_TO,C0541232,proaerolysin,bacs,C0040549,Toxin,bacs,PubMed
+NEG_CONVERTS_TO,C0021641,Insulin,aapp,C0007012,Carbon Dioxide,bacs,PubMed
+NEG_CONVERTS_TO,C0021641,Insulin,aapp,C0017725,Glucose,bacs,PubMed
+NEG_CONVERTS_TO,C0021641,Insulin,aapp,C0023779,Lipids,lipd,PubMed
+NEG_CONVERTS_TO,C0870883,Metabolites,bacs,C0014442,Enzymes,enzy,PubMed
+NEG_CONVERTS_TO,C0017911,Glycogen,bacs,C0028959,Oligosaccharides,carb,PubMed
+NEG_CONVERTS_TO,C0023749,Linoleic Acid,bacs,C0000658,"8,11,14-Eicosatrienoic Acid",eico,PubMed
+NEG_CONVERTS_TO,C0002607,Ammonia,bacs,C0017797,Glutamine,gngm,PubMed
+NEG_CONVERTS_TO,C0024518,Major Histocompatibility Complex,gngm,C0030956,Peptides,gngm,PubMed
+NEG_CONVERTS_TO,C0017860,Glycerides,carb,C0015688,"Fatty Acids, Nonesterified",lipd,PubMed
+NEG_CONVERTS_TO,C0042874,Vitamin E,lipd,C0969677,alpha Tocopherol,lipd,PubMed
+NEG_CONVERTS_TO,C0016693,Free Radicals,bacs,C0022618,Keto Acids,orch,PubMed
+NEG_CONVERTS_TO,C0016778,Tegafur,phsu,C0016360,Fluorouracil,phsu,PubMed
+NEG_CONVERTS_TO,C0055782,circumsporozoite protein,aapp,C0003320,Antigens,bacs,PubMed
+NEG_CONVERTS_TO,C0050600,ACTH (1-13),aapp,C0030956,Peptides,gngm,PubMed
+NEG_CONVERTS_TO,C0677647,Mevalonate,bacs,C0038323,Sterols,strd,PubMed
+NEG_CONVERTS_TO,C0017861,Glycerol,bacs,C0032172,Platelet Activating Factor,imft,PubMed
+NEG_CONVERTS_TO,C0078364,vitamin A2,orch,C0042839,Vitamin A,orch,PubMed
+NEG_CONVERTS_TO,C0038425,Streptomycin,antb,C0064135,jacobine,orch,PubMed
+NEG_CONVERTS_TO,C0038745,Sulfisoxazole,orch,C0064135,jacobine,orch,PubMed
+NEG_CONVERTS_TO,C0042313,Vancomycin,aapp,C0064135,jacobine,orch,PubMed
+NEG_CONVERTS_TO,C0074721,Sodium Azide,hops,C0064135,jacobine,orch,PubMed
+NEG_CONVERTS_TO,C0017861,Glycerol,bacs,C0031676,Phospholipids,bacs,PubMed
+NEG_CONVERTS_TO,C0014442,Enzymes,enzy,C0282109,Holoenzymes,gngm,PubMed
+NEG_CONVERTS_TO,C0016745,Fructose,carb,C0017725,Glucose,bacs,PubMed
+NEG_CONVERTS_TO,C0003241,Antibodies,aapp,C0004358,Autoantibodies,gngm,PubMed
+NEG_CONVERTS_TO,C0009325,Collagen,aapp,C0017237,Gelatin,gngm,PubMed
+NEG_CONVERTS_TO,C0033684,Proteins,aapp,C0054541,calponin,gngm,PubMed
+NEG_CONVERTS_TO,C0026492,Monosaccharides,carb,C0242209,Sugars,carb,PubMed
+NEG_CONVERTS_TO,C0012854,DNA,bacs,C0035379,RNA-Directed DNA Polymerase,gngm,PubMed
+NEG_CONVERTS_TO,C0005802,Blood Glucose,carb,C0724624,Medium chain triglycerides,lipd,PubMed
+NEG_CONVERTS_TO,C0000545,Eicosapentaenoic Acid,bacs,C0033554,Prostaglandins,bacs,PubMed
+NEG_CONVERTS_TO,C0034435,Quinones,orch,C0870883,Metabolites,bacs,PubMed
+NEG_CONVERTS_TO,C0020196,Hyaluronic Acid,bacs,C0012611,Disaccharides,carb,PubMed
+NEG_CONVERTS_TO,C0038785,Sulfuric Acid Esters,orch,C0012611,Disaccharides,carb,PubMed
+NEG_CONVERTS_TO,C0038734,Sulfhydryl Compounds,orch,C0017887,Nitroglycerin,orch,PubMed
+NEG_CONVERTS_TO,C0063578,inositol 4-phosphate,carb,C0021547,Inositol,carb,PubMed
+NEG_CONVERTS_TO,C0003320,Antigens,bacs,C0019166,Hepatitis B Core Antigen,imft,PubMed
+NEG_CONVERTS_TO,C0005038,Lindane,hops,C0019432,Hexachlorobenzene,hops,PubMed
+NEG_CONVERTS_TO,C0037871,Spermidine,nsba,C0034170,Putrescine,nsba,PubMed
+NEG_CONVERTS_TO,C0220839,Glutamate,aapp,C0002607,Ammonia,bacs,PubMed
+NEG_CONVERTS_TO,C0058347,Dioxygen,elii,C0008864,Citrulline,gngm,PubMed
+NEG_CONVERTS_TO,C0301294,Nitrogen gas,elii,C0068871,nitrosoproline,gngm,PubMed
+NEG_CONVERTS_TO,C0015684,Fatty Acids,bacs,C0001026,Acetyl Coenzyme A,bacs,PubMed
+NEG_CONVERTS_TO,C0015684,Fatty Acids,bacs,C0022631,Ketone Bodies,bacs,PubMed
+NEG_CONVERTS_TO,C0010760,CYTOCHROME C OXIDASE,aapp,C0596739,hydroxy fatty acid,lipd,PubMed
+NEG_CONVERTS_TO,C0017954,Glycophorin,aapp,C0037028,Sialoglycoproteins,gngm,PubMed
+NEG_CONVERTS_TO,C0162772,Reactive Oxygen Species,bacs,C0068860,nitrosobenzene,orch,PubMed
+NEG_CONVERTS_TO,C1136131,Plant Tumor-Inducing Plasmids,bacs,C0132136,Neomycin Phosphotransferase II,gngm,PubMed
+NEG_CONVERTS_TO,C0074010,sambucinol,orch,C0047192,3-acetyldeoxynivalenol,orch,PubMed
+NEG_CONVERTS_TO,C0074010,sambucinol,orch,C0083080,isotrichodermin,orch,PubMed
+NEG_CONVERTS_TO,C0033684,Proteins,aapp,C0038734,Sulfhydryl Compounds,orch,PubMed
+NEG_CONVERTS_TO,C0063510,indoline,orch,C0012799,Mercurial diuretic,phsu,PubMed
+NEG_CONVERTS_TO,C0162768,Fusion Protein,aapp,C0030956,Peptides,gngm,PubMed
+NEG_CONVERTS_TO,C0000545,Eicosapentaenoic Acid,bacs,C0072294,prostaglandin I3,eico,PubMed
+NEG_CONVERTS_TO,C0596072,amino group,inch,C0443422,Methylpyrrole,orch,PubMed
+NEG_CONVERTS_TO,C0178880,urocanate,orch,C0019602,Histidine,gngm,PubMed
+NEG_CONVERTS_TO,C0026741,Multienzyme Complexes,aapp,C0014442,Enzymes,enzy,PubMed
+NEG_CONVERTS_TO,C0032375,"Poliovirus Vaccine, Oral",imft,C0042210,Vaccines,imft,PubMed
+NEG_CONVERTS_TO,C0027015,Myeloma Proteins,aapp,C0020855,IgG1,aapp,PubMed
+NEG_CONVERTS_TO,C0021641,Insulin,aapp,C0033362,Proinsulin,gngm,PubMed
+NEG_CONVERTS_TO,C0033607,Protease Inhibitor,bacs,C0242210,Binding Protein,gngm,PubMed
+NEG_CONVERTS_TO,C0034320,Diphosphates,inch,C0038071,Squalene,bacs,PubMed
+NEG_CONVERTS_TO,C0008168,Chloramphenicol,antb,C0012854,DNA,bacs,PubMed
+NEG_CONVERTS_TO,C0027368,Nandrolone,horm,C0038148,Stanolone,horm,PubMed
+NEG_CONVERTS_TO,C0002845,"Androgens, Synthetic",horm,C0038148,Stanolone,horm,PubMed
+NEG_CONVERTS_TO,C0033684,Proteins,aapp,C0014442,Enzymes,enzy,PubMed
+NEG_CONVERTS_TO,C0002607,Ammonia,bacs,C0041942,Urea,bacs,PubMed
+NEG_CONVERTS_TO,C0036002,S-Adenosylmethionine,aapp,C0007412,Catecholamines,nsba,PubMed
+NEG_CONVERTS_TO,C0700307,hydroxyl group,inch,C0008024,Chenodeoxycholic Acid,bacs,PubMed
+NEG_CONVERTS_TO,C0700307,hydroxyl group,inch,C0055568,Cholic Acid,bacs,PubMed
+NEG_CONVERTS_TO,C1333199,Cytoplasmic Protein Gene,gngm,C0035552,Ribosomal Proteins,gngm,PubMed
+NEG_CONVERTS_TO,C0011185,dehydroepiandrosterone,horm,C0014654,Equilin,horm,PubMed
+NEG_CONVERTS_TO,C0031453,Phenylalanine,aapp,C0070559,Phenethylamine,orch,PubMed
+NEG_CONVERTS_TO,C0002865,Androsterone,horm,C0014939,Estrogens,horm,PubMed
+NEG_CONVERTS_TO,C0016016,Plasmin,aapp,C0022181,Isoflurophate,hops,PubMed
+NEG_CONVERTS_TO,C0016016,Plasmin,aapp,C0040613,Tranexamic Acid,phsu,PubMed
+NEG_CONVERTS_TO,C0912494,dihydroxytamoxifen,orch,C0014898,Esters,orch,PubMed
+NEG_CONVERTS_TO,C0033665,Protein Precursors,aapp,C0010798,Cytochromes,gngm,PubMed
+NEG_CONVERTS_TO,C0026138,Milk Proteins,aapp,C0053584,bile salt-stimulated lipase,gngm,PubMed
+NEG_CONVERTS_TO,C0026249,Mitogens,phsu,C0021764,Interleukins,gngm,PubMed
+NEG_CONVERTS_TO,C0027270,Nicotinamide adenine dinucleotide (NAD),bacs,C0056693,Cyclic ADP-Ribose,bacs,PubMed
+NEG_CONVERTS_TO,C0072288,Prostaglandin H2,eico,C0040057,Thromboxane A2,eico,PubMed
+NEG_CONVERTS_TO,C1305923,Polypeptides,aapp,C1334043,Homologous Gene,gngm,PubMed
+NEG_CONVERTS_TO,C0058096,dihydroneopterin triphosphate,orch,C0014442,Enzymes,enzy,PubMed
+NEG_CONVERTS_TO,C1097411,nitric oxide receptor,aapp,C0031180,Peroxides,inch,PubMed
+NEG_CONVERTS_TO,C1305923,Polypeptides,aapp,C0108779,CD3 Antigens,gngm,PubMed
+NEG_CONVERTS_TO,C0031676,Phospholipids,bacs,C0070897,phosphonolipids,lipd,PubMed
+NEG_CONVERTS_TO,C0016006,Fibrinogen,aapp,C0015982,Fibrin,gngm,PubMed
+NEG_CONVERTS_TO,C0002302,alpha-Melanocyte stimulating hormone,aapp,C0050600,ACTH (1-13),gngm,PubMed
+NEG_CONVERTS_TO,C0037473,Sodium,bacs,C0017725,Glucose,bacs,PubMed
+NEG_CONVERTS_TO,C0018330,Guanosine,bacs,C0001407,Adenine,bacs,PubMed
+NEG_CONVERTS_TO,C0072068,proenkephalin,aapp,C0205753,Opioid Peptide,gngm,PubMed
+NEG_CONVERTS_TO,C0035696,"RNA, Messenger",bacs,C0033799,Pseudogenes,gngm,PubMed
+NEG_CONVERTS_TO,C0596072,amino group,inch,C0684181,alkylamine,orch,PubMed
+NEG_CONVERTS_TO,C0230664,Membrane receptor,rcpt,C0074825,Insulin-Like Growth-Factor-Binding Proteins,gngm,PubMed
+NEG_CONVERTS_TO,C0039875,Thioamides,orch,C0038771,Sulfoxides,orch,PubMed
+NEG_CONVERTS_TO,C0016330,Fluorine,bacs,C0014630,Epoxy Compounds,orch,PubMed
+NEG_CONVERTS_TO,C0136939,photobilirubin II,orch,C0005437,Bilirubin,bacs,PubMed
+NEG_CONVERTS_TO,C0017725,Glucose,bacs,C0870883,Metabolites,bacs,PubMed
+NEG_CONVERTS_TO,C0073132,retronecine,orch,C0870883,Metabolites,bacs,PubMed
+NEG_CONVERTS_TO,C0034251,pyridine,orch,C0034260,Pyridones,orch,PubMed
+NEG_CONVERTS_TO,C0020281,Hydrogen Peroxide,inch,C0056588,cumene hydroperoxide,irda,PubMed
+NEG_CONVERTS_TO,C0020281,Hydrogen Peroxide,inch,C0076150,tert-Butylhydroperoxide,orch,PubMed
+NEG_CONVERTS_TO,C0006938,Captopril,aapp,C0003015,Angiotensin-Converting Enzyme Inhibitors,phsu,PubMed
+NEG_CONVERTS_TO,C0033195,Pro-Opiomelanocortin,aapp,C0001655,Corticotropin,gngm,PubMed
+NEG_CONVERTS_TO,C0057277,Dehydroepiandrosterone Sulfate,bacs,C0014912,Estradiol,horm,PubMed
+NEG_CONVERTS_TO,C0017626,Glial Fibrillary Acidic Protein,aapp,C0003250,Monoclonal Antibodies,gngm,PubMed
+NEG_CONVERTS_TO,C0023546,Leukotriene B4,bacs,C0870883,Metabolites,bacs,PubMed
+NEG_CONVERTS_TO,C0567415,Atom,elii,C0028128,Nitric Oxide,bacs,PubMed
+NEG_CONVERTS_TO,C0162326,DNA Sequence,nusq,C0003316,Epitopes,imft,PubMed
+NEG_CONVERTS_TO,C0025625,Methapyrilene,orch,C0026879,Mutagens,hops,PubMed
+NEG_CONVERTS_TO,C0042002,Uridine Monophosphate,bacs,C0034320,Diphosphates,inch,PubMed
+NEG_CONVERTS_TO,C0031957,piperazine,orch,C0078811,zipeprol,orch,PubMed
+NEG_CONVERTS_TO,C0031957,piperazine,orch,C0003449,Antitussive Agents,phsu,PubMed
+NEG_CONVERTS_TO,C0752833,pinolenic acid,lipd,C0003695,Arachidonic Acid,eico,PubMed
+NEG_CONVERTS_TO,C0015684,Fatty Acids,bacs,C0003695,Arachidonic Acid,eico,PubMed
+NEG_CONVERTS_TO,C0002253,alpha-Chlorohydrin,orch,C0017861,Glycerol,bacs,PubMed
+NEG_CONVERTS_TO,C0036002,S-Adenosylmethionine,aapp,C0034140,Purines,orch,PubMed
+NEG_CONVERTS_TO,C0178797,PHOSPHATIDATE,lipd,C0031621,Phosphatidylinositols,bacs,PubMed
+NEG_CONVERTS_TO,C0162772,Reactive Oxygen Species,bacs,C0178645,free radical oxygen,bacs,PubMed
+NEG_CONVERTS_TO,C0041455,Collagen Type I,aapp,C0017237,Gelatin,gngm,PubMed
+NEG_CONVERTS_TO,C0038418,Streptokinase,aapp,C0066522,microplasmin,gngm,PubMed
+NEG_CONVERTS_TO,C0016945,Galactose,carb,C0017725,Glucose,bacs,PubMed
+NEG_CONVERTS_TO,C0020281,Hydrogen Peroxide,inch,C0016693,Free Radicals,bacs,PubMed
+NEG_CONVERTS_TO,C1257880,"Linoleic Acids, Conjugated",lipd,C0007974,Chelating Agents,phsu,PubMed
+NEG_CONVERTS_TO,C0037906,Sphingomyelins,bacs,C0007745,Ceramides,bacs,PubMed
+NEG_CONVERTS_TO,C0008368,Cholestanols,bacs,C0005390,Bile Acids,bacs,PubMed
+NEG_CONVERTS_TO,C1305923,Polypeptides,aapp,C0582263,Structural protein,aapp,PubMed
+NEG_CONVERTS_TO,C1305923,Polypeptides,aapp,C0033684,Proteins,gngm,PubMed
+NEG_CONVERTS_TO,C0053490,beta-Naphthoflavone,orch,C0068946,nonylphenol,orch,PubMed
+NEG_CONVERTS_TO,C0032136,Plasmids,bacs,C0123759,Interleukin-12,gngm,PubMed
+NEG_CONVERTS_TO,C0037871,Spermidine,nsba,C0072630,putreanine,gngm,PubMed
+NEG_CONVERTS_TO,C0035695,Heterogeneous Nuclear RNA,bacs,C0035668,RNA,bacs,PubMed
+NEG_CONVERTS_TO,C0035696,"RNA, Messenger",bacs,C0035668,RNA,bacs,PubMed
+NEG_CONVERTS_TO,C0013030,Dopamine,nsba,C0028351,Norepinephrine,nsba,PubMed
+NEG_CONVERTS_TO,C0016572,Formates,orch,C0014939,Estrogens,horm,PubMed
+NEG_CONVERTS_TO,C1334960,Neuropeptide Gene,gngm,C0030956,Peptides,gngm,PubMed
+NEG_CONVERTS_TO,C0024476,Magnesium Hydroxide,inch,C0008203,Chlorides,inch,PubMed
+NEG_CONVERTS_TO,C0282090,Laxatives,phsu,C0008203,Chlorides,inch,PubMed
+NEG_CONVERTS_TO,C0070982,phycocyanobilin,orch,C0072497,protoporphyrin IX,phsu,PubMed
+NEG_CONVERTS_TO,C0008546,Chromatin,aapp,C0019652,Histones,gngm,PubMed
+NEG_CONVERTS_TO,C0008546,Chromatin,aapp,C0036774,"Serum Albumin, Bovine",aapp,PubMed
+NEG_CONVERTS_TO,C0079283,Endothelin-3,aapp,C0379465,preproendothelin-3,gngm,PubMed
+NEG_CONVERTS_TO,C0064016,isonicotinamide,orch,C0027270,Nicotinamide adenine dinucleotide (NAD),bacs,PubMed
+NEG_CONVERTS_TO,C0220839,Glutamate,aapp,C0017725,Glucose,bacs,PubMed
+NEG_CONVERTS_TO,C0058246,dimethylamine,orch,C0077172,trimethylamine,orch,PubMed
+NEG_CONVERTS_TO,C0058246,dimethylamine,orch,C0077194,trimethyloxamine,orch,PubMed
+NEG_CONVERTS_TO,C0025879,Mevalonic Acid,bacs,C0038323,Sterols,strd,PubMed
+NEG_CONVERTS_TO,C0013227,Pharmaceutical Preparations,phsu,C0039771,Theophylline,bacs,PubMed
+NEG_CONVERTS_TO,C0244104,Pyruvate,bacs,C0001041,Acetylcholine,nsba,PubMed
+NEG_CONVERTS_TO,C0002026,Alfentanil,orch,C0164406,noralfentanil,bacs,PubMed
+NEG_CONVERTS_TO,C0039601,Testosterone,horm,C0033306,Progestins,horm,PubMed
+NEG_CONVERTS_TO,C0046032,2-chloropropionic acid,hops,C0002520,Amino Acids,gngm,PubMed
+NEG_CONVERTS_TO,C0030855,Pentachlorophenol,hops,C0012503,Dioxins,hops,PubMed
+NEG_CONVERTS_TO,C0015688,"Fatty Acids, Nonesterified",lipd,C0015684,Fatty Acids,bacs,PubMed
+NEG_CONVERTS_TO,C0008377,Cholesterol,bacs,C0046699,25-hydroxycholesterol,strd,PubMed
+NEG_CONVERTS_TO,C0289701,phytanoyl-coenzyme A,eico,C0552363,Carnitine ester,orch,PubMed
+NEG_CONVERTS_TO,C0022984,Laminin,aapp,C0030956,Peptides,gngm,PubMed
+NEG_CONVERTS_TO,C0256813,protein kinase C zeta,aapp,C0021920,Introns,bacs,PubMed
+NEG_CONVERTS_TO,C0041249,Tryptophan,aapp,C1137589,Aldoximes,orch,PubMed
+NEG_CONVERTS_TO,C0010654,Cysteine,aapp,C0015501,Factor Va,gngm,PubMed
+NEG_CONVERTS_TO,C0017429,"Genome, Human",gngm,C1257994,Matrix Attachment Regions,bacs,PubMed
+NEG_CONVERTS_TO,C0032458,"Polycyclic Hydrocarbons, Aromatic",orch,C0242958,DNA Adducts,bacs,PubMed
+NEG_CONVERTS_TO,C0682958,Aromatic Amines,orch,C0242958,DNA Adducts,bacs,PubMed
+NEG_CONVERTS_TO,C0062615,hexadecanal,orch,C0971759,2-chlorohexadecanal,orch,PubMed
+NEG_CONVERTS_TO,C0007090,Carcinogens,hops,C0043047,Water,inch,PubMed
+NEG_CONVERTS_TO,C0003299,Antiepileptic Agents,phsu,C0014442,Enzymes,enzy,PubMed
+NEG_CONVERTS_TO,C0022949,Lactose,bacs,C0026492,Monosaccharides,carb,PubMed
+NEG_CONVERTS_TO,C0007004,Carbohydrates,carb,C0022949,Lactose,bacs,PubMed
+NEG_CONVERTS_TO,C0007004,Carbohydrates,carb,C0026492,Monosaccharides,carb,PubMed
+NEG_CONVERTS_TO,C0086222,Enhancer,nnon,C0086860,Promoter (Genetics),bacs,PubMed
+NEG_CONVERTS_TO,C0525013,Locus Control Region,bacs,C0086860,Promoter (Genetics),bacs,PubMed
+NEG_CONVERTS_TO,C0054029,brassinolide,strd,C0870883,Metabolites,bacs,PubMed
+NEG_CONVERTS_TO,C0058187,dimazine,orch,C0026879,Mutagens,hops,PubMed
+NEG_CONVERTS_TO,C0008731,Chylomicrons,aapp,C0023823,Low-Density Lipoproteins,gngm,PubMed
+NEG_CONVERTS_TO,C0043791,"1,2-diacylglycerol",bacs,C0003695,Arachidonic Acid,eico,PubMed
+NEG_CONVERTS_TO,C0021027,Immunoglobulins,aapp,C0002716,Amyloid,gngm,PubMed
+NEG_CONVERTS_TO,C0036825,Serum Proteins,aapp,C0002716,Amyloid,gngm,PubMed
+NEG_CONVERTS_TO,C0963633,ZK 230211,phsu,C0243192,agonists,phsu,PubMed
+NEG_CONVERTS_TO,C0003320,Antigens,bacs,C0030956,Peptides,gngm,PubMed
+NEG_CONVERTS_TO,C0024658,Maltose,bacs,C0024730,Mannitol,carb,PubMed
+NEG_CONVERTS_TO,C0043375,Xylose,bacs,C0024730,Mannitol,carb,PubMed
+NEG_CONVERTS_TO,C0030020,Oximes,orch,C0017767,Glucosinolates,bacs,PubMed
+NEG_CONVERTS_TO,C0043047,Water,inch,C0030054,Oxygen,elii,PubMed
+NEG_CONVERTS_TO,C0017442,Gentisates,orch,C0178698,hydroxybenzoate,orch,PubMed
+NEG_CONVERTS_TO,C0178698,hydroxybenzoate,orch,C0017442,Gentisates,orch,PubMed
+NEG_CONVERTS_TO,C0033684,Proteins,aapp,C0040549,Toxin,bacs,PubMed
+NEG_CONVERTS_TO,C0033733,Protoporphyrins,bacs,C0032712,Porphyrins,bacs,PubMed
+NEG_CONVERTS_TO,C0023542,Leukotriene C4,bacs,C0023544,Leukotriene D4,bacs,PubMed
+NEG_CONVERTS_TO,C0010715,Cytidine,bacs,C0041984,Uridine,bacs,PubMed
+NEG_CONVERTS_TO,C0000657,7SL RNA,bacs,C0600477,Short Interspersed Nucleotide Elements,nusq,PubMed
+NEG_CONVERTS_TO,C0971226,EBV-encoded nuclear antigen 1,aapp,C0030956,Peptides,gngm,PubMed
+NEG_CONVERTS_TO,C0051225,allyl alcohol,orch,C0014898,Esters,orch,PubMed
+NEG_CONVERTS_TO,C0682958,Aromatic Amines,orch,C0014898,Esters,orch,PubMed
+NEG_CONVERTS_TO,C0046771,"3',6'-diacetylfluorescein",orch,C0060520,Fluorescein,orch,PubMed
+NEG_CONVERTS_TO,C0387583,cyclooxygenase 2,aapp,C0033551,Prostaglandin-Endoperoxide Synthase,gngm,PubMed
+NEG_CONVERTS_TO,C0014898,Esters,orch,C0002508,Amines,orch,PubMed
+NEG_CONVERTS_TO,C0220778,acetoacetate,orch,C0001002,Acetone,orch,PubMed
+NEG_CONVERTS_TO,C0023401,Leucine,aapp,C0001002,Acetone,orch,PubMed
+NEG_CONVERTS_TO,C0002520,Amino Acids,aapp,C0244104,Pyruvate,bacs,PubMed
+NEG_CONVERTS_TO,C0017861,Glycerol,bacs,C0244104,Pyruvate,bacs,PubMed
+NEG_CONVERTS_TO,C0051405,alpha-Linolenic Acid,bacs,C0012968,Docosahexaenoic Acids,bacs,PubMed
+NEG_CONVERTS_TO,C0002059,Alkaline Phosphatase,aapp,C0043481,Zinc,bacs,PubMed
+NEG_CONVERTS_TO,C0049331,5-nitro-2-furaldehyde,orch,C0026879,Mutagens,hops,PubMed
+NEG_CONVERTS_TO,C0008377,Cholesterol,bacs,C0373704,Pregnenolone,horm,PubMed
+NEG_CONVERTS_TO,C0017337,Genes,gngm,C0033551,Prostaglandin-Endoperoxide Synthase,aapp,PubMed
+NEG_CONVERTS_TO,C0017337,Genes,gngm,C0037028,Sialoglycoproteins,aapp,PubMed
+NEG_CONVERTS_TO,C0017337,Genes,gngm,C0104398,asparaginylendopeptidase,aapp,PubMed
+NEG_CONVERTS_TO,C0017337,Genes,gngm,C0282554,chemokine,gngm,PubMed
+NEG_CONVERTS_TO,C0025619,Mesylates,orch,C0144576,Paclitaxel,orch,PubMed
+NEG_CONVERTS_TO,C0068355,NADPH Oxidase,aapp,C0038836,Superoxides,elii,PubMed
+NEG_CONVERTS_TO,C0567415,Atom,elii,C0077978,valanimycin,orch,PubMed
+NEG_CONVERTS_TO,C0387583,cyclooxygenase 2,aapp,C0033554,Prostaglandins,bacs,PubMed
+NEG_CONVERTS_TO,C0034625,Radium,elii,C0032390,Polonium,elii,PubMed
+NEG_CONVERTS_TO,C0061472,Glutamic Acid,aapp,C0020388,Hydroxyproline,gngm,PubMed
+NEG_CONVERTS_TO,C0003320,Antigens,bacs,C0076797,Tolerogen,phsu,PubMed
+NEG_CONVERTS_TO,C0043454,Zearalenone,hops,C0014939,Estrogens,horm,PubMed
+NEG_CONVERTS_TO,C0007090,Carcinogens,hops,C0026879,Mutagens,hops,PubMed
+NEG_CONVERTS_TO,C1173207,phenylglycinamide,aapp,C0003438,Antithrombin III,gngm,PubMed
+NEG_CONVERTS_TO,C0033195,Pro-Opiomelanocortin,aapp,C0030956,Peptides,gngm,PubMed
+NEG_CONVERTS_TO,C0298025,hexadecenoic acid,lipd,C0000975,Acetate,orch,PubMed
+NEG_CONVERTS_TO,C0000378,Droxidopa,aapp,C0002508,Amines,orch,PubMed
+NEG_CONVERTS_TO,C0017887,Nitroglycerin,orch,C0178645,free radical oxygen,bacs,PubMed
+NEG_CONVERTS_TO,C0017428,Genome,gngm,C0035693,"RNA, Double-Stranded",bacs,PubMed
+NEG_CONVERTS_TO,C0008377,Cholesterol,bacs,C1519315,Signaling Molecule,bacs,PubMed
+NEG_CONVERTS_TO,C0242417,Oxidase,aapp,C0162772,Reactive Oxygen Species,bacs,PubMed
+NEG_CONVERTS_TO,C0070788,Phosphatidylethanolamine N-Methyltransferase,aapp,C0031617,Lecithin,bacs,PubMed
+NEG_CONVERTS_TO,C0011185,dehydroepiandrosterone,horm,C0002844,Androgens,horm,PubMed
+NEG_CONVERTS_TO,C0011185,dehydroepiandrosterone,horm,C0014939,Estrogens,horm,PubMed
+NEG_CONVERTS_TO,C0086140,Dextran,bacs,C0019134,Heparin,carb,PubMed
+NEG_CONVERTS_TO,C0086140,Dextran,bacs,C0032594,Polysaccharides,carb,PubMed
+NEG_CONVERTS_TO,C0034140,Purines,orch,C0034289,Pyrimidines,orch,PubMed
+NEG_CONVERTS_TO,C0038636,Sucrose,bacs,C0034320,Diphosphates,inch,PubMed
+NEG_CONVERTS_TO,C0013974,Emetine,orch,C0870883,Metabolites,bacs,PubMed
+NEG_CONVERTS_TO,C0039601,Testosterone,horm,C0014912,Estradiol,horm,PubMed
+NEG_CONVERTS_TO,C0030952,peptide synthase,aapp,C0304518,Aglycone,orch,PubMed
+NEG_CONVERTS_TO,C0220839,Glutamate,aapp,C0017797,Glutamine,gngm,PubMed
+NEG_CONVERTS_TO,C0600370,Methacholine,orch,C0003695,Arachidonic Acid,eico,PubMed
+NEG_CONVERTS_TO,C0600370,Methacholine,orch,C0033541,Prostaglandin Endoperoxides,eico,PubMed
+NEG_CONVERTS_TO,C0125903,Linolenic Acid,bacs,C0078264,vinyl ether,orch,PubMed
+NEG_CONVERTS_TO,C0042315,Vanillic Acid,bacs,C0018304,Guaiacol,orch,PubMed
+NEG_CONVERTS_TO,C0002068,Alkenes,orch,C0002065,Alkanes,orch,PubMed
+NEG_CONVERTS_TO,C0028128,Nitric Oxide,bacs,C0003075,Anions,elii,PubMed
+NEG_CONVERTS_TO,C0136157,Peroxynitrite,bacs,C0036751,Serotonin,nsba,PubMed
+NEG_CONVERTS_TO,C0596771,indoleamine,orch,C0068994,norharman,orch,PubMed
+NEG_CONVERTS_TO,C0031610,Phosphatidic Acid,lipd,C0041004,Triglycerides,bacs,PubMed
+NEG_CONVERTS_TO,C0036720,Serine,aapp,C0010654,Cysteine,gngm,PubMed
+NEG_CONVERTS_TO,C0030234,Palmitic Acid,lipd,C0070483,petroselinic acid,lipd,PubMed
+NEG_CONVERTS_TO,C0038229,stearic acid,lipd,C0070483,petroselinic acid,lipd,PubMed
+NEG_CONVERTS_TO,C0038071,Squalene,bacs,C0038323,Sterols,strd,PubMed
+NEG_CONVERTS_TO,C0014898,Esters,orch,C0008377,Cholesterol,bacs,PubMed
+NEG_CONVERTS_TO,C0038323,Sterols,strd,C0008377,Cholesterol,bacs,PubMed
+NEG_CONVERTS_TO,C0015011,Ethinyl Estradiol,horm,C0014942,Estrone,horm,PubMed
+NEG_CONVERTS_TO,C1334043,Homologous Gene,gngm,C0003320,Antigens,bacs,PubMed
+NEG_CONVERTS_TO,C0015498,Factor V,aapp,C0015501,Factor Va,gngm,PubMed
+NEG_CONVERTS_TO,C0001459,Adenosine Diphosphate,bacs,C0028128,Nitric Oxide,bacs,PubMed
+NEG_CONVERTS_TO,C0002313,alpha-Thrombin,aapp,C0028128,Nitric Oxide,bacs,PubMed
+NEG_CONVERTS_TO,C0439925,Dichlorophenol,orch,C0292442,6-chlorohydroxyquinol,orch,PubMed
+NEG_CONVERTS_TO,C0004359,Autoantigens,imft,C0030956,Peptides,gngm,PubMed
+NEG_CONVERTS_TO,C0053396,Beta Carotene,orch,C0042839,Vitamin A,orch,PubMed
+NEG_CONVERTS_TO,C0004359,Autoantigens,imft,C0003316,Epitopes,imft,PubMed
+NEG_CONVERTS_TO,C0072255,prosomatostatin,aapp,C0074854,somatostatin 28,gngm,PubMed
+NEG_CONVERTS_TO,C0055782,circumsporozoite protein,aapp,C0582263,Structural protein,gngm,PubMed
+NEG_CONVERTS_TO,C0017725,Glucose,bacs,C0244104,Pyruvate,bacs,PubMed
+NEG_CONVERTS_TO,C0042479,Venoms,bacs,C1334043,Homologous Gene,gngm,PubMed
+NEG_CONVERTS_TO,C0010467,Curcumin,orch,C0071649,polyphenols,orch,PubMed
+NEG_CONVERTS_TO,C0009131,Coal,orch,C0002842,Androgen Antagonists,phsu,PubMed
+NEG_CONVERTS_TO,C0038777,Sulfur Dioxide,hops,C0002620,Ammonium Sulfate,inch,PubMed
+NEG_CONVERTS_TO,C0038777,Sulfur Dioxide,hops,C0051722,ammonium nitrate,inch,PubMed
+NEG_CONVERTS_TO,C0017817,Glutathione,aapp,C0220839,Glutamate,gngm,PubMed
+NEG_CONVERTS_TO,C0038636,Sucrose,bacs,C0077046,trichlorosucrose,carb,PubMed
+NEG_CONVERTS_TO,C0015684,Fatty Acids,bacs,C0001962,Ethanol,orch,PubMed
+NEG_CONVERTS_TO,C0014630,Epoxy Compounds,orch,C0001047,Acetylcysteine,gngm,PubMed
+NEG_CONVERTS_TO,C0017977,Glycosides,carb,C0304518,Aglycone,orch,PubMed
+NEG_CONVERTS_TO,C0030952,peptide synthase,aapp,C0007292,Carrier Proteins,gngm,PubMed
+NEG_CONVERTS_TO,C0023705,Lignin,bacs,C0007066,Carboxylic Acids,orch,PubMed
+NEG_CONVERTS_TO,C0031453,Phenylalanine,aapp,C0056658,cyanogen,hops,PubMed
+NEG_CONVERTS_TO,C0021753,Interleukin-1 beta,aapp,C0079189,cytokine,gngm,PubMed
+NEG_CONVERTS_TO,C0021760,Interleukin-6,aapp,C0079189,cytokine,gngm,PubMed
+NEG_CONVERTS_TO,C0014898,Esters,orch,C0002482,Amides,orch,PubMed
+NEG_CONVERTS_TO,C0682936,carboxylic acid derivatives,orch,C0002482,Amides,orch,PubMed
+NEG_CONVERTS_TO,C0304497,Cytotoxic agent,phsu,C0016360,Fluorouracil,phsu,PubMed
+NEG_CONVERTS_TO,C0020268,Hydrocortisone,horm,C0002860,Androstenedione,horm,PubMed
+NEG_CONVERTS_TO,C0033684,Proteins,aapp,C0074721,Sodium Azide,hops,PubMed
+NEG_CONVERTS_TO,C0023837,Lipoxygenase,aapp,C0013725,Eicosanoids,eico,PubMed
+NEG_CONVERTS_TO,C0887859,Intergenic Region,bacs,C0017337,Genes,gngm,PubMed
+NEG_CONVERTS_TO,C0025611,Methamphetamine,hops,C0525678,rasagiline,orch,PubMed
+NEG_CONVERTS_TO,C0002658,Amphetamine,nsba,C0525678,rasagiline,orch,PubMed
+NEG_CONVERTS_TO,C1565860,"prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase), human",aapp,C0033559,Prostaglandins E,bacs,PubMed
+NEG_CONVERTS_TO,C0052420,arsenobetaine,orch,C0006628,Cacodylic Acid,hops,PubMed
+NEG_CONVERTS_TO,C0027368,Nandrolone,horm,C0772162,AROMATICS,orch,PubMed
+NEG_CONVERTS_TO,C0002520,Amino Acids,aapp,C0003241,Antibodies,gngm,PubMed
+NEG_CONVERTS_TO,C0966370,ximelagatran,orch,C0668961,melagatran,gngm,PubMed
+NEG_CONVERTS_TO,C0041455,Collagen Type I,aapp,C0052350,arginyl-glycyl-aspartic acid,gngm,PubMed
+NEG_CONVERTS_TO,C0066372,methyleugenol,orch,C0031516,Pheromone,bacs,PubMed
+NEG_CONVERTS_TO,C0026955,Mycotoxins,bacs,C0014939,Estrogens,horm,PubMed
+NEG_CONVERTS_TO,C0033567,Epoprostenol,bacs,C0040057,Thromboxane A2,eico,PubMed
+NEG_CONVERTS_TO,C0068788,nitazoxanide,orch,C0028138,Nitro Compounds,orch,PubMed
+NEG_CONVERTS_TO,C0010843,Cytosine,bacs,C0041917,Uracil,bacs,PubMed
+NEG_CONVERTS_TO,C0017725,Glucose,bacs,C0020275,Hydrogen,elii,PubMed
+NEG_CONVERTS_TO,C0110468,"Receptors, Collagen",aapp,C0030956,Peptides,gngm,PubMed
+NEG_CONVERTS_TO,C0000657,7SL RNA,bacs,C0162326,DNA Sequence,nusq,PubMed
+NEG_CONVERTS_TO,C0014442,Enzymes,enzy,C0016564,Formaldehyde,hops,PubMed
+NEG_CONVERTS_TO,C0007012,Carbon Dioxide,bacs,C0002508,Amines,orch,PubMed
+NEG_CONVERTS_TO,C0007012,Carbon Dioxide,bacs,C0006948,Carbamates,orch,PubMed
+NEG_CONVERTS_TO,C0038148,Stanolone,horm,C0039601,Testosterone,horm,PubMed
+NEG_CONVERTS_TO,C0030054,Oxygen,elii,C0005036,Benzene,hops,PubMed
+NEG_CONVERTS_TO,C0011704,Desmosterol,bacs,C0008377,Cholesterol,bacs,PubMed
+NEG_CONVERTS_TO,C0138484,probasin,aapp,C0012854,DNA,bacs,PubMed
+NEG_CONVERTS_TO,C0007271,Carotenoids,bacs,C0035339,Retinoids,bacs,PubMed
+NEG_CONVERTS_TO,C0017428,Genome,gngm,C0162326,DNA Sequence,nusq,PubMed
+NEG_CONVERTS_TO,C0000975,Acetate,orch,C0025617,Methane,orch,PubMed
+NEG_CONVERTS_TO,C0136157,Peroxynitrite,bacs,C0038836,Superoxides,elii,PubMed
+NEG_CONVERTS_TO,C0611671,naringenin chalcone,bacs,C0068450,naringenin,orch,PubMed
+NEG_CONVERTS_TO,C0599689,Lipoxins,bacs,C0040057,Thromboxane A2,eico,PubMed
+NEG_CONVERTS_TO,C0026879,Mutagens,hops,C0014630,Epoxy Compounds,orch,PubMed
+NEG_CONVERTS_TO,C0034170,Putrescine,nsba,C0002062,Alkaloids,orch,PubMed
+NEG_CONVERTS_TO,C0025611,Methamphetamine,hops,C0036579,Selegiline,orch,PubMed
+NEG_CONVERTS_TO,C0002658,Amphetamine,nsba,C0036579,Selegiline,orch,PubMed
+NEG_CONVERTS_TO,C0043076,Waxes,bacs,C0002732,Amylose,carb,PubMed
+NEG_CONVERTS_TO,C0038785,Sulfuric Acid Esters,orch,C0027368,Nandrolone,horm,PubMed
+NEG_CONVERTS_TO,C0026138,Milk Proteins,aapp,C1136254,Microbicides,phsu,PubMed
+NEG_CONVERTS_TO,C0042479,Venoms,bacs,C0033684,Proteins,gngm,PubMed
+NEG_CONVERTS_TO,C0010760,CYTOCHROME C OXIDASE,aapp,C0027021,Peroxidase,gngm,PubMed
+NEG_CONVERTS_TO,C1317964,Intercellular Adhesion Molecule 2,aapp,C0913092,DC-specific ICAM-3 grabbing nonintegrin,gngm,PubMed
+NEG_CONVERTS_TO,C0086908,Repetitive Region,nusq,C0162326,DNA Sequence,nusq,PubMed
+NEG_CONVERTS_TO,C0000481,4-Butyrolactone,bacs,C0000503,gamma hydroxybutyrate,orch,PubMed
+NEG_CONVERTS_TO,C0051051,alachlor,hops,C0029224,Organic Chemicals,orch,PubMed
+NEG_CONVERTS_TO,C0020684,Hypoxanthine,bacs,C0043314,xanthine,bacs,PubMed
+NEG_CONVERTS_TO,C0031689,Phosphoproteins,aapp,C0031684,Phosphopeptides,gngm,PubMed
+NEG_CONVERTS_TO,C0007004,Carbohydrates,carb,C0009968,Copper,bacs,PubMed
+NEG_CONVERTS_TO,C1257880,"Linoleic Acids, Conjugated",lipd,C0008377,Cholesterol,bacs,PubMed
+NEG_CONVERTS_TO,C0023821,High Density Lipoproteins,aapp,C0033692,Proteoglycan,gngm,PubMed
+NEG_CONVERTS_TO,C0023820,Lipoproteins,aapp,C0033692,Proteoglycan,gngm,PubMed
+NEG_CONVERTS_TO,C0014898,Esters,orch,C0033308,Progesterone,horm,PubMed
+NEG_CONVERTS_TO,C0282580,"Epitopes, T-Lymphocyte",imft,C0597191,peptide analog,gngm,PubMed
+NEG_CONVERTS_TO,C0242209,Sugars,carb,C0003075,Anions,elii,PubMed
+NEG_CONVERTS_TO,C0623362,Matrix Metalloproteinases,aapp,C0919336,MMP,gngm,PubMed
+NEG_CONVERTS_TO,C0002520,Amino Acids,aapp,C0007066,Carboxylic Acids,orch,PubMed
+NEG_CONVERTS_TO,C0002078,Alkynes,orch,C0034325,Pyrroles,orch,PubMed
+NEG_CONVERTS_TO,C0002508,Amines,orch,C0301062,Quaternary ammonium salt,orch,PubMed
+NEG_CONVERTS_TO,C0021968,Iodine,bacs,C0021996,Monoiodotyrosine,gngm,PubMed
+NEG_CONVERTS_TO,C0013879,Elements,elii,C1101610,MicroRNAs,bacs,PubMed
+NEG_CONVERTS_TO,C0074987,sphinganine,lipd,C0037900,Sphingolipids,lipd,PubMed
+NEG_CONVERTS_TO,C0211726,anandamide,bacs,C0003695,Arachidonic Acid,eico,PubMed
+NEG_CONVERTS_TO,C0002065,Alkanes,orch,C0870883,Metabolites,bacs,PubMed
+NEG_CONVERTS_TO,C0302583,Iron,bacs,C1619629,deferasirox,orch,PubMed
+NEG_CONVERTS_TO,C0026682,Mucins,aapp,C0030956,Peptides,gngm,PubMed
+NEG_CONVERTS_TO,C0021027,Immunoglobulins,aapp,C0000975,Acetate,orch,PubMed
+NEG_CONVERTS_TO,C0010124,Corticosterone,horm,C0002006,Aldosterone,horm,PubMed
+NEG_CONVERTS_TO,C0012968,Docosahexaenoic Acids,bacs,C1453711,neuroprotectin D1,orch,PubMed
+NEG_CONVERTS_TO,C0757416,cyanidin 3-O-glucoside,orch,C0919289,Proanthocyanidins,orch,PubMed
+NEG_CONVERTS_TO,C0000970,Acetaminophen,orch,C0870883,Metabolites,bacs,PubMed
+NEG_CONVERTS_TO,C0068987,norfluoxetine,orch,C0016365,Fluoxetine,orch,PubMed
+NEG_CONVERTS_TO,C0085151,Amyloid beta-Protein Precursor,aapp,C0534519,Caspase-1,gngm,PubMed
+NEG_CONVERTS_TO,C0028908,Oils,lipd,C0015684,Fatty Acids,bacs,PubMed
+NEG_CONVERTS_TO,C0038761,Sulfones,orch,C0002068,Alkenes,orch,PubMed
+NEG_CONVERTS_TO,C0015540,Flavin-Adenine Dinucleotide,bacs,C0058496,dithiol,orch,PubMed
+NEG_CONVERTS_TO,C0752046,Single Nucleotide Polymorphism,nusq,C0002520,Amino Acids,gngm,PubMed
+NEG_CONVERTS_TO,C0007004,Carbohydrates,carb,C0017945,Glycol,orch,PubMed
+NEG_CONVERTS_TO,C0386231,buforin II,aapp,C0030956,Peptides,gngm,PubMed
+NEG_CONVERTS_TO,C0020930,Imines,orch,C0012091,Diclofenac,orch,PubMed
+NEG_CONVERTS_TO,C0873188,CREATINE MONOHYDRATE,orch,C0010294,Creatinine,bacs,PubMed
+NEG_CONVERTS_TO,C0014963,Ethacrynic Acid,orch,C0010658,Cysteine Proteinase Inhibitors,bacs,PubMed
+NEG_CONVERTS_TO,C0007648,Cellulose,bacs,C0016850,Furans,orch,PubMed
+NEG_CONVERTS_TO,C0002520,Amino Acids,aapp,C0033684,Proteins,gngm,PubMed
+NEG_CONVERTS_TO,C0075212,stefin,aapp,C1179132,Scaffold protein,gngm,PubMed
+NEG_CONVERTS_TO,C0072664,pyrazolone,orch,C0002092,Allergens,imft,PubMed
+NEG_CONVERTS_TO,C0043047,Water,inch,C0020275,Hydrogen,elii,PubMed
+NEG_CONVERTS_TO,C0043317,Xanthine Oxidase,aapp,C0389003,cyclooxygenase 1,gngm,PubMed
+NEG_CONVERTS_TO,C0024360,Lysophosphatidylcholines,lipd,C0066772,lysophosphatidic acid,lipd,PubMed
+NEG_CONVERTS_TO,C0042839,Vitamin A,orch,C1328819,small molecule,orch,PubMed
+NEG_CONVERTS_TO,C0034809,Glucocorticoid Receptor,aapp,C0010132,Corticotropin-Releasing Hormone,gngm,PubMed
+NEG_CONVERTS_TO,C0014442,Enzymes,enzy,C0063146,Hydroxyl Radical,inch,PubMed
+NEG_CONVERTS_TO,C0077172,trimethylamine,orch,C0077194,trimethyloxamine,orch,PubMed
+NEG_CONVERTS_TO,C0051405,alpha-Linolenic Acid,bacs,C0032615,Polyunsaturated Fatty Acids,bacs,PubMed
+NEG_CONVERTS_TO,C0057277,Dehydroepiandrosterone Sulfate,bacs,C0011185,dehydroepiandrosterone,horm,PubMed
+NEG_CONVERTS_TO,C0030956,Peptides,aapp,C0022914,Lactams,antb,PubMed
+NEG_CONVERTS_TO,C0061928,GTPase-Activating Proteins,aapp,C0603200,"1,2-di-(4-sulfamidophenyl)-4-butylpyrazolidine-3,5-dione",orch,PubMed
+NEG_CONVERTS_TO,C0029277,Ornithine,aapp,C1136835,pyrrolysine,gngm,PubMed
+NEG_CONVERTS_TO,C0301713,"Amino Acids, Aromatic",aapp,C0048207,4-coumaric acid,orch,PubMed
+NEG_CONVERTS_TO,C0006863,Cannabidiol,orch,C0039663,Tetrahydrocannabinol,orch,PubMed
+NEG_CONVERTS_TO,C0030233,Palmitates,lipd,C0023779,Lipids,lipd,PubMed
+NEG_CONVERTS_TO,C0025252,Membrane Proteins,aapp,C0003316,Epitopes,imft,PubMed
+NEG_CONVERTS_TO,C0244104,Pyruvate,bacs,C0001026,Acetyl Coenzyme A,bacs,PubMed
+NEG_CONVERTS_TO,C0028040,Nicotine,hops,C0022634,Ketones,orch,PubMed
+NEG_CONVERTS_TO,C1527709,jarosite,inch,C0300269,goethite,inch,PubMed
+NEG_CONVERTS_TO,C0071011,Phytoestrogens,horm,C0038317,Steroids,strd,PubMed
+NEG_CONVERTS_TO,C0010654,Cysteine,aapp,C0017817,Glutathione,gngm,PubMed
+NEG_CONVERTS_TO,C0010654,Cysteine,aapp,C0166374,dinitrosyl iron complex,inch,PubMed
+NEG_CONVERTS_TO,C0016194,Flagellin,aapp,C0030956,Peptides,gngm,PubMed
+NEG_CONVERTS_TO,C0045137,isoliquiritigenin,orch,C0387540,neoisoliquiritin,orch,PubMed
+NEG_CONVERTS_TO,C1327754,R-flurbiprofen,orch,C0016377,Flurbiprofen,orch,PubMed
+NEG_CONVERTS_TO,C0029112,Opium,orch,C0242402,Opioids,hops,PubMed
+NEG_CONVERTS_TO,C0085297,"Immunoglobulins, Intravenous",aapp,C0021032,Immunoglobulin Fc Fragments,gngm,PubMed
+NEG_CONVERTS_TO,C0055432,chlorophyll b,bacs,C0008260,Chlorophyll,bacs,PubMed
+NEG_CONVERTS_TO,C0035701,Ribosomal RNA,bacs,C1101610,MicroRNAs,bacs,PubMed
+NEG_CONVERTS_TO,C0035711,Transfer RNA,bacs,C1101610,MicroRNAs,bacs,PubMed
+NEG_CONVERTS_TO,C0035709,Small Nuclear RNA,bacs,C1101610,MicroRNAs,bacs,PubMed
+NEG_CONVERTS_TO,C0035668,RNA,bacs,C1101610,MicroRNAs,bacs,PubMed
+NEG_CONVERTS_TO,C0023705,Lignin,bacs,C0001992,Aldehydes,orch,PubMed
+NEG_CONVERTS_TO,C0003320,Antigens,bacs,C0282580,"Epitopes, T-Lymphocyte",imft,PubMed
+NEG_CONVERTS_TO,C0064974,lignocellulose,carb,C0017725,Glucose,bacs,PubMed
+NEG_CONVERTS_TO,C0064974,lignocellulose,carb,C0242209,Sugars,carb,PubMed
+NEG_CONVERTS_TO,C0075807,tangeretin,orch,C0870883,Metabolites,bacs,PubMed
+NEG_CONVERTS_TO,C0014912,Estradiol,horm,C0014939,Estrogens,horm,PubMed
+NEG_CONVERTS_TO,C0059527,eriodictyol,orch,C0075861,taxifolin,orch,PubMed
+NEG_CONVERTS_TO,C0065264,Luteolin,orch,C0075861,taxifolin,orch,PubMed
+NEG_CONVERTS_TO,C0068450,naringenin,orch,C0075861,taxifolin,orch,PubMed
+NEG_CONVERTS_TO,C0077067,tricin,orch,C0075861,taxifolin,orch,PubMed
+NEG_CONVERTS_TO,C0602970,chrysoeriol,orch,C0075861,taxifolin,orch,PubMed
+NEG_CONVERTS_TO,C0912024,Apigenin,orch,C0075861,taxifolin,orch,PubMed
+NEG_CONVERTS_TO,C0086983,Silicates,inch,C0006675,Calcium,bacs,PubMed
+NEG_CONVERTS_TO,C0026162,Minerals,inch,C0006675,Calcium,bacs,PubMed
+NEG_CONVERTS_TO,C0003818,Arsenic,elii,C0052417,arsenic trisulfide,inch,PubMed
+NEG_CONVERTS_TO,C0038148,Stanolone,horm,C0014939,Estrogens,horm,PubMed
+NEG_CONVERTS_TO,C0064833,Leukocyte Elastase,aapp,C0030940,Peptide Hydrolases,gngm,PubMed
+NEG_CONVERTS_TO,C0079941,Open Reading Frames,gngm,C0678929,"Genes, Y-Linked",gngm,PubMed
+NEG_CONVERTS_TO,C0013030,Dopamine,orch,C0162758,Serotonin Uptake Inhibitors,phsu,PubMed
+NEG_CONVERTS_TO,C0028351,Norepinephrine,orch,C0162758,Serotonin Uptake Inhibitors,phsu,PubMed
+NEG_CONVERTS_TO,C0036751,Serotonin,orch,C0162758,Serotonin Uptake Inhibitors,phsu,PubMed
+NEG_CONVERTS_TO,C0599682,monoamine,orch,C0162758,Serotonin Uptake Inhibitors,phsu,PubMed
+NEG_CONVERTS_TO,C0030952,peptide synthase,aapp,C0030956,Peptides,gngm,PubMed
+NEG_CONVERTS_TO,C0007332,Caseins,aapp,C0556082,Amino acid supplement,gngm,PubMed
+NEG_CONVERTS_TO,C0301713,"Amino Acids, Aromatic",aapp,C0017767,Glucosinolates,bacs,PubMed
+NEG_CONVERTS_TO,C0596066,alkyl group,orch,C0567415,Atom,elii,PubMed
+NEG_CONVERTS_TO,C0242850,Retroelements,bacs,C0017337,Genes,gngm,PubMed
+NEG_CONVERTS_TO,C0030956,Peptides,aapp,C0026955,Mycotoxins,bacs,PubMed
+NEG_CONVERTS_TO,C0007004,Carbohydrates,carb,C0242209,Sugars,carb,PubMed
+NEG_CONVERTS_TO,C0030952,peptide synthase,aapp,C1566558,Natural Products,bacs,PubMed
+NEG_CONVERTS_TO,C0457555,Halide,inch,C0002068,Alkenes,orch,PubMed
+NEG_CONVERTS_TO,C0302583,Iron,bacs,C0034435,Quinones,orch,PubMed
+NEG_CONVERTS_TO,C0005554,Biopolymers,aapp,C1328819,small molecule,orch,PubMed
+NEG_CONVERTS_TO,C0080089,Reading Frames,nusq,C0079941,Open Reading Frames,gngm,PubMed
+NEG_CONVERTS_TO,C0106006,3-Hydroxybutyrate,bacs,C0001002,Acetone,orch,PubMed
+NEG_CONVERTS_TO,C0039601,Testosterone,horm,C0002844,Androgens,horm,PubMed
+NEG_CONVERTS_TO,C0597357,receptor,aapp,C0243192,agonists,phsu,PubMed
+NEG_CONVERTS_TO,C0043314,xanthine,bacs,C0041980,Uric Acid,bacs,PubMed
+NEG_CONVERTS_TO,C1511685,DNA Polymerase Inhibitor,phsu,C0146894,triphosphate,inch,PubMed
+NEG_CONVERTS_TO,C0023570,Levodopa,aapp,C0013030,Dopamine,nsba,PubMed
+NEG_CONVERTS_TO,C0017337,Genes,gngm,C0002520,Amino Acids,gngm,PubMed
+NEG_CONVERTS_TO,C0178601,Dopamine Agonists,phsu,C0014442,Enzymes,enzy,PubMed
+NEG_CONVERTS_TO,C0033640,PROTEIN KINASE,aapp,C0031727,Phosphotransferases,gngm,PubMed
+NEG_CONVERTS_TO,C0377705,4-oxoretinol,orch,C0040845,Tretinoin,orch,PubMed
+NEG_CONVERTS_TO,C0033551,Prostaglandin-Endoperoxide Synthase,aapp,C0870883,Metabolites,bacs,PubMed
+NEG_CONVERTS_TO,C0582263,Structural protein,aapp,C1305923,Polypeptides,gngm,PubMed
+NEG_CONVERTS_TO,C0002092,Allergens,imft,C0003316,Epitopes,imft,PubMed
+NEG_CONVERTS_TO,C0048320,4-hydroxybenzaldehyde,orch,C1100436,glucovanillin,bacs,PubMed
+NEG_CONVERTS_TO,C0048327,4-hydroxybenzyl alcohol,orch,C1100436,glucovanillin,bacs,PubMed
+NEG_CONVERTS_TO,C0626053,sural,phsu,C0003241,Antibodies,gngm,PubMed
+NEG_CONVERTS_TO,C0017337,Genes,gngm,C0030956,Peptides,gngm,PubMed
+NEG_CONVERTS_TO,C0020314,Hydroxamic Acids,orch,C0016569,Formamides,orch,PubMed
+NEG_CONVERTS_TO,C0100762,A-RAF Protein Kinase,aapp,C1328819,small molecule,orch,PubMed
+NEG_CONVERTS_TO,C0005198,beta-Caseins,aapp,C0205753,Opioid Peptide,gngm,PubMed
+NEG_CONVERTS_TO,C0024337,Lysine,aapp,C0003075,Anions,elii,PubMed
+NEG_CONVERTS_TO,C0023401,Leucine,aapp,C0047594,3-methylglutaconic acid,orch,PubMed
+NEG_CONVERTS_TO,C0081487,aggrecan,aapp,C0033692,Proteoglycan,gngm,PubMed
+NEG_CONVERTS_TO,C0037098,Silicon Dioxide,inch,C0350056,Adsorbents,phsu,PubMed
+NEG_CONVERTS_TO,C0119706,glycidamide,orch,C0242958,DNA Adducts,bacs,PubMed
+NEG_CONVERTS_TO,C0389003,cyclooxygenase 1,aapp,C0040061,Thromboxanes,bacs,PubMed
+NEG_CONVERTS_TO,C0055038,cellotetraose,carb,C0007630,Cellobiose,bacs,PubMed
+NEG_CONVERTS_TO,C0007648,Cellulose,bacs,C0007630,Cellobiose,bacs,PubMed
+NEG_CONVERTS_TO,C0023837,Lipoxygenase,aapp,C0023545,Leukotrienes,bacs,PubMed
+NEG_CONVERTS_TO,C0720298,Estrogenic,horm,C0033371,Prolactin,gngm,PubMed
+NEG_CONVERTS_TO,C0017945,Glycol,orch,C0008377,Cholesterol,bacs,PubMed
+NEG_CONVERTS_TO,C0971435,tuberonic acid glucoside,bacs,C0064138,jasmonic acid,orch,PubMed
+NEG_CONVERTS_TO,C0002157,Allylamine,hops,C0597695,ylide,opco,PubMed
+NEG_CONVERTS_TO,C0772162,AROMATICS,orch,C0597695,ylide,opco,PubMed
+NEG_CONVERTS_TO,C0016745,Fructose,carb,C0029988,Oxalates,orch,PubMed
+NEG_CONVERTS_TO,C0017725,Glucose,bacs,C0029988,Oxalates,orch,PubMed
+NEG_CONVERTS_TO,C0065896,melamine,hops,C0056673,cyanuric acid,orch,PubMed
+NEG_CONVERTS_TO,C0022023,Ions,elii,C0017837,Glutathione S-Transferase,gngm,PubMed
+NEG_CONVERTS_TO,C0017359,"Genes, Overlapping",gngm,C0035668,RNA,bacs,PubMed
+NEG_CONVERTS_TO,C0043365,Xylans,carb,C0005223,beta-Glucosidase,aapp,PubMed
+NEG_CONVERTS_TO,C0043365,Xylans,carb,C0007641,CELLULASE,aapp,PubMed
+NEG_CONVERTS_TO,C0043365,Xylans,carb,C0059100,"Xylan Endo-1,3-beta-Xylosidase",aapp,PubMed
+NEG_CONVERTS_TO,C0043365,Xylans,carb,C0059935,"exo-1,4-beta-D-xylosidase",gngm,PubMed
+NEG_CONVERTS_TO,C0043328,Lutein,bacs,C0000975,Acetate,orch,PubMed
+NEG_CONVERTS_TO,C0772454,GRAPE SEED EXTRACT,orch,C0359916,Phenolics,orch,PubMed
+NEG_CONVERTS_TO,C0038179,Starch,bacs,C0682948,polycarboxylic acid,orch,PubMed
+NEG_CONVERTS_TO,C0220903,purine,orch,C0870883,Metabolites,bacs,PubMed
+NEG_CONVERTS_TO,C0012132,Zalcitabine,phsu,C0002520,Amino Acids,gngm,PubMed
+NEG_CONVERTS_TO,C0012133,Didanosine,nnon,C0002520,Amino Acids,gngm,PubMed
+NEG_CONVERTS_TO,C0003241,Antibodies,aapp,C0003320,Antigens,bacs,PubMed
+NEG_CONVERTS_TO,C0037135,Silymarin,orch,C0000379,"3,4-Methylenedioxyamphetamine",orch,PubMed
+NEG_CONVERTS_TO,C0242209,Sugars,carb,C0042839,Vitamin A,orch,PubMed
+NEG_CONVERTS_TO,C0282581,"Epitopes, B-Lymphocyte",imft,C0599934,"Vaccines, Peptide",imft,PubMed
+NEG_CONVERTS_TO,C0028351,Norepinephrine,nsba,C0016693,Free Radicals,bacs,PubMed
+NEG_CONVERTS_TO,C0076660,tibolone,phsu,C0015011,Ethinyl Estradiol,horm,PubMed
+NEG_CONVERTS_TO,C0076172,TES,orch,C0012868,DNA Transposable Elements,bacs,PubMed
+NEG_CONVERTS_TO,C0019046,Hemoglobin,aapp,C0030956,Peptides,gngm,PubMed
+NEG_CONVERTS_TO,C0056650,cyanidin,orch,C0016979,Gallic acid,orch,PubMed
+NEG_CONVERTS_TO,C0582263,Structural protein,aapp,C0003316,Epitopes,imft,PubMed
+NEG_CONVERTS_TO,C0032136,Plasmids,bacs,C0246323,enterohemolysin,bacs,PubMed
+NEG_CONVERTS_TO,C0001645,Adrenergic beta-Antagonists,phsu,C0014563,Epinephrine,horm,PubMed
+NEG_CONVERTS_TO,C0003765,Arginine,aapp,C0028128,Nitric Oxide,bacs,PubMed
+NEG_CONVERTS_TO,C0002520,Amino Acids,aapp,C0028128,Nitric Oxide,bacs,PubMed
+NEG_CONVERTS_TO,C1562036,Calcineurin inhibitor,phsu,C0209368,mycophenolate mofetil,orch,PubMed
+NEG_CONVERTS_TO,C0035339,Retinoids,bacs,C0598447,fluorophore,phsu,PubMed
+NEG_CONVERTS_TO,C0033551,Prostaglandin-Endoperoxide Synthase,aapp,C0033554,Prostaglandins,bacs,PubMed
+NEG_CONVERTS_TO,C0043375,Xylose,bacs,C0001962,Ethanol,orch,PubMed
+NEG_CONVERTS_TO,C0026162,Minerals,inch,C0020275,Hydrogen,elii,PubMed
+NEG_CONVERTS_TO,C0208291,biotite,inch,C0020275,Hydrogen,elii,PubMed
+NEG_CONVERTS_TO,C1566558,Natural Products,bacs,C0003392,Antineoplastic Agents,phsu,PubMed
+NEG_CONVERTS_TO,C0034272,pyridoxine,orch,C0146894,triphosphate,inch,PubMed
+NEG_CONVERTS_TO,C0034272,pyridoxine,orch,C0597104,nucleoside inhibitor,phsu,PubMed
+NEG_CONVERTS_TO,C0032594,Polysaccharides,carb,C0242209,Sugars,carb,PubMed
+NEG_CONVERTS_TO,C0031469,Phenylephrine,orch,C0028351,Norepinephrine,nsba,PubMed
+NEG_CONVERTS_TO,C0369760,Organic acid,orch,C0061278,Ginsenosides,strd,PubMed
+NEG_CONVERTS_TO,C0021242,Indoles,orch,C0037248,Skatole,bacs,PubMed
+NEG_CONVERTS_TO,C0081876,pantoprazole,orch,C0070166,clopidogrel,orch,PubMed
+NEG_CONVERTS_TO,C0040549,Toxin,bacs,C0001551,Immunologic Adjuvants,imft,PubMed
+NEG_CONVERTS_TO,C0023779,Lipids,lipd,C0065055,lipoprotein cholesterol,gngm,PubMed
+NEG_CONVERTS_TO,C0015491,Factor IX,aapp,C0015494,Factor IXa,gngm,PubMed
+NEG_CONVERTS_TO,C0060291,ferulic acid,orch,C0038333,Stilbenes,orch,PubMed
+NEG_CONVERTS_TO,C0031453,Phenylalanine,aapp,C0041485,Tyrosine,gngm,PubMed
+NEG_CONVERTS_TO,C0030935,Peptide Fragments,aapp,C0597551,synthetic peptide,gngm,PubMed
+NEG_CONVERTS_TO,C0162326,DNA Sequence,nnon,C1136254,Microbicides,phsu,PubMed
+NEG_CONVERTS_TO,C0162326,DNA Sequence,nusq,C1136254,Microbicides,phsu,PubMed
+NEG_CONVERTS_TO,C0038689,Sulfamethoxazole,orch,C0003320,Antigens,bacs,PubMed
+NEG_CONVERTS_TO,C0042479,Venoms,bacs,C0040616,Anti-Anxiety Agents,phsu,PubMed
+NEG_CONVERTS_TO,C0028928,Oleic Acid,bacs,C0023749,Linoleic Acid,bacs,PubMed
+NEG_CONVERTS_TO,C0017911,Glycogen,bacs,C0017725,Glucose,bacs,PubMed
+NEG_CONVERTS_TO,C0162326,DNA Sequence,nusq,C0206414,"Genes, Reporter",gngm,PubMed
+NEG_CONVERTS_TO,C0023689,Ligase,aapp,C0030957,Cyclic Peptides,gngm,PubMed
+NEG_CONVERTS_TO,C0002521,"Amino Acids, Branched-Chain",aapp,C0368608,acylcarnitine,orch,PubMed
+NEG_CONVERTS_TO,C0013227,Pharmaceutical Preparations,phsu,C0242210,Binding Protein,gngm,PubMed
+NEG_CONVERTS_TO,C0021027,Immunoglobulins,aapp,C0242210,Binding Protein,gngm,PubMed
+NEG_CONVERTS_TO,C0033308,Progesterone,horm,C0033306,Progestins,horm,PubMed
+NEG_CONVERTS_TO,C0028908,Oils,lipd,C0359916,Phenolics,orch,PubMed
+NEG_CONVERTS_TO,C1144709,Natriuretic Peptides,aapp,C0018338,Cyclic GMP,bacs,PubMed
+NEG_CONVERTS_TO,C0137759,polyenylphosphatidylcholine,lipd,C0012472,Dinoprostone,eico,PubMed
+NEG_CONVERTS_TO,C0021641,Insulin,aapp,C0030234,Palmitic Acid,bacs,PubMed
+NEG_CONVERTS_TO,C0064566,Laccase,aapp,C0041070,Trinitrotoluene,hops,PubMed
+NEG_CONVERTS_TO,C0011185,dehydroepiandrosterone,horm,C0038148,Stanolone,horm,PubMed
+NEG_CONVERTS_TO,C0021665,Insulin-Like Growth Factor I,aapp,C0030956,Peptides,gngm,PubMed
+NEG_CONVERTS_TO,C0162772,Reactive Oxygen Species,bacs,C0969698,Reactive Nitrogen Species,bacs,PubMed
+NEG_CONVERTS_TO,C0038323,Sterols,strd,C0597522,sterol ester,strd,PubMed
+NEG_CONVERTS_TO,C0033024,Prekallikrein,aapp,C0010531,Cyclic AMP-Dependent Protein Kinases,gngm,PubMed
+NEG_CONVERTS_TO,C0033684,Proteins,aapp,C3179014,Tick Proteins,gngm,PubMed
+NEG_CONVERTS_TO,C0002520,Amino Acids,aapp,C0007009,Carbon,elii,PubMed
+NEG_CONVERTS_TO,C0005367,Bicarbonates,inch,C0006353,Buffers,phsu,PubMed
+NEG_CONVERTS_TO,C0036720,serine,aapp,C0074992,sphingosine 1-phosphate,orch,PubMed
+NEG_CONVERTS_TO,C0022192,isoleucine,aapp,C0013227,Pharmaceutical Preparations,phsu,PubMed
+NEG_CONVERTS_TO,C1566558,Natural Products,bacs,C0013227,Pharmaceutical Preparations,phsu,PubMed
+NEG_CONVERTS_TO,C0028128,nitric oxide,orch,C0078032,vanillin,orch,PubMed
+NEG_CONVERTS_TO,C0016006,fibrinogen,aapp,C0015982,Fibrin,gngm,PubMed
+NEG_CONVERTS_TO,C0006863,cannabidiol,orch,C0039663,dronabinol,orch,PubMed
+NEG_CONVERTS_TO,C0006863,cannabidiol,orch,C0057341,delta-8-tetrahydrocannabinol,orch,PubMed
+NEG_CONVERTS_TO,C0012854,DNA,bacs,C0033684,Proteins,gngm,PubMed
+NEG_CONVERTS_TO,C0003682,Arabinose,orch,C0001962,ethanol,orch,PubMed
+NEG_CONVERTS_TO,C0043375,xylose,orch,C0001962,ethanol,orch,PubMed
+NEG_CONVERTS_TO,C0017767,Glucosinolates,orch,C0022023,Ions,elii,PubMed
+NEG_CONVERTS_TO,C0017767,Glucosinolates,orch,C0074769,sodium sulfate,inch,PubMed
+NEG_CONVERTS_TO,C0008377,cholesterol,bacs,C4277571,Oxysterols,bacs,PubMed
+NEG_CONVERTS_TO,C0000970,acetaminophen,orch,C0002771,Analgesics,phsu,PubMed
+NEG_CONVERTS_TO,C0000970,acetaminophen,orch,C0003419,Antipyretics,phsu,PubMed
+NEG_CONVERTS_TO,C5139840,Bifunctional epoxide hydrolase 2,aapp,C0021760,interleukin-6,gngm,PubMed
+NEG_CONVERTS_TO,C0002508,Amines,orch,C0600437,Nitric Oxide Donors,phsu,PubMed
+NEG_CONVERTS_TO,C0031264,Petroleum,orch,C0582263,Structural protein,gngm,PubMed
+NEG_CONVERTS_TO,C0001962,ethanol,orch,C0000966,acetaldehyde,orch,PubMed
+NEG_CONVERTS_TO,C0018927,Hematin,bacs,C0062496,hemozoin,bacs,PubMed
+NEG_CONVERTS_TO,C0034665,ranitidine,orch,C0012431,Dimethylnitrosamine,hops,PubMed
+NEG_CONVERTS_TO,C0020289,Hydrolase,aapp,C0032594,Polysaccharides,orch,PubMed
+NEG_CONVERTS_TO,C0042285,Valine,aapp,C0377955,isobutyryl-coenzyme A,lipd,PubMed
+NEG_CONVERTS_TO,C0069299,ochratoxin A,hops,C0001047,acetylcysteine,gngm,PubMed
+NEG_CONVERTS_TO,C0023749,linoleic acid,bacs,C0050156,Conjugated Linoleic Acid,orch,PubMed
+NEG_CONVERTS_TO,C0242903,"Anesthetics, Inhalation",phsu,C0521390,neuronal,imft,PubMed
+NEG_CONVERTS_TO,C0301719,Indirect reacting bilirubin,bacs,C0236556,Direct reacting bilirubin,bacs,PubMed
+NEG_CONVERTS_TO,C0008864,citrulline,aapp,C0029277,ornithine,gngm,PubMed
+NEG_CONVERTS_TO,C0077436,tryptoline,orch,C1566558,Natural Products,bacs,PubMed
+NEG_CONVERTS_TO,C0022023,Ions,elii,C0279516,Anti-Bacterial Agents,antb,PubMed
+NEG_CONVERTS_TO,C0031453,phenylalanine,aapp,C0047645,3-nitrotyrosine,gngm,PubMed
+NEG_CONVERTS_TO,C0035693,"RNA, Double-Stranded",bacs,C1099354,"RNA, Small Interfering",bacs,PubMed
+NEG_CONVERTS_TO,C0014442,Enzymes,aapp,C1512423,Heterocyclic Amines,orch,PubMed
+NEG_CONVERTS_TO,C0015691,"Fatty Acids, Volatile",bacs,C0025617,Methane,orch,PubMed
+NEG_CONVERTS_TO,C0876769,iron carbonyl,inch,C0060240,ferric oxide,inch,PubMed
+NEG_CONVERTS_TO,C0031453,phenylalanine,aapp,C0041485,tyrosine,gngm,PubMed
+NEG_CONVERTS_TO,C0017725,glucose,bacs,C0022924,Lactates,orch,PubMed
+NEG_CONVERTS_TO,C0085249,glycosyltransferase,aapp,C0001911,albendazole,orch,PubMed
+NEG_CONVERTS_TO,C0916181,Sarcoplasmic Reticulum Calcium-Transporting ATPases,aapp,C0003392,Antineoplastic Agents,orch,PubMed
+NEG_CONVERTS_TO,C1700874,axitinib,orch,C3658706,pembrolizumab,gngm,PubMed
+NEG_CONVERTS_TO,C0035549,ribose,orch,C0016333,Fluoroacetates,hops,PubMed
+NEG_CONVERTS_TO,C0108796,CD64 Antigen,imft,C0021027,Immunoglobulins,aapp,PubMed
+NEG_CONVERTS_TO,C0006948,Carbamates,orch,C0011122,decoquinate,orch,PubMed
+NEG_CONVERTS_TO,C0022634,Ketones,orch,C0022914,Lactams,antb,PubMed
+NEG_CONVERTS_TO,C0029923,ovalbumin,aapp,C0029960,Ovomucin,aapp,PubMed
+NEG_CONVERTS_TO,C1440128,Benzene ring,orch,C0020245,"Hydrocarbons, Aromatic",orch,PubMed
+NEG_CONVERTS_TO,C1705504,KAT5 wt Allele,gngm,C0004409,Auxins,bacs,PubMed
+NEG_CONVERTS_TO,C0051466,alpha-terpineol,orch,C0039561,Terpenes,bacs,PubMed
+NEG_CONVERTS_TO,C0000975,acetate,orch,C0001962,ethanol,orch,PubMed
+NEG_CONVERTS_TO,C0024643,malondialdehyde,bacs,C0034338,pyruvaldehyde,orch,PubMed
+NEG_CONVERTS_TO,C0002520,Amino Acids,aapp,C0001898,alanine,gngm,PubMed
+NEG_CONVERTS_TO,C0748603,seizure medication,phsu,C0521390,neuronal,imft,PubMed
+NEG_CONVERTS_TO,C0015870,Ferrihaem,bacs,C0283243,zinc protoporphyrin IX,bacs,PubMed
+NEG_CONVERTS_TO,C0960713,oleanane,orch,C0675992,ginsenoside M1,orch,PubMed
+NEG_CONVERTS_TO,C2000771,ocotillol,orch,C0675992,ginsenoside M1,orch,PubMed
+NEG_CONVERTS_TO,C0663241,linezolid,orch_phsu_orch,C0057144,Daptomycin,aapp_gngm_antb_gngm,MIMIC
